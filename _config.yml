@@ -49,6 +49,7 @@ markdown: redcarpet
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
+highlighter: rouge
 
 kramdown:
   auto_ids: true
