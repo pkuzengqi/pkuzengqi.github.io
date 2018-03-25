@@ -3,7 +3,7 @@
 pubs:   
   - title: "aaa"
     author: "bbb"
-    type: "ACL 2018"
+    conf: "ACL 2018"
     slides: "https://arxiv.org/list/cs.CL/recent"
     code: "https://arxiv.org/list/cs.CL/recent"
     url: 2006pdpta.pdf
@@ -48,17 +48,13 @@ See [acwing].
 {% unless pub.hidden %}
   - {% if pub.url %} [{{pub.title}}]({{pub.url}}).
     {% else %} {{pub.title}}.
-    {% endif %}
-    {% if pub.type %}({{pub.type}})
+    {% endif %}{% if pub.conf %}({{pub.conf}})
     {% endif %}<br>
     {{pub.author}}.<br>
     {% if pub.address %}{{pub.address}}.
-    {% endif %}
-    {% if pub.slides %}[Slides]({{pub.slides}}).
-    {% endif %}
-    {% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
-    {% endif %}
-    {% if pub.code %}[Code]({{pub.code}}).
+    {% endif %}{% if pub.slides %}[Slides]({{pub.slides}}).
+    {% endif %}{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
+    {% endif %}{% if pub.code %}[Code]({{pub.code}}).
     {% endif %}
 {% endunless %}
 {% endfor %}
