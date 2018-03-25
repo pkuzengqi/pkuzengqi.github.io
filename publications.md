@@ -11,7 +11,6 @@ pubs:
     bibtex: 2006pdpta.bib
 
 
-{% comment %}
   - key: "ansel:pact:2014"
     author: "Jason Ansel, Shoaib Kamil, Kalyan Veeramachaneni, Jonathan Ragan-Kelley, Jeffrey Bosboom, Una-May O'Reilly, Saman Amarasinghe"
     title: "OpenTuner: An Extensible Framework for Program Autotuning"
@@ -33,7 +32,6 @@ pubs:
     url: 2006pdpta.pdf
     bibtex: 2006pdpta.bib
 
-{% endcomment %}
 
 
 
