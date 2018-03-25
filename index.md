@@ -18,7 +18,6 @@ pubs:
 
 
 
-
 My name is Qi Zeng.  I am a senior year student at Peking University.
 
 See [acwing].
@@ -28,9 +27,9 @@ See [acwing].
 
 <img src="/images/brown.jpg" class="floatpic" width="200" height="200">
 
+
+
 <br>
-
-
 ## Publications
 
 {% for pub in page.pubs %}
@@ -38,11 +37,12 @@ See [acwing].
   - {% if pub.url %} [{{pub.title}}]({{pub.url}}).{% else %} {{pub.title}}.{% endif %}
     {{pub.author}}.<br>
     {% if pub.conf %}({{pub.conf}}){% endif %}<br>
-    {% if pub.Code %}[Code]({{pub.slides}}).{% endif %}
+    {% if pub.code %}[Code]({{pub.code}}).{% endif %}
     {% if pub.slides %}[Slides]({{pub.slides}}).{% endif %}
 	{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).{% endif %}
 {% endunless %}
 {% endfor %}
+
 
 {% for pub in page.pubs %}
 {% unless pub.hidden %}
@@ -51,20 +51,18 @@ See [acwing].
     {% endif %}{% if pub.type %}({{pub.type}})
     {% endif %}<br>
     {{pub.author}}.<br>
-    {% if pub.type == 'Technical Report' %}{{pub.number}}
-    {% endif %}{{pub.booktitle}}{{pub.school}}{{pub.journal}}.<br>
     {% if pub.address %}{{pub.address}}.
-    {% endif %} {{pub.month}}, {{pub.year}}. {% if pub.slides %}[Slides]({{pub.slides}}).
-    {% endif %}{% if pub.key %}[Bibtex](http://groups.csail.mit.edu/commit/bibtex.cgi?key={{pub.key}}).
+    {% endif %}{% if pub.slides %}[Slides]({{pub.slides}}).
     {% endif %}{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
+    {% endif %}{% if pub.code %}[Code]({{pub.code}}).
     {% endif %}
 {% endunless %}
 {% endfor %}
 
 
 
-<br>
 
+<br>
 ## Academic Experience
 
 
@@ -86,9 +84,8 @@ See [acwing].
 
 [icl]:icl.pku.edu.cn/
 
+
 <br>
-
-
 ## Work Experience
 
 
