@@ -6,8 +6,8 @@ pubs:
     conf: "ACL 2018"
     slides: "https://arxiv.org/list/cs.CL/recent"
     code: "https://arxiv.org/list/cs.CL/recent"
-    url: /publications/2006pdpta.pdf
-    bibtex: /publications/2006pdpta.bib
+    url: "https://arxiv.org/list/cs.CL/recent"
+    bibtex: "https://arxiv.org/list/cs.CL/recent"
 
 ---
 
@@ -56,7 +56,8 @@ See [acwing].
 
 
 
-### (SUNY) Stony Brook University  (2018 - present: PhD in Computer Science)
+### (SUNY) Stony Brook University  
+  - PhD in Computer Science, 2018 - present
   - Advisor: [H. Andrew Schwartz][has]
   - Research Assistant: [The HLAB: Human Language Analysis Beings][HLAB] (2018-present)
   - Teaching Assistant: ? (Fall 2018)
@@ -67,11 +68,10 @@ See [acwing].
 
 
 
-### Peking University (2013 - 2018: BS in Information Science)
-  - Research Assistant: [Institute of Computational Linguistics][icl], Peking University(2017-2018)
+### Peking University 
+  - BS in Information Science, 2013 - 2018
+  - Research Assistant: Institute of Computational Linguistics, Peking University(2017-2018)
   - Teaching Assistant: Study and Practice on Topics of Frontier Computing(I) (Fall 2017)
-
-[icl]:icl.pku.edu.cn/
 
 
 <br>
@@ -79,13 +79,13 @@ See [acwing].
 
 
 
-### Microsoft Research Asia (01/2018 - 07/2017)
-  - Research Intern at Big Data Mining Group
+### Microsoft Research Asia 
+  - Research Intern at Big Data Mining Group, 01/2018 - 07/2017
 
 
 
-### Microsoft Search Technology Center Asia (03/2017 - 12/2017)
-  - Software Engineer Intern at Xiaoice Group
+### Microsoft Search Technology Center Asia 
+  - Software Engineer Intern at Xiaoice Group, 03/2017 - 12/2017
 
 
 
