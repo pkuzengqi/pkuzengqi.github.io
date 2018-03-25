@@ -3,7 +3,7 @@
 pubs:   
   - title: "aaa"
     author: "bbb"
-    conf: "ACL 2018"
+    type: "ACL 2018"
     slides: "https://arxiv.org/list/cs.CL/recent"
     code: "https://arxiv.org/list/cs.CL/recent"
     url: 2006pdpta.pdf
