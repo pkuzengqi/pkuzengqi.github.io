@@ -6,8 +6,8 @@ pubs:
     conf: "ACL 2018"
     slides: "https://arxiv.org/list/cs.CL/recent"
     code: "https://arxiv.org/list/cs.CL/recent"
-    url: 2006pdpta.pdf
-    bibtex: 2006pdpta.bib
+    url: /publications/2006pdpta.pdf
+    bibtex: /publications/2006pdpta.bib
 
 ---
 
@@ -31,17 +31,6 @@ See [acwing].
 
 <br>
 ## Publications
-
-{% for pub in page.pubs %}
-{% unless pub.hidden %}
-  - {% if pub.url %} [{{pub.title}}]({{pub.url}}).{% else %} {{pub.title}}.{% endif %}
-    {{pub.author}}.<br>
-    {% if pub.conf %}({{pub.conf}}){% endif %}<br>
-    {% if pub.code %}[Code]({{pub.code}}).{% endif %}
-    {% if pub.slides %}[Slides]({{pub.slides}}).{% endif %}
-	{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).{% endif %}
-{% endunless %}
-{% endfor %}
 
 
 {% for pub in page.pubs %}
