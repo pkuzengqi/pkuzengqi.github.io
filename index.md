@@ -7,9 +7,9 @@ pubs:
   - title: "aaa"
     author: "bbb"
     booktitle: "ACL 2018"
-    year: 2018
     url: 2006pdpta.pdf
     bibtex: 2006pdpta.bib
+    slides: "https://arxiv.org/list/cs.CL/recent"
 
 ---
 
