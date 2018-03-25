@@ -82,7 +82,7 @@ See [acwing].
 
 
 
-### Microsoft Search Technology Center Asia (03/2017 - 12/2017)
+### Microsoft STC Asia (03/2017 - 12/2017)
   - Software Engineer Intern at Xiaoice Group
 
 
