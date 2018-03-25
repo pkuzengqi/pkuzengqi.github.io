@@ -48,13 +48,17 @@ See [acwing].
 {% unless pub.hidden %}
   - {% if pub.url %} [{{pub.title}}]({{pub.url}}).
     {% else %} {{pub.title}}.
-    {% endif %}{% if pub.type %}({{pub.type}})
+    {% endif %}
+    {% if pub.type %}({{pub.type}})
     {% endif %}<br>
     {{pub.author}}.<br>
     {% if pub.address %}{{pub.address}}.
-    {% endif %}{% if pub.slides %}[Slides]({{pub.slides}}).
-    {% endif %}{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
-    {% endif %}{% if pub.code %}[Code]({{pub.code}}).
+    {% endif %}
+    {% if pub.slides %}[Slides]({{pub.slides}}).
+    {% endif %}
+    {% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
+    {% endif %}
+    {% if pub.code %}[Code]({{pub.code}}).
     {% endif %}
 {% endunless %}
 {% endfor %}
