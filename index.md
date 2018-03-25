@@ -18,23 +18,6 @@ pubs:
 
 
 
-## Biography
-
-I am a senior year student at Peking University.
-
-See my [CV](./pkuzengqi.github.io/online-cv/).
-
-## Updates
-
-[acwing](www.acwing.com)
-
-[mark down](tutorial.md)
-
-
-## Publications
-
-None
-
 ## About Me
 
 <img src="/images/brown.jpg" class="floatpic" width="200" height="200">
@@ -47,13 +30,7 @@ See [acwing].
 [acwing]: http://acwing.com
 
 
-
 <br>
-<br>
-<br>
-<br>
-<br>
-
 
 
 ## Publications
@@ -72,17 +49,10 @@ See [acwing].
 
 
 <br>
-<br>
-<br>
-<br>
-<br>
-
-
-
 
 ## Academic Experience
 
-<br>
+
 
 ### (SUNY) Stony Brook University  (2018 - present: PhD in Computer Science)
   - Advisor: [H. Andrew Schwartz][has]
@@ -93,7 +63,7 @@ See [acwing].
 [has]:http://www3.cs.stonybrook.edu/~has/
 [HLAB]:http://hlab.cs.stonybrook.edu/
 
-<br>
+
 
 ### Peking University (2013 - 2018: BS in Information Science)
   - Research Assistant: [Institute of Computational Linguistics][icl], Peking University(2017-2018)
@@ -102,22 +72,16 @@ See [acwing].
 [icl]:icl.pku.edu.cn/
 
 <br>
-<br>
-<br>
-<br>
-<br>
-
-
 
 
 ## Work Experience
 
-<br>
+
 
 ### Microsoft Research Asia (01/2018 - 07/2017)
   - Research Intern at Big Data Mining Group
 
-<br>
+
 
 ### Microsoft Search Technology Center Asia (03/2017 - 12/2017)
   - Software Engineer Intern at Xiaoice Group
