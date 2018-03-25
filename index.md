@@ -1,6 +1,16 @@
 ---
 layout: page
 title: Qi Zeng
+
+
+pubs:   
+  - title: "aaa"
+    author: "bbb"
+    booktitle: "ACL 2018"
+    year: 2018
+    url: 2006pdpta.pdf
+    bibtex: 2006pdpta.bib
+
 ---
 
 # About Me
@@ -14,3 +24,47 @@ See [acwing].
 
 [acwing]: http://acwing.com
 
+# Publications
+
+{% for pub in page.pubs %}
+{% unless pub.hidden %}
+  - {% if pub.url %} [{{pub.title}}]({{pub.url}}).
+    {% else %} {{pub.title}}.
+    {% endif %}{% if pub.type %}({{pub.type}})
+    {% endif %}<br>
+    {{pub.author}}.<br>
+    {% if pub.type == 'Technical Report' %}{{pub.number}}
+    {% endif %}{{pub.booktitle}}{{pub.school}}{{pub.journal}}.<br>
+    {% if pub.address %}{{pub.address}}.
+    {% endif %} {{pub.month}}, {{pub.year}}. {% if pub.slides %}[Slides]({{pub.slides}}).
+    {% endif %}{% if pub.key %}[Bibtex](http://groups.csail.mit.edu/commit/bibtex.cgi?key={{pub.key}}).
+    {% endif %}{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
+    {% endif %}
+{% endunless %}
+{% endfor %}
+
+
+# Academic Experience
+
+### (SUNY) Stony Brook University  (2018 - present: PhD in Computer Science)
+  - Advisor: [H. Andrew Schwartz][has]
+  - Research Assistant: The HLAB: Human Language Analysis Beings (2018-present)
+  - Teaching Assistant: ? (Fall 2018)
+
+
+[has]:http://www3.cs.stonybrook.edu/~has/
+
+### Peking University (2013 - 2018: BS in Information Science)
+  - Research Assistant: Institute of Computational Linguistics, Peking University (2017-2018)
+  - Teaching Assistant: Study and Practice on Topics of Frontier Computing(I) (Fall 2017)
+
+
+
+# Work Experience
+
+
+### Microsoft Research Asia (01/2018 - 07/2017)
+  - Research Intern at Big Data Mining Group
+
+### Microsoft Search Technology Center Asia (03/2017 - 12/2017)
+  - Software Engineer Intern at Xiaoice Group

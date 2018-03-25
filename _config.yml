@@ -27,9 +27,9 @@ google_verify:
 bing_verify:
 
 # Links to include in top navigation
-# For external links add external: true
+ For external links add external: false
 links:
-  - title: About Me
+  - title: Qi Zeng
     url: /
   - title: Publications
     url: /publications/
