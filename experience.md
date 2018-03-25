@@ -6,7 +6,7 @@ title: Experience
 
 # Academic Experience
 
-### (SUNY) Stony Brook University  (2018-present: PhD in Computer Science)
+### (SUNY) Stony Brook University  (2018 - present: PhD in Computer Science)
   - Advisor: [H. Andrew Schwartz][has]
   - Research Assistant: The HLAB: Human Language Analysis Beings (2018-present)
   - Teaching Assistant: ? (Fall 2018)
@@ -14,7 +14,7 @@ title: Experience
 
 [has]:http://www3.cs.stonybrook.edu/~has/
 
-### Peking University (2013-2018: BS in Information Science)
+### Peking University (2013 - 2018: BS in Information Science)
   - Research Assistant: Institute of Computational Linguistics, Peking University (2017-2018)
   - Teaching Assistant: Study and Practice on Topics of Frontier Computing(I) (Fall 2017)
 
