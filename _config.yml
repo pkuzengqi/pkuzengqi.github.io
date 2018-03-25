@@ -2,12 +2,12 @@ title: Qi Zeng
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: qizeng.site
+url: pkuzengqi.github.io
 
 # Owner/author information
 owner:
   name:           Qi Zeng
-  avatar:         /images/brown.jpg
+  avatar:         brown.jpg
 #  bio:
   email:          pkuzengqi@pku.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -34,7 +34,7 @@ links:
  # - title: Projects
  #   url: /projects/
   - title: Publications
-    url: pkuzengqi.github.io/publications/
+    url: /publications/
   - title: Experience
     url: /experience/
  # - title: Hobbies
