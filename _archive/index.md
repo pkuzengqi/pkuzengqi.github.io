@@ -1,4 +1,7 @@
 ---
+layout: page
+title: 
+
 
 pubs:   
   - title: "aaa"
@@ -11,31 +14,7 @@ pubs:
 
 ---
 
-
-
-
-## Hi!
-
-
-
-## Biography
-
-I am a senior year student at Peking University.
-
-See my [CV](./pkuzengqi.github.io/online-cv/).
-
-## Updates
-
-[acwing](www.acwing.com)
-
-[mark down](tutorial.md)
-
-
-## Publications
-
-None
-
-## About Me
+# About Me
 
 <img src="/images/brown.jpg" class="floatpic" width="200" height="200">
 
@@ -56,7 +35,7 @@ See [acwing].
 
 
 
-## Publications
+# Publications
 
 {% for pub in page.pubs %}
 {% unless pub.hidden %}
@@ -80,9 +59,7 @@ See [acwing].
 
 
 
-## Academic Experience
-
-<br>
+# Academic Experience
 
 ### (SUNY) Stony Brook University  (2018 - present: PhD in Computer Science)
   - Advisor: [H. Andrew Schwartz][has]
@@ -110,9 +87,8 @@ See [acwing].
 
 
 
-## Work Experience
+# Work Experience
 
-<br>
 
 ### Microsoft Research Asia (01/2018 - 07/2017)
   - Research Intern at Big Data Mining Group
