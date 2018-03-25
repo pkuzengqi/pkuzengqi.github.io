@@ -6,11 +6,14 @@
 
 I am a senior year student at Peking University.
 
+See my [CV](https://pkuzengqi.github.io/online-cv/).
+
 ## Updates
 
 [acwing](acwing.com)
 
-[mark down](\tutorial.md)
+[mark down](pkuzengqi.github.io/tutorial.md)
+
 
 ## Publications
 
