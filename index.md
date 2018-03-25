@@ -68,7 +68,7 @@ See [acwing].
 
 
 ### Peking University (BS in Information Science, 2013 - 2018)
-  - Research Assistant: Institute of Computational Linguistics, Peking University(2017-2018)
+  - Research Assistant: Institute of Computational Linguistics, Peking University (2017-2018)
   - Teaching Assistant: Study and Practice on Topics of Frontier Computing(I) (Fall 2017)
 
 
@@ -77,7 +77,7 @@ See [acwing].
 
 
 
-### Microsoft Research Asia (01/2018 - 07/2017)
+### Microsoft Research Asia (01/2018 - 07/2018)
   - Research Intern at Big Data Mining Group
 
 
