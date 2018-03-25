@@ -2,9 +2,7 @@
 layout: page
 permalink: /publications/index.html
 title: Publications
-pubs:
-
-    
+pubs:   
   - title: "aaa"
     author: "bbb"
     booktitle: "ACL 2018"
