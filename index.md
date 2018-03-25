@@ -14,7 +14,7 @@ pubs:
 
 
 
-## Hi!
+# Hi!
 
 
 
@@ -30,7 +30,7 @@ See [acwing].
 
 
 <br>
-## Publications
+# Publications
 
 
 {% for pub in page.pubs %}
@@ -52,11 +52,11 @@ See [acwing].
 
 
 <br>
-## Academic Experience
+# Academic Experience
 
 
 
-### (SUNY) Stony Brook University (PhD in Computer Science, 2018 - present) 
+### SUNY Stony Brook University (PhD in Computer Science, 2018 - present) 
   - Advisor: [H. Andrew Schwartz][has]
   - Research Assistant: [The HLAB: Human Language Analysis Beings][HLAB] (2018-present)
   - Teaching Assistant: ? (Fall 2018)
