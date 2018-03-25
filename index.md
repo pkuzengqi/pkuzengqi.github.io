@@ -4,10 +4,10 @@ pubs:
   - title: "aaa"
     author: "bbb"
     conf: "ACL 2018"
-    url: 2006pdpta.pdf
-    bibtex: 2006pdpta.bib
     slides: "https://arxiv.org/list/cs.CL/recent"
     code: "https://arxiv.org/list/cs.CL/recent"
+    url: 2006pdpta.pdf
+    bibtex: 2006pdpta.bib
 
 ---
 
@@ -18,9 +18,6 @@ pubs:
 
 
 
-## About Me
-
-<img src="/images/brown.jpg" class="floatpic" width="200" height="200">
 
 My name is Qi Zeng.  I am a senior year student at Peking University.
 
@@ -29,6 +26,7 @@ See [acwing].
 
 [acwing]: http://acwing.com
 
+<img src="/images/brown.jpg" class="floatpic" width="200" height="200">
 
 <br>
 
