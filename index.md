@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tit
+title: 
 
 
 pubs:   
@@ -68,17 +68,18 @@ See [acwing].
 
 ### (SUNY) Stony Brook University  (2018 - present: PhD in Computer Science)
   - Advisor: [H. Andrew Schwartz][has]
-  - Research Assistant: The HLAB: Human Language Analysis Beings (2018-present)
+  - Research Assistant: [The HLAB: Human Language Analysis Beings][HLAB] (2018-present)
   - Teaching Assistant: ? (Fall 2018)
 
 
 [has]:http://www3.cs.stonybrook.edu/~has/
+[HLAB]:http://hlab.cs.stonybrook.edu/
 
 ### Peking University (2013 - 2018: BS in Information Science)
-  - Research Assistant: Institute of Computational Linguistics, Peking University (2017-2018)
+  - Research Assistant: [Institute of Computational Linguistics, Peking University][icl] (2017-2018)
   - Teaching Assistant: Study and Practice on Topics of Frontier Computing(I) (Fall 2017)
 
-
+[icl]:icl.pku.edu.cn/
 
 <br>
 <br>
@@ -97,3 +98,12 @@ See [acwing].
 
 ### Microsoft Search Technology Center Asia (03/2017 - 12/2017)
   - Software Engineer Intern at Xiaoice Group
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
