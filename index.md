@@ -85,7 +85,7 @@ See [acwing].
 
 
 ### Microsoft STC Asia (03/2017 - 12/2017)
-  - Software Engineer Intern at Xiaoice Group
+  - NLP Algorithm Intern at Xiaoice Group
 
 
 
