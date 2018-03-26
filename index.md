@@ -18,7 +18,7 @@ pubs:
 
 
 
-My name is Qi Zeng.  I am a senior year student at Peking University.
+My name is Qi Zeng. I am a senior year student at Peking University.
 
 See [acwing].
 
@@ -59,7 +59,7 @@ See [acwing].
 ### SUNY Stony Brook University (PhD in Computer Science, 2018 - present) 
   - Advisor: [H. Andrew Schwartz][has]
   - Research Assistant: [The HLAB: Human Language Analysis Beings][HLAB] (2018-present)
-  - Teaching Assistant: ? (Fall 2018)
+  - Teaching Assistant: ?? (Fall 2018)
 
 
 [has]:http://www3.cs.stonybrook.edu/~has/
