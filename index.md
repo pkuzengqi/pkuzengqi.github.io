@@ -1,7 +1,7 @@
 ---
 
 pubs:   
-  1. title: "aaa"
+  - title: "aaa"
     author: "bbb"
     conf: "ACL 2018 long paper"
     slides: "https://arxiv.org/list/cs.CL/recent"
@@ -9,7 +9,7 @@ pubs:
     url: "https://arxiv.org/list/cs.CL/recent"
     bibtex: "https://arxiv.org/list/cs.CL/recent"
 
-  2. title: "aaa"
+  - title: "aaa"
     author: "bbb"
     conf: "ACL 2018 short paper"
     slides: "https://arxiv.org/list/cs.CL/recent"
