@@ -1,7 +1,7 @@
 ---
 
 pubs:   
-  - title: "aaa"
+  1. title: "aaa"
     author: "bbb"
     conf: "ACL 2018 long paper"
     slides: "https://arxiv.org/list/cs.CL/recent"
@@ -9,6 +9,13 @@ pubs:
     url: "https://arxiv.org/list/cs.CL/recent"
     bibtex: "https://arxiv.org/list/cs.CL/recent"
 
+  2. title: "aaa"
+    author: "bbb"
+    conf: "ACL 2018 short paper"
+    slides: "https://arxiv.org/list/cs.CL/recent"
+    code: "https://arxiv.org/list/cs.CL/recent"
+    url: "https://arxiv.org/list/cs.CL/recent"
+    bibtex: "https://arxiv.org/list/cs.CL/recent"
 ---
 
 
@@ -70,10 +77,8 @@ See [acwing].
 
 
 ### Peking University (BS in Information Science, 2013 - 2018)
-  - Research Assistant: 
-  Institute of Computational Linguistics, Peking University (2017-2018)
-  - Teaching Assistant: 
-  Study and Practice on Topics of Frontier Computing(I) (Fall 2017)
+  - Research Assistant: Institute of Computational Linguistics, Peking University (2017-2018)
+  - Teaching Assistant: Study and Practice on Topics of Frontier Computing(I) (Fall 2017)
 
 
 <br>
