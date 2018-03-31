@@ -7,7 +7,7 @@ pubs2018:
     slides: "https://arxiv.org/list/cs.CL/recent"
     code: "https://arxiv.org/list/cs.CL/recent"
     url: "https://arxiv.org/list/cs.CL/recent"
-    bibtex: "https://arxiv.org/list/cs.CL/recent"
+    data: "https://arxiv.org/list/cs.CL/recent"
 
   - title: "aaa"
     author: "bbb"
@@ -46,7 +46,7 @@ My name is Qi Zeng. I am a senior year student at Peking University.
     {{pub.author}}.<br>
     {% if pub.address %}{{pub.address}}.
     {% endif %}{% if pub.slides %}[Slides]({{pub.slides}}).
-    {% endif %}{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
+    {% endif %}{% if pub.data %}[Bibtex]({{pub.data}}).
     {% endif %}{% if pub.code %}[Code]({{pub.code}}).
     {% endif %}
 {% endunless %}
