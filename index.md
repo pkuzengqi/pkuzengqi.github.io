@@ -40,10 +40,11 @@ My name is Qi Zeng. I am a senior year student at Peking University.
 {% for pub in page.pubs2018 %}
 {% unless pub.hidden %}
   - {% if pub.url %} [{{pub.title}}]({{pub.url}}).
-    {% else %} {{pub.title}}.
-    {% endif %}{% if pub.conf %}({{pub.conf}})
-    {% endif %}<br>
+    {% else %} {{pub.title}}.<br>
+    {% endif %}
     {{pub.author}}.<br>
+    {% if pub.conf %}({{**pub.conf**}})
+    {% endif %}<br>
     {% if pub.address %}{{pub.address}}.
     {% endif %}{% if pub.slides %}[Slides]({{pub.slides}}).
     {% endif %}{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
