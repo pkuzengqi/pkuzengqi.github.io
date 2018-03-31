@@ -46,7 +46,7 @@ My name is Qi Zeng. I am a senior year student at Peking University.
     {{pub.author}}.<br>
     {% if pub.address %}{{pub.address}}.
     {% endif %}{% if pub.slides %}[Slides]({{pub.slides}}).
-    {% endif %}{% if pub.data %}[Bibtex]({{pub.data}}).
+    {% endif %}{% if pub.data %}[Data]({{pub.data}}).
     {% endif %}{% if pub.code %}[Code]({{pub.code}}).
     {% endif %}
 {% endunless %}
