@@ -1,6 +1,6 @@
 ---
 
-pubs:   
+pubs2018:   
   - title: "aaa"
     author: "bbb"
     conf: "ACL 2018 long paper"
@@ -11,11 +11,13 @@ pubs:
 
   - title: "aaa"
     author: "bbb"
-    conf: "ACL 2018 short paper"
+    conf: "COLING 2018 long paper"
     slides: "https://arxiv.org/list/cs.CL/recent"
     code: "https://arxiv.org/list/cs.CL/recent"
     url: "https://arxiv.org/list/cs.CL/recent"
     bibtex: "https://arxiv.org/list/cs.CL/recent"
+
+
 ---
 
 
@@ -27,10 +29,7 @@ pubs:
 
 My name is Qi Zeng. I am a senior year student at Peking University.
 
-See [acwing].
 
-
-[acwing]: http://acwing.com
 
 <img src="/images/brown.jpg" class="floatpic" width="200" height="200">
 
@@ -39,8 +38,9 @@ See [acwing].
 <br>
 # Publications
 
+### 2018
 
-{% for pub in page.pubs %}
+{% for pub in page.pubs2018 %}
 {% unless pub.hidden %}
   - {% if pub.url %} [{{pub.title}}]({{pub.url}}).
     {% else %} {{pub.title}}.
@@ -84,6 +84,8 @@ See [acwing].
 <br>
 # Work Experience
 
+### [Acwing] (03/2018 - present)
+  - Cofounder
 
 
 ### Microsoft Research Asia (01/2018 - 07/2018)
@@ -94,7 +96,7 @@ See [acwing].
 ### Microsoft STC Asia (03/2017 - 12/2017)
   - NLP Algorithm Intern at Xiaoice Group
 
-
+[Acwing]: http://acwing.com
 
 <br>
 <br>
