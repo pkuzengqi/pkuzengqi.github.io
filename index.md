@@ -12,10 +12,7 @@ pubs2018:
   - title: "aaa"
     author: "bbb"
     conf: "COLING 2018 long paper"
-    slides: "https://arxiv.org/list/cs.CL/recent"
-    code: "https://arxiv.org/list/cs.CL/recent"
     url: "https://arxiv.org/list/cs.CL/recent"
-    bibtex: "https://arxiv.org/list/cs.CL/recent"
 
 
 ---
@@ -77,8 +74,10 @@ My name is Qi Zeng. I am a senior year student at Peking University.
 
 
 ### Peking University (BS in Information Science, 2013 - 2018)
-  - Research Assistant: Institute of Computational Linguistics, Peking University (2017-2018)
-  - Teaching Assistant: Study and Practice on Topics of Frontier Computing(I) (Fall 2017)
+  - Research Assistant
+    - Institute of Computational Linguistics, Peking University (2017-2018)
+  - Teaching Assistant
+    - Study and Practice on Topics of Frontier Computing(I) (Fall 2017)
 
 
 <br>
