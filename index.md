@@ -84,7 +84,7 @@ My name is Qi Zeng. I am a senior year student at Peking University.
 # Work Experience
 
 ### [Acwing] (03/2018 - present)
-  - Cofounder
+  - Co-founder
 
 
 ### Microsoft Research Asia (01/2018 - 07/2018)
