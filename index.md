@@ -9,17 +9,31 @@ pubs2018:
     url: "https://arxiv.org/list/cs.CL/recent"
     data: "https://arxiv.org/list/cs.CL/recent"
 
-  - title: "Learning Personalized End-to-End Goal-Oriented Dialog"
-    author: "Liangchen Luo, Wenhao Huang, Jingtian Jiang, Qi Zeng, Zaiqing Nie"
-    conf: "the International Conference on Computational Linguistics (COLING). 2018."
-    url: "https://arxiv.org/list/cs.CL/recent"
-
 
 manu:
+  - title: "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning"
+    author: "Jingjing Xu, Xu SUN, Qi Zeng, Xiaodong Zhang, Xuancheng Ren, Houfeng Wang and Wenjie Li"
+    conf: "ACL 2018 (long paper)"
+    slides: "https://arxiv.org/list/cs.CL/recent"
+    code: "https://arxiv.org/list/cs.CL/recent"
+    url: "https://arxiv.org/list/cs.CL/recent"
+    data: "https://arxiv.org/list/cs.CL/recent"
+
   - title: "Learning Personalized End-to-End Goal-Oriented Dialog"
     author: "Liangchen Luo, Wenhao Huang, Jingtian Jiang, Qi Zeng, Zaiqing Nie"
-    conf: "the International Conference on Computational Linguistics (COLING). 2018."
+    conf: "COLING 2018 (long paper)"
+    slides: "https://arxiv.org/list/cs.CL/recent"
+    code: "https://arxiv.org/list/cs.CL/recent"
     url: "https://arxiv.org/list/cs.CL/recent"
+    data: "https://arxiv.org/list/cs.CL/recent"
+
+  - title: "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations"
+    author: "bbb"
+    conf: "COLING 2018 (long paper)"
+    slides: "https://arxiv.org/list/cs.CL/recent"
+    code: "https://arxiv.org/list/cs.CL/recent"
+    url: "https://arxiv.org/list/cs.CL/recent"
+    data: "https://arxiv.org/list/cs.CL/recent"
 
 
 
@@ -56,7 +70,7 @@ My research interests are in two broad areas: Natural Language Processing and Co
     {% else %} {{pub.title}}.
     {% endif %}<br>
     {{pub.author}}.<br>
-    ({{pub.conf}}).<br>
+    {{pub.conf}}.<br>
     {% if pub.address %}{{pub.address}}.
     {% endif %}{% if pub.slides %}[Slides]({{pub.slides}}).
     {% endif %}{% if pub.data %}[Data]({{pub.data}}).
