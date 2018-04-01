@@ -9,10 +9,18 @@ pubs2018:
     url: "https://arxiv.org/list/cs.CL/recent"
     data: "https://arxiv.org/list/cs.CL/recent"
 
-  - title: "aaa"
-    author: "bbb"
-    conf: "COLING 2018 long paper"
+  - title: "Learning Personalized End-to-End Goal-Oriented Dialog"
+    author: "Liangchen Luo, Wenhao Huang, Jingtian Jiang, Qi Zeng, Zaiqing Nie"
+    conf: "the International Conference on Computational Linguistics (COLING). 2018."
     url: "https://arxiv.org/list/cs.CL/recent"
+
+
+manu:
+  - title: "Learning Personalized End-to-End Goal-Oriented Dialog"
+    author: "Liangchen Luo, Wenhao Huang, Jingtian Jiang, Qi Zeng, Zaiqing Nie"
+    conf: "the International Conference on Computational Linguistics (COLING). 2018."
+    url: "https://arxiv.org/list/cs.CL/recent"
+
 
 
 ---
@@ -27,6 +35,11 @@ pubs2018:
 My name is Qi Zeng. I am a senior year student at Peking University.
 
 
+Currently, I am a research assistant of Key Laboratory of Computational Linguistics in Peking University, advised by Prof. [Xu Sun]; and a full-time research intern at Big Data Mining Group, Microsoft® Research Asia. 
+
+My research interests are in two broad areas: Natural Language Processing and Computational Social Science.
+
+[Xu Sun]:http://xusun.org/
 
 <img src="/images/brown.jpg" class="floatpic" width="200" height="200">
 
@@ -41,9 +54,9 @@ My name is Qi Zeng. I am a senior year student at Peking University.
 {% unless pub.hidden %}
   - {% if pub.url %} [{{pub.title}}]({{pub.url}}).
     {% else %} {{pub.title}}.
-    {% endif %}{% if pub.conf %}({{pub.conf}})
     {% endif %}<br>
     {{pub.author}}.<br>
+    ({{pub.conf}}).<br>
     {% if pub.address %}{{pub.address}}.
     {% endif %}{% if pub.slides %}[Slides]({{pub.slides}}).
     {% endif %}{% if pub.data %}[Data]({{pub.data}}).
@@ -51,6 +64,7 @@ My name is Qi Zeng. I am a senior year student at Peking University.
     {% endif %}
 {% endunless %}
 {% endfor %}
+
 
 
 
