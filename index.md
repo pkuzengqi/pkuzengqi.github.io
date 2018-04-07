@@ -49,11 +49,10 @@ manu:
 My name is Qi Zeng. I am a senior year student at Peking University.
 
 
-Currently, I am a research assistant of Key Laboratory of Computational Linguistics in Peking University, advised by Prof. [Xu Sun]; and a full-time research intern at Big Data Mining Group, Microsoft® Research Asia. 
+Currently, I am a research assistant of Key Laboratory of Computational Linguistics in Peking University, and a full-time research intern at Big Data Mining Group, Microsoft Research Asia. 
 
 My research interests are in two broad areas: Natural Language Processing and Computational Social Science.
 
-[Xu Sun]:http://xusun.org/
 
 <img src="/images/brown.jpg" class="floatpic" width="200" height="200">
 
@@ -91,8 +90,10 @@ My research interests are in two broad areas: Natural Language Processing and Co
 ### SUNY Stony Brook University (PhD in Computer Science, 2018 - present) 
 <!---
   - Advisor: [H. Andrew Schwartz][has]
-  - Research Assistant: [The HLAB: Human Language Analysis Beings][HLAB] (2018-present)
-  - Teaching Assistant: ?? (Fall 2018)
+  - Research Assistant
+  	- [The HLAB: Human Language Analysis Beings][HLAB] (2018-present)
+  - Teaching Assistant:
+  	- ?? (Fall 2018)
 -->
 
 
@@ -101,7 +102,7 @@ My research interests are in two broad areas: Natural Language Processing and Co
 
 
 
-### Peking University (BS in Information Science, 2013 - 2018)
+### Peking University (BS, 2013 - 2018)
   - Research Assistant
     - Institute of Computational Linguistics, Peking University (2017-2018)
   - Teaching Assistant
@@ -111,19 +112,17 @@ My research interests are in two broad areas: Natural Language Processing and Co
 <br>
 # Work Experience
 
-### [Acwing] (03/2018 - present)
+### [AcWing] (03/2018 - present)
   - Co-founder
-
 
 ### Microsoft Research Asia (01/2018 - 07/2018)
   - Research Intern at Big Data Mining Group
 
 
-
 ### Microsoft STC Asia (03/2017 - 12/2017)
   - NLP Algorithm Intern at Xiaoice Group
 
-[Acwing]: http://acwing.com
+[AcWing]: http://acwing.com
 
 <br>
 <br>
