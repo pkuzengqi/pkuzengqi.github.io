@@ -63,17 +63,17 @@ My research interests are in two broad areas: Natural Language Processing and Co
 
 ### Manuscripts
 
-1. Jingjing Xu, Xu Sun, **Qi Zeng**, Xiaodong Zhang, Xuancheng Ren, Houfeng Wang and Wenjie Li. <br>
-"Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
-Submitted to **ACL 2018**, under review.
+- "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
+  Jingjing Xu, Xu Sun, **Qi Zeng**, Xiaodong Zhang, Xuancheng Ren, Houfeng Wang and Wenjie Li. <br>
+  Submitted to **ACL 2018**, under review.
 
-2. Liangchen Luo, Wenhao Huang, Jingtian Jiang, **Qi Zeng**, Zaiqing Nie. <br>
-"Learning Personalized End-to-End Goal-Oriented Dialog". <br>
-Subimitted to **COLING 2018**, under review.
+- "Learning Personalized End-to-End Goal-Oriented Dialog". <br>
+  Liangchen Luo, Wenhao Huang, Jingtian Jiang, **Qi Zeng**, Zaiqing Nie. <br>
+  Subimitted to **COLING 2018**, under review.
 
-3. Jingjing Xu, Guangxiang Zhao, Xu Sun, **Qi Zeng**, Xuancheng Ren. <br>
-"Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations". <br>
-Subimitted to **COLING 2018**, under review.
+- "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations". <br>
+  Jingjing Xu, Guangxiang Zhao, Xu Sun, **Qi Zeng**, Xuancheng Ren. <br>
+  Subimitted to **COLING 2018**, under review.
 
 
 <!---
