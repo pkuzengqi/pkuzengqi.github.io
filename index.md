@@ -61,11 +61,7 @@ My research interests are in two broad areas: Natural Language Processing and Co
 <br>
 # Publications
 
-### 2018
-
-[404](qizeng.site)
-
-# Manuscripts
+### Manuscripts
 
 1. Jingjing Xu, Xu Sun, **Qi Zeng**, Xiaodong Zhang, Xuancheng Ren, Houfeng Wang and Wenjie Li. <br>
 "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
