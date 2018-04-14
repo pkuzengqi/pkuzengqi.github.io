@@ -71,7 +71,7 @@ Submitted to **ACL 2018**, under review.
 "Learning Personalized End-to-End Goal-Oriented Dialog". <br>
 Subimitted to **COLING 2018**, under review.
 
-3. Jingjing Xu, Guangxiang zhao, Xu Sun, **Qi Zeng**, Xuancheng Ren. <br>
+3. Jingjing Xu, Guangxiang Zhao, Xu Sun, **Qi Zeng**, Xuancheng Ren. <br>
 "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations". <br>
 Subimitted to **COLING 2018**, under review.
 
