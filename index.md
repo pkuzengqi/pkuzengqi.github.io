@@ -1,16 +1,6 @@
 ---
 
 pubs2018:   
-  - title: "aaa"
-    author: "bbb"
-    conf: "ACL 2018 long paper"
-    slides: "https://arxiv.org/list/cs.CL/recent"
-    code: "https://arxiv.org/list/cs.CL/recent"
-    url: "https://arxiv.org/list/cs.CL/recent"
-    data: "https://arxiv.org/list/cs.CL/recent"
-
-
-manu:
   - title: "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning"
     author: "Jingjing Xu, Xu SUN, Qi Zeng, Xiaodong Zhang, Xuancheng Ren, Houfeng Wang and Wenjie Li"
     conf: "ACL 2018 (long paper)"
@@ -18,24 +8,6 @@ manu:
     code: "https://arxiv.org/list/cs.CL/recent"
     url: "https://arxiv.org/list/cs.CL/recent"
     data: "https://arxiv.org/list/cs.CL/recent"
-
-  - title: "Learning Personalized End-to-End Goal-Oriented Dialog"
-    author: "Liangchen Luo, Wenhao Huang, Jingtian Jiang, Qi Zeng, Zaiqing Nie"
-    conf: "COLING 2018 (long paper)"
-    slides: "https://arxiv.org/list/cs.CL/recent"
-    code: "https://arxiv.org/list/cs.CL/recent"
-    url: "https://arxiv.org/list/cs.CL/recent"
-    data: "https://arxiv.org/list/cs.CL/recent"
-
-  - title: "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations"
-    author: "bbb"
-    conf: "COLING 2018 (long paper)"
-    slides: "https://arxiv.org/list/cs.CL/recent"
-    code: "https://arxiv.org/list/cs.CL/recent"
-    url: "https://arxiv.org/list/cs.CL/recent"
-    data: "https://arxiv.org/list/cs.CL/recent"
-
-
 
 ---
 
@@ -61,11 +33,13 @@ My research interests are in two broad areas: Natural Language Processing and Co
 <br>
 # Publications
 
-### Manuscripts
+### 2018
 
 - "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
   Jingjing Xu, Xu Sun, **Qi Zeng**, Xiaodong Zhang, Xuancheng Ren, Houfeng Wang and Wenjie Li. <br>
-  Submitted to **ACL 2018**, under review.
+  In **ACL 2018**.
+
+### Manuscripts
 
 - "Learning Personalized End-to-End Goal-Oriented Dialog". <br>
   Liangchen Luo, Wenhao Huang, Jingtian Jiang, **Qi Zeng**, Zaiqing Nie. <br>
