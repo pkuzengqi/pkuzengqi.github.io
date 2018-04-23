@@ -23,7 +23,7 @@ My name is Qi Zeng. I am a senior year student at Peking University.
 
 Currently, I am a research assistant of Key Laboratory of Computational Linguistics in Peking University, and a full-time research intern at Big Data Mining Group, Microsoft Research Asia. 
 
-My research interests are in two broad areas: Natural Language Processing and Computational Social Science.
+My research interests include Deep Learning for Natural Language Processing, Natural Language Generation, and Text Summarization.
 
 
 <img src="/images/brown.jpg" class="floatpic" width="200" height="200">
