@@ -37,17 +37,21 @@ My research interests include Deep Learning for Natural Language Processing, Nat
 
 - "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
   Jingjing Xu, Xu Sun, **Qi Zeng**, Xiaodong Zhang, Xuancheng Ren, Houfeng Wang and Wenjie Li. <br>
-  In **ACL 2018**.
+  In **ACL 2018**. [[PDF](https://arxiv.org/pdf/1805.05181.pdf)]
 
 ### Manuscripts
 
 - "Learning Personalized End-to-End Goal-Oriented Dialog". <br>
   Liangchen Luo, Wenhao Huang, Jingtian Jiang, **Qi Zeng**, Zaiqing Nie. <br>
-  Subimitted to **COLING 2018**, under review.
+  Subimitted to **EMNLP 2018**, under review.
 
 - "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations". <br>
   Jingjing Xu, Guangxiang Zhao, Xu Sun, **Qi Zeng**, Xuancheng Ren. <br>
-  Subimitted to **COLING 2018**, under review.
+  Subimitted to **EMNLP 2018**, under review.
+
+- "Text-Assisted Insight Ranking Using Header Semantics and Table Context". <br>
+  **Qi Zeng**, Liangchen Luo, Wenhao Huang, Yang Tang and Shi Han. <br>
+  Subimitted to **CIKM 2018**, under review.
 
 
 <!---
