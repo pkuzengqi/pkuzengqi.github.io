@@ -40,7 +40,7 @@ My research interests include Deep Learning for Natural Language Processing, Nat
 
 - "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
   Jingjing Xu, Xu Sun, **Qi Zeng**, Xiaodong Zhang, Xuancheng Ren, Houfeng Wang and Wenjie Li. <br>
-  In **ACL 2018**. [[PDF](https://arxiv.org/pdf/1805.05181.pdf)]
+  In **ACL 2018**. [[PDF](https://arxiv.org/pdf/1805.05181.pdf)].
 
 ### Manuscripts
 
@@ -49,7 +49,7 @@ My research interests include Deep Learning for Natural Language Processing, Nat
   Subimitted to **CIKM 2018**, under review.
 
 - "An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation". <br>
-  Jingjing Xu, Xu Sun, Xuancheng Ren, **Qi Zeng**, Yi Zhang, Xiaoyan Cai. <br>
+  Jingjing Xu, Xu Sun, Xuancheng Ren, **Qi Zeng**, Yi Zhang, Pengcheng Yang and Xiaoyan Cai. <br>
   Subimitted to **EMNLP 2018**, under review.
 
 - "A Skeleton-Based Model for Promoting Coherence in Narrative Story Generation". <br>
@@ -57,11 +57,12 @@ My research interests include Deep Learning for Natural Language Processing, Nat
   Subimitted to **EMNLP 2018**, under review.
 
 - "Learning Personalized End-to-End Goal-Oriented Dialog". <br>
-  Liangchen Luo, Wenhao Huang, Jingtian Jiang, **Qi Zeng**, Zaiqing Nie. <br>
+  Liangchen Luo, Wenhao Huang, Jingtian Jiang, **Qi Zeng**, Xu Sun and Zaiqing Nie. <br>
   Subimitted to **EMNLP 2018**, under review.
 
 - "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations". <br>
-  Jingjing Xu, Guangxiang Zhao, Xu Sun, **Qi Zeng**. <br>
+  Guangxiang Zhao, Jingjing Xu, Xu Sun, Xuancheng Ren and **Qi Zeng**. <br>
+  Subimitted to **EMNLP 2018**, under review.
 
 
 
