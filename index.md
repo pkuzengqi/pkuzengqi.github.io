@@ -23,11 +23,14 @@ My name is Qi Zeng. I am a senior year student at Peking University.
 
 Currently, I am a research assistant of Key Laboratory of Computational Linguistics in Peking University, and a full-time research intern at Big Data Mining Group, Microsoft Research Asia. 
 
-My research interests include Deep Learning for Natural Language Processing, Natural Language Generation, and Text Summarization.
+My research interests include Deep Learning for Natural Language Processing, Natural Language Generation, and Dialog Systems.
 
 
-<img src="/images/brown.jpg" class="floatpic" width="200" height="200">
+<img src="/images/pku120.jpg" class="floatpic" height="200">
 
+<!--
+ <img src="/images/brown.jpg" class="floatpic" width="200" height="200"> 
+-->
 
 
 <br>
@@ -41,17 +44,27 @@ My research interests include Deep Learning for Natural Language Processing, Nat
 
 ### Manuscripts
 
+- "Text-Assisted Insight Ranking Using Header Semantics and Table Context". <br>
+  **Qi Zeng**, Liangchen Luo, Wenhao Huang, Yang Tang, Shi Han and Dongmei Zhang. <br>
+  Subimitted to **CIKM 2018**, under review.
+
+- "An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation". <br>
+  Jingjing Xu, Xu Sun, Xuancheng Ren, **Qi Zeng**, Yi Zhang, Xiaoyan Cai. <br>
+  Subimitted to **EMNLP 2018**, under review.
+
+- "A Skeleton-Based Model for Promoting Coherence in Narrative Story Generation". <br>
+  Jingjing Xu, Xu Sun, Junyang Lin and **Qi Zeng**. <br>
+  Subimitted to **EMNLP 2018**, under review.
+
 - "Learning Personalized End-to-End Goal-Oriented Dialog". <br>
   Liangchen Luo, Wenhao Huang, Jingtian Jiang, **Qi Zeng**, Zaiqing Nie. <br>
   Subimitted to **EMNLP 2018**, under review.
 
 - "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations". <br>
-  Jingjing Xu, Guangxiang Zhao, Xu Sun, **Qi Zeng**, Xuancheng Ren. <br>
-  Subimitted to **EMNLP 2018**, under review.
+  Jingjing Xu, Guangxiang Zhao, Xu Sun, **Qi Zeng**. <br>
 
-- "Text-Assisted Insight Ranking Using Header Semantics and Table Context". <br>
-  **Qi Zeng**, Liangchen Luo, Wenhao Huang, Yang Tang and Shi Han. <br>
-  Subimitted to **CIKM 2018**, under review.
+
+
 
 
 <!---
