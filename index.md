@@ -49,11 +49,11 @@ My research interests include Deep Learning for Natural Language Processing, Nat
   Subimitted to **CIKM 2018**, under review.
 
 - "An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation". <br>
-  Jingjing Xu, Xu Sun, Xuancheng Ren, **Qi Zeng**, Yi Zhang, Pengcheng Yang and Xiaoyan Cai. <br>
+  Jingjing Xu, Liangchen Luo, Xu Sun, Junyang Lin and **Qi Zeng**. <br>
   Subimitted to **EMNLP 2018**, under review.
 
 - "A Skeleton-Based Model for Promoting Coherence in Narrative Story Generation". <br>
-  Jingjing Xu, Xu Sun, Junyang Lin and **Qi Zeng**. <br>
+  Jingjing Xu, Xu Sun, Xuancheng Ren, **Qi Zeng**, Yi Zhang, Pengcheng Yang and Xiaoyan Cai. <br>
   Subimitted to **EMNLP 2018**, under review.
 
 - "Learning Personalized End-to-End Goal-Oriented Dialog". <br>
