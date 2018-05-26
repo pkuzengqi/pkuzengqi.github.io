@@ -36,6 +36,8 @@ My research interests include Deep Learning for Natural Language Processing, Nat
 <br>
 # Publications
 
+[[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)]
+
 ### 2018
 
 - "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
