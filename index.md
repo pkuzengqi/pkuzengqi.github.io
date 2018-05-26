@@ -112,7 +112,7 @@ My research interests include Deep Learning for Natural Language Processing, Nat
 
 ### Peking University (BS, 2013 - 2018)
   - Research Assistant
-    - Institute of Computational Linguistics, Peking University (2017-2018)
+    - MOE Key Lab of Computational Linguistics, Peking University (2017-2018)
   - Teaching Assistant
     - Study and Practice on Topics of Frontier Computing(I) (Fall 2017)
 
