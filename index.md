@@ -41,7 +41,7 @@ My research interests include Deep Learning for Natural Language Processing, Nat
 ### 2018
 
 - "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
-  Jingjing Xu, Xu Sun, **Qi Zeng**, Xiaodong Zhang, Xuancheng Ren, Houfeng Wang and Wenjie Li. <br>
+  Jingjing Xu, Xu Sun, **Qi Zeng**, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang and Wenjie Li. <br>
   In **ACL 2018**. [[PDF](https://arxiv.org/pdf/1805.05181.pdf)].
 
 ### Manuscripts
