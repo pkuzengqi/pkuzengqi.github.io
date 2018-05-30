@@ -51,23 +51,23 @@ My research interests include Deep Learning for Natural Language Processing, Nat
 
 - "Text-Assisted Insight Ranking Using Header Semantics and Table Context". <br>
   **Qi Zeng**, Liangchen Luo, Wenhao Huang, Yang Tang, Shi Han and Dongmei Zhang. <br>
-  Subimitted to **CIKM 2018**, under review.
+  Submitted to **CIKM 2018**, under review.
 
 - "An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation". <br>
   Jingjing Xu, Liangchen Luo, Xu Sun, Junyang Lin and **Qi Zeng**. <br>
-  Subimitted to **EMNLP 2018**, under review.
+  Submitted to **EMNLP 2018**, under review.
 
 - "A Skeleton-Based Model for Promoting Coherence in Narrative Story Generation". <br>
   Jingjing Xu, Xu Sun, Xuancheng Ren, **Qi Zeng**, Yi Zhang, Pengcheng Yang and Xiaoyan Cai. <br>
-  Subimitted to **EMNLP 2018**, under review.
+  Submitted to **EMNLP 2018**, under review.
 
 - "Learning Personalized End-to-End Goal-Oriented Dialog". <br>
   Liangchen Luo, Wenhao Huang, Jingtian Jiang, **Qi Zeng**, Xu Sun and Zaiqing Nie. <br>
-  Subimitted to **EMNLP 2018**, under review.
+  Submitted to **EMNLP 2018**, under review.
 
 - "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations". <br>
   Guangxiang Zhao, Jingjing Xu, Xu Sun, Xuancheng Ren and **Qi Zeng**. <br>
-  Subimitted to **EMNLP 2018**, under review.
+  Submitted to **EMNLP 2018**, under review.
 
 
 
