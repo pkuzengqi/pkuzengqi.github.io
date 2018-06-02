@@ -25,6 +25,8 @@ Currently, I am a research assistant of Key Laboratory of Computational Linguist
 
 My research interests include Deep Learning for Natural Language Processing, Natural Language Generation, and Dialog Systems.
 
+I will become a Ph.D. student in Computer Science at Stony Brook University this fall.
+
 
 <img src="/images/pku120.jpg" class="floatpic" height="200">
 
@@ -123,15 +125,18 @@ My research interests include Deep Learning for Natural Language Processing, Nat
 <br>
 # Work Experience
 
-### [AcWing] (03/2018 - present)
+### [AcWing](03/2018 - present)
   - Co-founder
+  - Focus: Leetcode Solustion
 
-### Microsoft Research Asia (01/2018 - 07/2018)
+### Microsoft Research Asia (01/2018 - 06/2018)
   - Research Intern at Big Data Mining Group
+  - Focus: Data Mining, Dialog System
 
 
 ### Microsoft STC Asia (03/2017 - 12/2017)
   - NLP Algorithm Intern at Xiaoice Group
+  - Focus: Neural Text Generation, Dialog System
 
 [AcWing]: http://acwing.com
 
