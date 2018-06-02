@@ -125,7 +125,7 @@ I will become a Ph.D. student in Computer Science at Stony Brook University this
 <br>
 # Work Experience
 
-### [AcWing](03/2018 - present)
+### [AcWing](http://acwing.com) (03/2018 - present)
   - Co-founder
   - Focus: Leetcode Solustion
 
