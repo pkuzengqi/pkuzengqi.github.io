@@ -18,7 +18,7 @@ pubs2018:
 
 
 
-My name is Qi Zeng (曾琪). I am a senior year student at Peking University.
+My name is Qi Zeng. I am a senior year student at Peking University.
 
 
 Currently, I am a research assistant of Key Laboratory of Computational Linguistics in Peking University, and a full-time research intern at Big Data Mining Group, Microsoft Research Asia. 
