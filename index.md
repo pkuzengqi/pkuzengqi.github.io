@@ -51,6 +51,8 @@ I will become a Ph.D. student in Computer Science at Stony Brook University this
 
 ### Manuscripts
 
+<!--
+
 - "Text-Assisted Insight Ranking Using Header Semantics and Table Context". <br>
   **Qi Zeng**, Liangchen Luo, Wenhao Huang, Yang Tang, Shi Han and Dongmei Zhang. <br>
   Submitted to **CIKM 2018**, under review.
@@ -71,7 +73,7 @@ I will become a Ph.D. student in Computer Science at Stony Brook University this
   Guangxiang Zhao, Jingjing Xu, Xu Sun, Xuancheng Ren and **Qi Zeng**. <br>
   Submitted to **EMNLP 2018**, under review.
 
-
+-->
 
 
 
