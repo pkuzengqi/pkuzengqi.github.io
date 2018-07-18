@@ -27,7 +27,7 @@ I'm a PhD student in Computer Science at (SUNY) Stony Brook University. Before j
 My research is on the intersection of natural language processing, data mining, and computational social sciences, especially on developing interpretable, scalable and predictive approaches to model human opinions and behavior from structured and unstructured data. 
 
 
-<img src="/images/pku_westdoor.jpg" class="floatpic" height="300">
+<img src="/images/pku_westdoor.jpeg" class="floatpic" height="300">
 
 <!--
  <img src="/images/brown.jpg" class="floatpic" width="200" height="200"> 
