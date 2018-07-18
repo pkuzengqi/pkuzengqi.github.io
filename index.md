@@ -18,17 +18,16 @@ pubs2018:
 
 
 
-My name is Qi Zeng. I am a senior year student at Peking University.
+My name is Qi Zeng. 
 
 
-Currently, I am a research assistant of Key Laboratory of Computational Linguistics in Peking University, and a full-time research intern at Big Data Mining Group, Microsoft Research Asia. 
 
-My research interests include Deep Learning for Natural Language Processing, Natural Language Generation, and Dialog Systems.
+I'm a PhD student in Computer Science at (SUNY) Stony Brook University. Before joining in Stony Brook, I received my BS degree from Peking University in 2018. 
 
-I will become a Ph.D. student in Computer Science at Stony Brook University this fall.
+My research is on the intersection of natural language processing, data mining, and computational social sciences, especially on developing interpretable, scalable and predictive approaches to model human opinions and behavior from structured and unstructured data. 
 
 
-<img src="/images/pku120.jpg" class="floatpic" height="200">
+<img src="/images/pku_westdoor.jpg" class="floatpic" height="300">
 
 <!--
  <img src="/images/brown.jpg" class="floatpic" width="200" height="200"> 
@@ -49,9 +48,11 @@ I will become a Ph.D. student in Computer Science at Stony Brook University this
   Jingjing Xu, Xu Sun, **Qi Zeng**, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang and Wenjie Li. <br>
   In **ACL 2018**. [[PDF](https://arxiv.org/pdf/1805.05181.pdf)].[[CODE](https://github.com/pkuzengqi/Unpaired-Sentiment-Translation)].
 
-### Manuscripts
+
 
 <!--
+
+### Manuscripts
 
 - "Text-Assisted Insight Ranking Using Header Semantics and Table Context". <br>
   **Qi Zeng**, Liangchen Luo, Wenhao Huang, Yang Tang, Shi Han and Dongmei Zhang. <br>
