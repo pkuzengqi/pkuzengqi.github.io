@@ -39,7 +39,7 @@ My research is on the intersection of natural language processing, data mining, 
 
 - "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
   Jingjing Xu, Xu Sun, **Qi Zeng**, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang and Wenjie Li. <br>
-  In **ACL 2018**. [[PDF](https://arxiv.org/pdf/1805.05181.pdf)].[[CODE](https://github.com/pkuzengqi/Unpaired-Sentiment-Translation)].[[SLIDES](/files/ACL2018/pdf)].
+  In **ACL 2018**. [[PDF](https://arxiv.org/pdf/1805.05181.pdf)].[[CODE](https://github.com/pkuzengqi/Unpaired-Sentiment-Translation)].[[SLIDES](/files/ACL2018.pdf)].
 
 
 
