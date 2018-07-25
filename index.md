@@ -18,20 +18,13 @@ pubs2018:
 
 
 
-My name is Qi Zeng. 
-
-
-
-I'm a PhD student in Computer Science at (SUNY) Stony Brook University. Before joining in Stony Brook, I received my BS degree from Peking University in 2018. 
+My name is Qi Zeng. I'm a PhD student in Computer Science at (SUNY) Stony Brook University. Before joining in Stony Brook, I received my BS degree from Peking University in 2018. 
 
 My research is on the intersection of natural language processing, data mining, and computational social sciences, especially on developing interpretable, scalable and predictive approaches to model human opinions and behavior from structured and unstructured data. 
 
 
 <img src="/images/pku_westdoor.jpeg" class="floatpic" height="300">
 
-<!--
- <img src="/images/brown.jpg" class="floatpic" width="200" height="200"> 
--->
 
 
 <br>
@@ -46,7 +39,7 @@ My research is on the intersection of natural language processing, data mining, 
 
 - "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
   Jingjing Xu, Xu Sun, **Qi Zeng**, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang and Wenjie Li. <br>
-  In **ACL 2018**. [[PDF](https://arxiv.org/pdf/1805.05181.pdf)].[[CODE](https://github.com/pkuzengqi/Unpaired-Sentiment-Translation)].
+  In **ACL 2018**. [[PDF](https://arxiv.org/pdf/1805.05181.pdf)].[[CODE](https://github.com/pkuzengqi/Unpaired-Sentiment-Translation)].[[SLIDES](/files/ACL2018/pdf)].
 
 
 
