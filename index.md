@@ -12,7 +12,7 @@ pubs2018:
 ---
 
 
-
+<img src="/images/pku_graduation.jpeg" class="floatpic" align = "right" height="300">
 
 # Hi!
 
@@ -23,7 +23,7 @@ My name is Qi Zeng. I'm a first-year PhD student in Computer Science at (SUNY) S
 My research is on the intersection of natural language processing, data mining, and computational social sciences, especially on developing interpretable, scalable and predictive approaches to model human opinions and behavior from structured and unstructured data. 
 
 
-<img src="/images/pku_graduation.jpeg" class="floatpic" align = "right" height="300">
+
 
 
 
