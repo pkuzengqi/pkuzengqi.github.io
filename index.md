@@ -18,30 +18,43 @@ pubs2018:
 
 
 
-My name is Qi Zeng. I'm a PhD student in Computer Science at (SUNY) Stony Brook University. Before joining in Stony Brook, I received my BS degree from Peking University in 2018. 
+My name is Qi Zeng. I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook University. Before joining in Stony Brook, I received my BS degree from Peking University in 2018. 
 
 My research is on the intersection of natural language processing, data mining, and computational social sciences, especially on developing interpretable, scalable and predictive approaches to model human opinions and behavior from structured and unstructured data. 
 
 
-<img src="/images/pku_westdoor.jpeg" class="floatpic" height="300">
 
 
+<p align="right"><img src="/images/pku_graduation.jpeg" class="floatpic" height="300"></p>
 
 <br>
 
 # Publications
 
-<!--
+
 [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)]
--->
+
+* means equal contribution.
+
 
 ### 2018
+
 
 - "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
   Jingjing Xu, Xu Sun, **Qi Zeng**, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang and Wenjie Li. <br>
   In **ACL 2018**. [[PDF](https://arxiv.org/pdf/1805.05181.pdf)].[[CODE](https://github.com/pkuzengqi/Unpaired-Sentiment-Translation)].[[SLIDES](/files/ACL2018.pdf)].
 
+- "An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation". <br>
+  Jingjing Xu\*, Liangchen Luo\*, Junyang Lin, **Qi Zeng**, and Xu Sun. <br>
+  In **EMNLP 2018**. 
 
+- "A Skeleton-Based Model for Promoting Coherence in Narrative Story Generation". <br>
+  Jingjing Xu, Yi Zhang, **Qi Zeng**, Xuancheng Ren, Xiaoyan Cai and Xu Sun. <br>
+  In **EMNLP 2018**.
+
+- "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations". <br>
+  Guangxiang Zhao\*, Jingjing Xu\*, **Qi Zeng**, and Xuancheng Ren.<br>
+  In **Arxiv 2018**. 
 
 <!--
 
@@ -51,21 +64,13 @@ My research is on the intersection of natural language processing, data mining, 
   **Qi Zeng**, Liangchen Luo, Wenhao Huang, Yang Tang, Shi Han and Dongmei Zhang. <br>
   Submitted to **CIKM 2018**, under review.
 
-- "An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation". <br>
-  Jingjing Xu, Liangchen Luo, Xu Sun, Junyang Lin and **Qi Zeng**. <br>
-  Submitted to **EMNLP 2018**, under review.
 
-- "A Skeleton-Based Model for Promoting Coherence in Narrative Story Generation". <br>
-  Jingjing Xu, Xu Sun, Xuancheng Ren, **Qi Zeng**, Yi Zhang, Pengcheng Yang and Xiaoyan Cai. <br>
-  Submitted to **EMNLP 2018**, under review.
 
 - "Learning Personalized End-to-End Goal-Oriented Dialog". <br>
   Liangchen Luo, Wenhao Huang, Jingtian Jiang, **Qi Zeng**, Xu Sun and Zaiqing Nie. <br>
   Submitted to **EMNLP 2018**, under review.
 
-- "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations". <br>
-  Guangxiang Zhao, Jingjing Xu, Xu Sun, Xuancheng Ren and **Qi Zeng**. <br>
-  Submitted to **EMNLP 2018**, under review.
+
 
 -->
 
