@@ -34,7 +34,7 @@ My research interest is on the intersection of natural language processing, data
 
 [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)]
 
-* means equal contribution.
+\* means equal contribution.
 
 
 ### 2018
