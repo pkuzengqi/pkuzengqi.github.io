@@ -42,7 +42,7 @@ My research interest is on the intersection of natural language processing, data
 
 - "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
   Jingjing Xu, Xu Sun, **Qi Zeng**, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang and Wenjie Li. <br>
-  In **ACL 2018**. [[PDF](https://arxiv.org/pdf/1805.05181.pdf)].[[CODE](https://github.com/pkuzengqi/Unpaired-Sentiment-Translation)].[[SLIDES](/files/ACL2018.pdf)].
+  In **ACL 2018**. [[PDF](https://arxiv.org/pdf/1805.05181.pdf)].[[CODE](https://github.com/lancopku/Unpaired-Sentiment-Translation)].[[SLIDES](/files/ACL2018.pdf)].
 
 - "An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation". <br>
   Jingjing Xu\*, Liangchen Luo\*, Junyang Lin, **Qi Zeng**, and Xu Sun. <br>
@@ -50,11 +50,12 @@ My research interest is on the intersection of natural language processing, data
 
 - "A Skeleton-Based Model for Promoting Coherence in Narrative Story Generation". <br>
   Jingjing Xu, Yi Zhang, **Qi Zeng**, Xuancheng Ren, Xiaoyan Cai and Xu Sun. <br>
-  In **EMNLP 2018**.
+  In **EMNLP 2018**.[[PDF](https://arxiv.org/pdf/1808.06945.pdf)].[[CODE](https://github.com/lancopku/Skeleton-Based-Generation-Model)].
+
 
 - "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations". <br>
   Guangxiang Zhao\*, Jingjing Xu\*, **Qi Zeng**, and Xuancheng Ren.<br>
-  In **Arxiv 2018**. 
+  In **Arxiv 2018**. [[PDF](https://arxiv.org/pdf/1808.07604.pdf)].
 
 <!--
 
