@@ -49,7 +49,7 @@ My research interest is on the intersection of natural language processing, data
   In **EMNLP 2018**. 
 
 - "A Skeleton-Based Model for Promoting Coherence in Narrative Story Generation". <br>
-  Jingjing Xu, Yi Zhang, **Qi Zeng**, Xuancheng Ren, Xiaoyan Cai and Xu Sun. <br>
+  Jingjing Xu, Xuancheng Ren, Yi Zhang, **Qi Zeng**, Xiaoyan Cai and Xu Sun. <br>
   In **EMNLP 2018**.[[PDF](https://arxiv.org/pdf/1808.06945.pdf)].[[CODE](https://github.com/lancopku/Skeleton-Based-Generation-Model)].
 
 
