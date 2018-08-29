@@ -46,7 +46,7 @@ My research interest is on the intersection of natural language processing, data
 
 - "An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation". <br>
   Jingjing Xu\*, Liangchen Luo\*, Junyang Lin, **Qi Zeng**, and Xu Sun. <br>
-  In **EMNLP 2018**. 
+  In **EMNLP 2018**. [[PDF](https://arxiv.org/pdf/1808.08795.pdf)].[[CODE](https://github.com/lancopku/AMM)].
 
 - "A Skeleton-Based Model for Promoting Coherence in Narrative Story Generation". <br>
   Jingjing Xu, Xuancheng Ren, Yi Zhang, **Qi Zeng**, Xiaoyan Cai and Xu Sun. <br>
@@ -54,7 +54,7 @@ My research interest is on the intersection of natural language processing, data
 
 
 - "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations". <br>
-  Guangxiang Zhao\*, Jingjing Xu\*, **Qi Zeng**, and Xuancheng Ren.<br>
+  Jingjing Xu\*, Guangxiang Zhao\*, **Qi Zeng**, and Xuancheng Ren.<br>
   In **Arxiv 2018**. [[PDF](https://arxiv.org/pdf/1808.07604.pdf)].
 
 <!--
