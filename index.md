@@ -110,8 +110,8 @@ My research interest is at the intersection of natural language processing and d
 # Research Experience
 
 ### MOE Key Lab of Computational Linguistics, Peking University (2017-  2018)
-    - Advisor: Prof. Xu Sun
-    - Focus: Natural Language Generation
+  - Advisor: Prof. Xu Sun
+  - Focus: Natural Language Generation
 
 
 
