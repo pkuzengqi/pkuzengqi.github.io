@@ -14,16 +14,21 @@ pubs2018:
 
 
 
-# Hi!
+# Welcome
 
 <img src="/images/pku_graduation.jpeg" class="floatpic" align = "right" height="300">
 
-My name is Qi Zeng. I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook University. Before joining in Stony Brook, I received my BS degree from Peking University in 2018. 
+Hi there! I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook University. Before joining in Stony Brook, I received my BS degree from Peking University in 2018. 
 
-My research interest is on the intersection of natural language processing, data mining, and computational social sciences, especially on developing interpretable, scalable and predictive approaches to model human opinions and behavior from structured and unstructured data. 
+My research interest is at the intersection of natural language processing and data analysis, especially on developing interpretable, scalable and predictive approaches to model human opinions and behavior from structured and unstructured data. 
+
+<br>
+# Academic Experience
 
 
+### SUNY Stony Brook University (PhD in Computer Science, 2018 - present) 
 
+### Peking University (BS, 2013 - 2018)
 
 
 
@@ -98,30 +103,15 @@ My research interest is on the intersection of natural language processing, data
 
 
 <br>
-# Academic Experience
 
 
 
-### SUNY Stony Brook University (PhD in Computer Science, 2018 - present) 
-<!---
-  - Advisor: [H. Andrew Schwartz][has]
-  - Research Assistant
-  	- [The HLAB: Human Language Analysis Beings][HLAB] (2018-present)
-  - Teaching Assistant:
-  	- ?? (Fall 2018)
--->
 
+# Research Experience
+  - MOE Key Lab of Computational Linguistics, Peking University (2017-  2018)
+    - Advisor: Prof. Xu Sun
+    - Focus: Natural Language Generation
 
-[has]:http://www3.cs.stonybrook.edu/~has/
-[HLAB]:http://hlab.cs.stonybrook.edu/
-
-
-
-### Peking University (BS, 2013 - 2018)
-  - Research Assistant
-    - MOE Key Lab of Computational Linguistics, Peking University (2017-2018)
-  - Teaching Assistant
-    - Study and Practice on Topics of Frontier Computing(I) (Fall 2017)
 
 
 <br>
@@ -137,11 +127,19 @@ My research interest is on the intersection of natural language processing, data
 
 
 ### Microsoft STC Asia (03/2017 - 12/2017)
-  - NLP Algorithm Intern at Xiaoice Group
+  - Software Engineer Intern at Xiaoice Group
   - Focus: Neural Text Generation, Dialog System
 
 [AcWing]: http://acwing.com
 
+
+<br>
+
+# Teaching Experience
+ - Introduction to Computers, (Fall 2018), Stony Brook University
+  - Study and Practice on Topics of Frontier Computing(I) (Fall 2017), Peking University
+
+<br>
 <br>
 <br>
 <br>
