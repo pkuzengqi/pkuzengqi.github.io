@@ -136,9 +136,9 @@ My research interest is at the intersection of natural language processing and d
 
 <br>
 
-# Teaching Experience
- - Introduction to Computers, (Fall 2018), Stony Brook University
-  - Study and Practice on Topics of Frontier Computing(I) (Fall 2017), Peking University
+# TA Experience
+ - Introduction to Computers, Fall 2018, Stony Brook University
+  - Study and Practice on Topics of Frontier Computing(I) , Fall 2017, Peking University
 
 <br>
 <br>
