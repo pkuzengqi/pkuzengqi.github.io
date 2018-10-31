@@ -45,7 +45,7 @@ My research interest is at the intersection of natural language processing and d
 ### 2018
 
 - "Text-Assisted Insight Ranking Using Header Semantics and Table Context". <br>
-  **Qi Zeng**, Liangchen Luo, Wenhao Huang, and Yang Tang. <br>
+  **Qi Zeng\***, Liangchen Luo\*, Wenhao Huang, and Yang Tang. <br>
   In **AAAI 2019**.
 
 - "Learning Personalized End-to-End Goal-Oriented Dialog". <br>
