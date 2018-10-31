@@ -44,6 +44,13 @@ My research interest is at the intersection of natural language processing and d
 
 ### 2018
 
+- "Text-Assisted Insight Ranking Using Header Semantics and Table Context". <br>
+  **Qi Zeng**, Liangchen Luo, Wenhao Huang, and Yang Tang. <br>
+  In **AAAI 2019**.
+
+- "Learning Personalized End-to-End Goal-Oriented Dialog". <br>
+  Liangchen Luo, Wenhao Huang, **Qi Zeng**, Jingtian Jiang, Xu Sun and Zaiqing Nie. <br>
+  In **AAAI 2019**.
 
 - "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
   Jingjing Xu, Xu Sun, **Qi Zeng**, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang and Wenjie Li. <br>
@@ -60,22 +67,13 @@ My research interest is at the intersection of natural language processing and d
 
 - "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations". <br>
   Jingjing Xu\*, Guangxiang Zhao\*, **Qi Zeng**, and Xuancheng Ren.<br>
-  In **Arxiv 2018**. [[PDF](https://arxiv.org/pdf/1808.07604.pdf)].
+  In **Arxiv**. [[PDF](https://arxiv.org/pdf/1808.07604.pdf)].
+
+
 
 <!--
 
 ### Manuscripts
-
-- "Text-Assisted Insight Ranking Using Header Semantics and Table Context". <br>
-  **Qi Zeng**, Liangchen Luo, Wenhao Huang, Yang Tang, Shi Han and Dongmei Zhang. <br>
-  Submitted to **CIKM 2018**, under review.
-
-
-
-- "Learning Personalized End-to-End Goal-Oriented Dialog". <br>
-  Liangchen Luo, Wenhao Huang, Jingtian Jiang, **Qi Zeng**, Xu Sun and Zaiqing Nie. <br>
-  Submitted to **EMNLP 2018**, under review.
-
 
 
 -->
@@ -137,7 +135,7 @@ My research interest is at the intersection of natural language processing and d
 <br>
 
 # TA Experience
- - Introduction to Computers, Fall 2018, Stony Brook University
+  - CSE101 Introduction to Computers, Fall 2018, Stony Brook University
   - Study and Practice on Topics of Frontier Computing(I) , Fall 2017, Peking University
 
 <br>
