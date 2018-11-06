@@ -46,15 +46,15 @@ My research interest is at the intersection of natural language processing and d
 
 - "Text Assisted Insight Ranking Using Context-Aware Memory Network". <br>
   **Qi Zeng\***, Liangchen Luo\*, Wenhao Huang, and Yang Tang. <br>
-  In **AAAI 2019**.
+  In **AAAI 2019**. (Acceptance Rate 16.2%).
 
 - "Learning Personalized End-to-End Goal-Oriented Dialog". <br>
-  Liangchen Luo, Wenhao Huang, **Qi Zeng**, Jingtian Jiang, Xu Sun and Zaiqing Nie. <br>
-  In **AAAI 2019**.
+  Liangchen Luo, Wenhao Huang, **Qi Zeng**, Xu Sun and Zaiqing Nie. <br>
+  In **AAAI 2019**. (Acceptance Rate 16.2%).
 
 - "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
   Jingjing Xu, Xu Sun, **Qi Zeng**, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang and Wenjie Li. <br>
-  In **ACL 2018**. [[PDF](https://arxiv.org/pdf/1805.05181.pdf)].[[CODE](https://github.com/lancopku/Unpaired-Sentiment-Translation)].[[SLIDES](/files/ACL2018.pdf)].
+  In **ACL 2018**. [[PDF](https://arxiv.org/pdf/1805.05181.pdf)].[[CODE](https://github.com/lancopku/Unpaired-Sentiment-Translation)].[[SLIDES](/files/ACL2018.pdf)]. (Acceptance Rate 24.9%).
 
 - "An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation". <br>
   Jingjing Xu\*, Liangchen Luo\*, Junyang Lin, **Qi Zeng**, and Xu Sun. <br>
