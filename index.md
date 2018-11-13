@@ -48,7 +48,7 @@ My research interest is at the intersection of natural language processing and d
 
 - "Learning Personalized End-to-End Goal-Oriented Dialog". <br>
   Liangchen Luo, Wenhao Huang, **Qi Zeng**, Xu Sun and Zaiqing Nie. <br>
-  In **AAAI 2019**. [[PDF](/files/AAAI2019_dialog.pdf)]. (Acceptance Rate 16.2%).
+  In **AAAI 2019**. [[PDF](https://arxiv.org/pdf/1811.04604.pdf)]. (Acceptance Rate 16.2%).
 
 - "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
   Jingjing Xu, Xu Sun, **Qi Zeng**, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang and Wenjie Li. <br>
