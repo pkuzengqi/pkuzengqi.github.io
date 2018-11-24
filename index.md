@@ -120,7 +120,7 @@ My research interest is at the intersection of natural language processing and d
   - Focus: Leetcode Solustion
 
 ### Microsoft Research Asia (01/2018 - 06/2018)
-  - Research Intern at Big Data Mining Group
+  - Research Intern at Big Data Mining Group (Software Analytics Group)
   - Focus: Data Mining, Dialog System
 
 
