@@ -20,7 +20,13 @@ pubs2018:
 
 Hi there! I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook University. Before joining in Stony Brook, I received my BS degree from Peking University in 2018. 
 
+<!--
+
 My research interest is at the intersection of natural language processing and data analysis, especially on developing interpretable, scalable and predictive approaches to model human opinions and behavior from structured and unstructured data. 
+
+
+-->
+
 
 <br>
 # Academic Experience
@@ -44,7 +50,7 @@ My research interest is at the intersection of natural language processing and d
 
 - "Text Assisted Insight Ranking Using Context-Aware Memory Network". <br>
   **Qi Zeng\***, Liangchen Luo\*, Wenhao Huang, and Yang Tang. <br>
-  In **AAAI 2019**. [[PDF](/files/AAAI2019_insight.pdf)]. (Acceptance Rate 16.2%).
+  In **AAAI 2019**. [[PDF](https://arxiv.org/pdf/1811.05563.pdf)]. (Acceptance Rate 16.2%).
 
 - "Learning Personalized End-to-End Goal-Oriented Dialog". <br>
   Liangchen Luo, Wenhao Huang, **Qi Zeng**, Xu Sun and Zaiqing Nie. <br>
@@ -69,12 +75,7 @@ My research interest is at the intersection of natural language processing and d
 
 
 
-<!--
 
-### Manuscripts
-
-
--->
 
 
 
