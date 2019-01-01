@@ -56,10 +56,6 @@ My research interest is at the intersection of natural language processing and d
   Liangchen Luo, Wenhao Huang, **Qi Zeng**, Xu Sun and Zaiqing Nie. <br>
   In **AAAI 2019**. [[PDF](https://arxiv.org/pdf/1811.04604.pdf)]. (Acceptance Rate 16.2%).
 
-- "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
-  Jingjing Xu, Xu Sun, **Qi Zeng**, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang and Wenjie Li. <br>
-  In **ACL 2018**. [[PDF](http://aclweb.org/anthology/P18-1090)].[[CODE](https://github.com/lancopku/Unpaired-Sentiment-Translation)].[[SLIDES](/files/ACL2018.pdf)]. (Acceptance Rate 24.9%).
-
 - "An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation". <br>
   Jingjing Xu\*, Liangchen Luo\*, Junyang Lin, **Qi Zeng**, and Xu Sun. <br>
   In **EMNLP 2018**. [[PDF](http://aclweb.org/anthology/D18-1075)].[[CODE](https://github.com/lancopku/AMM)].[[Poster](https://www.luolc.com/assets/research/Auto-Encoder-Matching/EMNLP18-AEM-poster.pdf)].
@@ -67,6 +63,10 @@ My research interest is at the intersection of natural language processing and d
 - "A Skeleton-Based Model for Promoting Coherence in Narrative Story Generation". <br>
   Jingjing Xu, Xuancheng Ren, Yi Zhang, **Qi Zeng**, Xiaoyan Cai and Xu Sun. <br>
   In **EMNLP 2018**.[[PDF](http://aclweb.org/anthology/D18-1462)].[[CODE](https://github.com/lancopku/Skeleton-Based-Generation-Model)].
+
+  - "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
+  Jingjing Xu, Xu Sun, **Qi Zeng**, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang and Wenjie Li. <br>
+  In **ACL 2018**. [[PDF](http://aclweb.org/anthology/P18-1090)].[[CODE](https://github.com/lancopku/Unpaired-Sentiment-Translation)].[[SLIDES](/files/ACL2018.pdf)]. (Acceptance Rate 24.9%).
 
 
 - "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations". <br>
