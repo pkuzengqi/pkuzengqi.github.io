@@ -64,7 +64,7 @@ My research interest is at the intersection of natural language processing and d
   Jingjing Xu, Xuancheng Ren, Yi Zhang, **Qi Zeng**, Xiaoyan Cai and Xu Sun. <br>
   In **EMNLP 2018**.[[PDF](http://aclweb.org/anthology/D18-1462)].[[CODE](https://github.com/lancopku/Skeleton-Based-Generation-Model)].
 
-  - "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
+- "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
   Jingjing Xu, Xu Sun, **Qi Zeng**, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang and Wenjie Li. <br>
   In **ACL 2018**. [[PDF](http://aclweb.org/anthology/P18-1090)].[[CODE](https://github.com/lancopku/Unpaired-Sentiment-Translation)].[[SLIDES](/files/ACL2018.pdf)]. (Acceptance Rate 24.9%).
 
