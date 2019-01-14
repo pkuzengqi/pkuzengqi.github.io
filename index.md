@@ -115,9 +115,13 @@ My research interest is at the intersection of natural language processing and d
 <br>
 # Work Experience
 
-### [AcWing](http://acwing.com) (03/2018 - present)
+<!---
+  ### [AcWing](http://acwing.com) (03/2018 - present)
   - Co-founder
   - Focus: Leetcode Solustion
+  --->
+
+
 
 ### Microsoft Research Asia (01/2018 - 06/2018)
   - Research Intern at Big Data Mining Group (Software Analytics Group)
