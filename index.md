@@ -1,17 +1,3 @@
----
-
-pubs2018:   
-  - title: "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning"
-    author: "Jingjing Xu, Xu SUN, Qi Zeng, Xiaodong Zhang, Xuancheng Ren, Houfeng Wang and Wenjie Li"
-    conf: "ACL 2018 (long paper)"
-    slides: "https://arxiv.org/list/cs.CL/recent"
-    code: "https://arxiv.org/list/cs.CL/recent"
-    url: "https://arxiv.org/list/cs.CL/recent"
-    data: "https://arxiv.org/list/cs.CL/recent"
-
----
-
-
 
 
 # Welcome
@@ -50,11 +36,11 @@ My research interest is at the intersection of natural language processing and d
 
 - "Text Assisted Insight Ranking Using Context-Aware Memory Network". <br>
   **Qi Zeng\***, Liangchen Luo\*, Wenhao Huang, and Yang Tang. <br>
-  In **AAAI 2019**. [[PDF](https://arxiv.org/pdf/1811.05563.pdf)]. (Acceptance Rate 16.2%).
+  In **AAAI 2019**. [[PDF](https://arxiv.org/pdf/1811.05563.pdf)].[[Poster](/files/AAAI19-insight-poster.pdf)].  (Acceptance Rate 16.2%).
 
 - "Learning Personalized End-to-End Goal-Oriented Dialog". <br>
   Liangchen Luo, Wenhao Huang, **Qi Zeng**, Xu Sun and Zaiqing Nie. <br>
-  In **AAAI 2019**. [[PDF](https://arxiv.org/pdf/1811.04604.pdf)]. (Acceptance Rate 16.2%).
+  In **AAAI 2019**. [[PDF](https://arxiv.org/pdf/1811.04604.pdf)].[[Poster](/files/AAAI19-personalized-poster.pdf)]. (Acceptance Rate 16.2%).
 
 - "An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation". <br>
   Jingjing Xu\*, Liangchen Luo\*, Junyang Lin, **Qi Zeng**, and Xu Sun. <br>
