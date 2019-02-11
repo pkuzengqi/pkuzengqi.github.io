@@ -4,14 +4,10 @@
 
 <img src="/images/pku_graduation.jpeg" class="floatpic" align = "right" height="300">
 
-Hi there! I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook University. Before joining in Stony Brook, I received my BS degree from Peking University in 2018. 
+Hi there! 
 
-<!--
+I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook University. Before joining in Stony Brook, I received my BS degree from Peking University in 2018. 
 
-My research interest is at the intersection of natural language processing and data analysis, especially on developing interpretable, scalable and predictive approaches to model human opinions and behavior from structured and unstructured data. 
-
-
--->
 
 
 <br>
@@ -61,30 +57,6 @@ My research interest is at the intersection of natural language processing and d
 
 
 
-
-
-
-
-<!---
-{% for pub in page.pubs2018 %}
-{% unless pub.hidden %}
-  - {% if pub.url %} [{{pub.title}}]({{pub.url}}).
-    {% else %} {{pub.title}}.
-    {% endif %}<br>
-    {{pub.author}}.<br>
-    {{pub.conf}}.<br>
-    {% if pub.address %}{{pub.address}}.
-    {% endif %}{% if pub.slides %}[Slides]({{pub.slides}}).
-    {% endif %}{% if pub.data %}[Data]({{pub.data}}).
-    {% endif %}{% if pub.code %}[Code]({{pub.code}}).
-    {% endif %}
-{% endunless %}
-{% endfor %}
--->
-
-
-
-
 <br>
 
 
@@ -124,8 +96,10 @@ My research interest is at the intersection of natural language processing and d
 <br>
 
 # TA Experience
-  - CSE101 Introduction to Computers, Fall 2018, Stony Brook University
+  - CSE 337 Scripting Languages, Spring 2019, Stony Brook University
+  - CSE 101 Introduction to Computers, Fall 2018, Stony Brook University
   - Study and Practice on Topics of Frontier Computing(I) , Fall 2017, Peking University
+
 
 <br>
 <br>
@@ -133,4 +107,6 @@ My research interest is at the intersection of natural language processing and d
 <br>
 <br>
 <br>
+
+Updated: Feb 11, 2019
 
