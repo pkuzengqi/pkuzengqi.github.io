@@ -8,7 +8,7 @@ Hi there!
 
 I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook University. Before joining in Stony Brook, I received my BS degree from Peking University in 2018. 
 
-
+[[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)].[[Github](https://github.com/pkuzengqi)].
 
 <br>
 
@@ -26,7 +26,7 @@ I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook Universit
 # Publications
 
 
-[[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)]
+
 
 \* means equal contribution.
 
