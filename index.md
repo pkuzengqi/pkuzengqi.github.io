@@ -15,9 +15,9 @@ I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook Universit
 # Academic Experience
 
 
-## SUNY Stony Brook University (PhD in Computer Science, 2018 - present) 
+### SUNY Stony Brook University (PhD in Computer Science, 2018 - present) 
 
-## Peking University (BS, 2013 - 2018)
+### Peking University (BS, 2013 - 2018)
 
 
 
@@ -59,8 +59,9 @@ I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook Universit
   Jingjing Xu, Xu Sun, **Qi Zeng**, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang and Wenjie Li. <br>
   In **ACL 2018**. [[PDF](http://aclweb.org/anthology/P18-1090)].[[CODE](https://github.com/lancopku/Unpaired-Sentiment-Translation)].[[SLIDES](/files/ACL2018.pdf)]. (Acceptance Rate 24.9%).
 
+<!---
 ### Unpublished Manuscripts 
-
+--->
 
 
 
@@ -116,5 +117,5 @@ I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook Universit
 <br>
 <br>
 
-Updated: Feb 13, 2019
+Updated: Feb 23, 2019
 
