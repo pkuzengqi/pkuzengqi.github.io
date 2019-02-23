@@ -11,12 +11,13 @@ I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook Universit
 
 
 <br>
+
 # Academic Experience
 
 
-### SUNY Stony Brook University (PhD in Computer Science, 2018 - present) 
+## SUNY Stony Brook University (PhD in Computer Science, 2018 - present) 
 
-### Peking University (BS, 2013 - 2018)
+## Peking University (BS, 2013 - 2018)
 
 
 
@@ -29,6 +30,12 @@ I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook Universit
 
 \* means equal contribution.
 
+### 2019
+
+- "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations". <br>
+  Jingjing Xu\*, Guangxiang Zhao\*, **Qi Zeng**, Xuancheng Ren and Xu Sun.<br>
+  In **NAACL 2019**. [[PDF](https://arxiv.org/pdf/1808.07604.pdf)].
+
 
 - "Text Assisted Insight Ranking Using Context-Aware Memory Network". <br>
   **Qi Zeng\***, Liangchen Luo\*, Wenhao Huang, and Yang Tang. <br>
@@ -37,6 +44,8 @@ I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook Universit
 - "Learning Personalized End-to-End Goal-Oriented Dialog". <br>
   Liangchen Luo, Wenhao Huang, **Qi Zeng**, Xu Sun and Zaiqing Nie. <br>
   In **AAAI 2019**. [[PDF](https://arxiv.org/pdf/1811.04604.pdf)].[[Poster](/files/AAAI19-personalized-poster.pdf)]. (Acceptance Rate 16.2%).
+
+### 2018
 
 - "An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation". <br>
   Jingjing Xu\*, Liangchen Luo\*, Junyang Lin, **Qi Zeng**, and Xu Sun. <br>
@@ -50,10 +59,8 @@ I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook Universit
   Jingjing Xu, Xu Sun, **Qi Zeng**, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang and Wenjie Li. <br>
   In **ACL 2018**. [[PDF](http://aclweb.org/anthology/P18-1090)].[[CODE](https://github.com/lancopku/Unpaired-Sentiment-Translation)].[[SLIDES](/files/ACL2018.pdf)]. (Acceptance Rate 24.9%).
 
+### Unpublished Manuscripts 
 
-- "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations". <br>
-  Jingjing Xu\*, Guangxiang Zhao\*, **Qi Zeng**, and Xuancheng Ren.<br>
-  In **Arxiv**. [[PDF](https://arxiv.org/pdf/1808.07604.pdf)].
 
 
 
@@ -71,6 +78,7 @@ I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook Universit
 
 
 <br>
+
 # Work Experience
 
 <!---
@@ -95,10 +103,10 @@ I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook Universit
 
 <br>
 
-# TA Experience
-  - CSE 337 Scripting Languages, Spring 2019, Stony Brook University
-  - CSE 101 Introduction to Computers, Fall 2018, Stony Brook University
-  - Study and Practice on Topics of Frontier Computing(I) , Fall 2017, Peking University
+# Teaching Experience
+  - Spring 2019: TA for [CSE 337 Scripting Languages](https://www3.cs.stonybrook.edu/~ckane/cse337/), Stony Brook University
+  - Fall 2018: TA for CSE 101 Introduction to Computers, Stony Brook University
+  - Fall 2017: TA for Study and Practice on Topics of Frontier Computing (I), Peking University
 
 
 <br>
@@ -108,5 +116,5 @@ I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook Universit
 <br>
 <br>
 
-Updated: Feb 11, 2019
+Updated: Feb 13, 2019
 
