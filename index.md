@@ -82,12 +82,6 @@ I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook Universit
 
 # Work Experience
 
-<!---
-  ### [AcWing](http://acwing.com) (03/2018 - present)
-  - Co-founder
-  - Focus: Leetcode Solustion
-  --->
-
 
 
 ### Microsoft Research Asia (01/2018 - 06/2018)
@@ -117,5 +111,5 @@ I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook Universit
 <br>
 <br>
 
-Updated: Feb 23, 2019
+Updated: Feb 24, 2019
 
