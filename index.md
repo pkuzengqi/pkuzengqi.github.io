@@ -6,7 +6,6 @@
 
 Hi there! 
 
-I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook University. Before joining in Stony Brook, I received my BS degree from Peking University in 2018. 
 
 [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)].[[Github](https://github.com/pkuzengqi)].
 
@@ -14,10 +13,7 @@ I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook Universit
 
 # Academic Experience
 
-
-### SUNY Stony Brook University (PhD in Computer Science, 2018 - present) 
-
-### Peking University (BS, 2013 - 2018)
+### Peking University (BS in Information Science, 2013 - 2018)
 
 
 
