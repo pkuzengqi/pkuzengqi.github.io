@@ -13,7 +13,7 @@ Hi there!
 
 # Academic Experience
 
-- Peking University 
+- Peking University<br> 
   BS in Information Science, 2013 - 2018
 
 
