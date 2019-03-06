@@ -1,10 +1,10 @@
 
 
-# Welcome
+
 
 <img src="/images/pku_graduation.jpeg" class="floatpic" align = "right" height="300">
 
-Hi there! 
+Greetings! My name is Qi Zeng (曾琪). I received my B.S. degree from Peking University, China. 
 
 
 [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)].[[Github](https://github.com/pkuzengqi)].
@@ -21,8 +21,6 @@ Hi there!
 <br>
 
 # Publications
-
-
 
 
 \* means equal contribution.
@@ -80,7 +78,6 @@ Hi there!
 # Work Experience
 
 
-
 ### Microsoft Research Asia (01/2018 - 06/2018)
   - Research Intern at Big Data Mining Group (Software Analytics Group)
   - Focus: Data Mining, Dialog System
@@ -89,8 +86,6 @@ Hi there!
 ### Microsoft STC Asia (03/2017 - 12/2017)
   - Software Engineer Intern at Xiaoice Group
   - Focus: Neural Text Generation, Dialog System
-
-[AcWing]: http://acwing.com
 
 
 <br>
@@ -107,6 +102,9 @@ Hi there!
 <br>
 <br>
 <br>
+<br>
+<br>
 
-Updated: Feb 24, 2019
+
+Updated: March 6, 2019
 
