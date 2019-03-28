@@ -4,7 +4,10 @@
 
 <img src="/images/pku_graduation.jpeg" class="floatpic" align = "right" height="300">
 
-Greetings! My name is Qi Zeng (曾琪). I received my B.S. degree from Peking University, China. 
+Greetings! My name is Qi Zeng (曾琪). 
+
+I will start an internship at ByteDance in April 2019.
+
 
 
 [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)].[[Github](https://github.com/pkuzengqi)].
@@ -12,6 +15,9 @@ Greetings! My name is Qi Zeng (曾琪). I received my B.S. degree from Peking Un
 <br>
 
 # Academic Experience
+
+### University of Illinois Urbana-Champaign
+  - PhD in Computer Science, start in 2019 Fall
 
 ### Peking University 
   - BS in Information Science, 2013 - 2018
@@ -106,5 +112,5 @@ Greetings! My name is Qi Zeng (曾琪). I received my B.S. degree from Peking Un
 <br>
 
 
-Updated: March 6, 2019
+Updated: March 27, 2019
 
