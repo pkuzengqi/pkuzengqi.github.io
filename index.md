@@ -6,9 +6,6 @@
 
 Greetings! My name is Qi Zeng (曾琪). 
 
-I will start an internship at ByteDance in April 2019.
-
-
 
 [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)].[[Github](https://github.com/pkuzengqi)].
 
@@ -35,7 +32,7 @@ I will start an internship at ByteDance in April 2019.
 
 - "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations". <br>
   Jingjing Xu\*, Guangxiang Zhao\*, **Qi Zeng**, Xuancheng Ren and Xu Sun.<br>
-  In **NAACL 2019**. [[PDF](https://arxiv.org/pdf/1808.07604.pdf)].
+  In **NAACL 2019**. [[PDF](https://arxiv.org/pdf/1808.07604.pdf)]. (Acceptance Rate 22.6%).
 
 
 - "Text Assisted Insight Ranking Using Context-Aware Memory Network". <br>
@@ -84,6 +81,9 @@ I will start an internship at ByteDance in April 2019.
 # Work Experience
 
 
+### ByteDance AI Lab (04/2019 - present)
+  - Research Intern at NLP Group 
+
 ### Microsoft Research Asia (01/2018 - 06/2018)
   - Research Intern at Big Data Mining Group (Software Analytics Group)
   - Focus: Data Mining, Dialog System
@@ -112,5 +112,5 @@ I will start an internship at ByteDance in April 2019.
 <br>
 
 
-Updated: March 27, 2019
+Updated: April 15, 2019
 
