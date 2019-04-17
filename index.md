@@ -80,9 +80,13 @@ Greetings! My name is Qi Zeng (曾琪).
 
 # Work Experience
 
+<!--
 
 ### ByteDance AI Lab (04/2019 - present)
   - Research Intern at NLP Group 
+
+
+-->
 
 ### Microsoft Research Asia (01/2018 - 06/2018)
   - Research Intern at Big Data Mining Group (Software Analytics Group)
