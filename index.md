@@ -6,7 +6,7 @@
 
 Greetings! My name is Qi Zeng (曾琪). 
 
-I will join [University of Illinois Urbana-Champaign](https://illinois.edu/) as a first-year Ph.D. student in Computer Science. I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. My current research interest is Natual Language Generation.
+I will join [University of Illinois Urbana-Champaign](https://illinois.edu/) as a first-year Ph.D. student in Computer Science this Fall. I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. My current research interest is Natual Language Generation.
 
 <!---
 
@@ -75,7 +75,7 @@ Contact me at qizeng2@illinois.edu or pkuzengqi@gmail.com
 
 
 ### MOE Key Lab of Computational Linguistics, Peking University (2017-  2018)
-  - Undergraduate Reseach Assistant, Advisor: Prof. Xu Sun
+  - Undergraduate Reseach Assistant, Advisor: Prof. [Xu Sun](https://xusun.org/)
   - Focus: Natural Language Generation
 
 
@@ -86,7 +86,7 @@ Contact me at qizeng2@illinois.edu or pkuzengqi@gmail.com
 
 
 ### ByteDance AI Lab (04/2019 - 08/2019)
-  - Research Intern at MLNLP Group, Mentor: Dr. Hao Zhou 
+  - Research Intern at MLNLP Group, Mentor: Dr. [Hao Zhou](https://zhouh.github.io/) 
   - Focus: Word Embedding as Distribution
 
 
