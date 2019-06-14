@@ -6,9 +6,20 @@
 
 Greetings! My name is Qi Zeng (曾琪). 
 
+I will join [University of Illinois Urbana-Champaign](https://illinois.edu/) as a first-year Ph.D. student in Computer Science. I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. My current research interest is Natual Language Generation.
 
-[[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)].[[Github](https://github.com/pkuzengqi)].
+<!---
 
+I am a first-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the supervision of Professor [Heng Ji](http://nlp.cs.rpi.edu/hengji.html). Before joining UIUC, I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. 
+
+My current research interests include Natural Language Processing (NLP) and Information Extraction (IE).
+
+I am actively seeking 2020 Summer Intership. 
+--->
+
+Contact me at qizeng2@illinois.edu or pkuzengqi@gmail.com 
+
+[[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)]. [[Github](https://github.com/pkuzengqi)]. 
 <br>
 
 # Academic Experience
@@ -57,21 +68,14 @@ Greetings! My name is Qi Zeng (曾琪).
   Jingjing Xu, Xu Sun, **Qi Zeng**, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang and Wenjie Li. <br>
   In **ACL 2018**. [[PDF](http://aclweb.org/anthology/P18-1090)].[[CODE](https://github.com/lancopku/Unpaired-Sentiment-Translation)].[[SLIDES](/files/ACL2018.pdf)]. (Acceptance Rate 24.9%).
 
-<!---
-### Unpublished Manuscripts 
---->
-
-
 
 <br>
 
-
-
-
 # Research Experience
 
+
 ### MOE Key Lab of Computational Linguistics, Peking University (2017-  2018)
-  - Advisor: Prof. Xu Sun
+  - Undergraduate Reseach Assistant, Advisor: Prof. Xu Sun
   - Focus: Natural Language Generation
 
 
@@ -80,31 +84,33 @@ Greetings! My name is Qi Zeng (曾琪).
 
 # Work Experience
 
-<!--
 
-### ByteDance AI Lab (04/2019 - present)
-  - Research Intern at NLP Group 
+### ByteDance AI Lab (04/2019 - 08/2019)
+  - Research Intern at MLNLP Group, Mentor: Dr. Hao Zhou 
+  - Focus: Word Embedding as Distribution
 
-
--->
 
 ### Microsoft Research Asia (01/2018 - 06/2018)
-  - Research Intern at Big Data Mining Group (Software Analytics Group)
+  - Research Intern at Big Data Mining Group, Mentor: Dr. Wenhao Huang
   - Focus: Data Mining, Dialog System
 
 
 ### Microsoft STC Asia (03/2017 - 12/2017)
-  - Software Engineer Intern at Xiaoice Group
-  - Focus: Neural Text Generation, Dialog System
+  - Software Engineer Intern at XiaoIce Group, Mentor: Peng Chen
+  - Focus: QA system
+
 
 
 <br>
+
+<!--
 
 # Teaching Experience
   - Spring 2019: TA for [CSE 337 Scripting Languages](https://www3.cs.stonybrook.edu/~ckane/cse337/), Stony Brook University
   - Fall 2018: TA for CSE 101 Introduction to Computers, Stony Brook University
   - Fall 2017: TA for Study and Practice on Topics of Frontier Computing (I), Peking University
 
+-->
 
 <br>
 <br>
@@ -116,5 +122,5 @@ Greetings! My name is Qi Zeng (曾琪).
 <br>
 
 
-Updated: April 15, 2019
+Updated: June 16, 2019
 
