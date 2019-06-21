@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
 title: (Vicki) Qi Zeng
+logo: /images/pku_graduation.jpeg
+show_downloads: false
+google_analytics:
 url: https://pkuzengqi.github.io/
 description: qizeng2@illinois.edu
