@@ -19,11 +19,14 @@ I am a first-year Ph.D. student in Computer Science at [University of Illinois U
 My current research interests include Natural Language Processing (NLP) and Information Extraction (IE).
 
 I am actively seeking 2020 Summer Intership. 
---->
+
+[[Github](https://github.com/pkuzengqi)]. 
 
 Contact me at qizeng2@illinois.edu or pkuzengqi@gmail.com 
 
-[[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)]. [[Github](https://github.com/pkuzengqi)]. 
+--->
+
+
 <br>
 
 # Academic Experience
@@ -42,8 +45,7 @@ Contact me at qizeng2@illinois.edu or pkuzengqi@gmail.com
 
 # Publications
 
-
-\* means equal contribution.
+See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)]. \* means equal contribution.
 
 ### 2019
 
