@@ -2,13 +2,15 @@
 
 
 
-<img src="/images/pku_graduation.jpeg" class="floatpic" align = "right" height="300">
 
 Greetings! My name is Qi Zeng (曾琪). 
 
 I will join [University of Illinois Urbana-Champaign](https://illinois.edu/) as a first-year Ph.D. student in Computer Science this Fall. I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. My current research interest is Natual Language Generation.
 
 <!---
+
+<img src="/images/pku_graduation.jpeg" class="floatpic" align = "right" height="300">
+
 
 I am a first-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the supervision of Professor [Heng Ji](http://nlp.cs.rpi.edu/hengji.html). Before joining UIUC, I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. 
 
