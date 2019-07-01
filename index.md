@@ -7,7 +7,8 @@ Greetings! My name is Qi Zeng (曾琪).
 
 I will join [University of Illinois Urbana-Champaign](https://illinois.edu/) as a first-year Ph.D. student in Computer Science this Fall. I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. 
 
-My current research interest is Natual Language Generation.
+My current research interest is Language Generation.
+
 
 <!---
 
@@ -24,6 +25,8 @@ I am actively seeking 2020 Summer Intership.
 
 Contact me at qizeng2@illinois.edu or pkuzengqi@gmail.com 
 
+  - Advisor: Prof. [Heng Ji](http://nlp.cs.rpi.edu/hengji.html)
+
 --->
 
 
@@ -33,7 +36,7 @@ Contact me at qizeng2@illinois.edu or pkuzengqi@gmail.com
 
 ### University of Illinois Urbana-Champaign
   - PhD in Computer Science, start in 2019 Fall
-  - Advisor: Prof. [Heng Ji](http://nlp.cs.rpi.edu/hengji.html)
+
 
 ### Peking University 
   - BS in Information Science, 2013 - 2018
@@ -51,7 +54,7 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 
 - Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations. <br>
   Jingjing Xu\*, Guangxiang Zhao\*, **Qi Zeng**, Xuancheng Ren, Xu Sun.<br>
-  In **NAACL 2019**. [[PDF](https://arxiv.org/pdf/1808.07604.pdf)]. (Acceptance Rate 22.6%).
+  In **NAACL 2019**. [[PDF](https://www.aclweb.org/anthology/N19-1296)]. (Acceptance Rate 22.6%).
 
 
 - Text Assisted Insight Ranking Using Context-Aware Memory Network. <br>
@@ -79,32 +82,32 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 
 <br>
 
-# Research Experience
-
-
-### MOE Key Lab of Computational Linguistics, Peking University (2017-  2018)
-  - Undergraduate Reseach Assistant, Advisor: Prof. [Xu Sun](https://xusun.org/)
-  - Focus: Natural Language Generation
-
-
-
 <br>
 
-# Work Experience
+# Experience
 
 
 ### ByteDance AI Lab (04/2019 - 08/2019)
-  - Research Intern at MLNLP Group, Mentor: Dr. [Hao Zhou](https://zhouh.github.io/) 
-  - Focus: Rare Word Representation
+  - Research Intern at MLNLP Group
+  - Mentor: Dr. [Hao Zhou](https://zhouh.github.io/) 
+  - Focus: Rare Word Representation, Query Generation
+
+
+### MOE Key Lab of Computational Linguistics, Peking University (10/2017 - 06/2018)
+  - Undergraduate Reseach Assistant
+  - Advisor: Prof. [Xu Sun](https://xusun.org/)
+  - Focus: Text Style Transfer, Narrative Story Generation
 
 
 ### Microsoft Research Asia (01/2018 - 06/2018)
-  - Research Intern at Big Data Mining Group, Mentor: Dr. Wenhao Huang
+  - Research Intern at Big Data Mining Group 
+  - Mentor: Dr. Wenhao Huang
   - Focus: Data Mining, Neural Dialog System
 
 
 ### Microsoft STC Asia (03/2017 - 12/2017)
-  - Software Engineer Intern at XiaoIce Group, Mentor: Peng Chen
+  - Software Engineer Intern at XiaoIce Group
+  - Mentor: Peng Chen
   - Focus: QA system
 
 
@@ -130,5 +133,5 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 <br>
 
 
-Updated: June 21, 2019
+Updated: July 1, 2019
 
