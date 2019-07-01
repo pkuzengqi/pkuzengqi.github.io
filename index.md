@@ -54,7 +54,7 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 
 - Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations. <br>
   Jingjing Xu\*, Guangxiang Zhao\*, **Qi Zeng**, Xuancheng Ren, Xu Sun.<br>
-  In **NAACL 2019**. [[PDF](https://www.aclweb.org/anthology/N19-1296)]. (Acceptance Rate 22.6%).
+  In **NAACL 2019**. [[PDF](https://www.aclweb.org/anthology/N19-1296)]. [[Code](https://github.com/lancopku/RMSC)]. (Acceptance Rate 22.6%).
 
 
 - Text Assisted Insight Ranking Using Context-Aware Memory Network. <br>
