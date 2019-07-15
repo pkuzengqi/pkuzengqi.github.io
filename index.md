@@ -7,7 +7,6 @@ Greetings! My name is Qi Zeng (曾琪).
 
 I will join [University of Illinois Urbana-Champaign](https://illinois.edu/) as a first-year Ph.D. student in Computer Science this Fall. I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. 
 
-My current research interest is Language Generation.
 
 
 <!---
@@ -17,15 +16,15 @@ My current research interest is Language Generation.
 
 I am a first-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the supervision of Professor [Heng Ji](http://nlp.cs.rpi.edu/hengji.html). Before joining UIUC, I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. 
 
-My current research interests include Natural Language Processing (NLP) and Information Extraction (IE).
+My current research interests include Natural Language Generation (NLG) and Information Extraction (IE).
 
 I am actively seeking 2020 Summer Intership. 
 
-[[Github](https://github.com/pkuzengqi)]. 
-
 Contact me at qizeng2@illinois.edu or pkuzengqi@gmail.com 
 
-  - Advisor: Prof. [Heng Ji](http://nlp.cs.rpi.edu/hengji.html)
+My current research interest is Language Generation.
+
+
 
 --->
 
@@ -36,6 +35,7 @@ Contact me at qizeng2@illinois.edu or pkuzengqi@gmail.com
 
 ### University of Illinois Urbana-Champaign
   - PhD in Computer Science, start in 2019 Fall
+  - Advisor: Prof. [Heng Ji](http://nlp.cs.rpi.edu/hengji.html)
 
 
 ### Peking University 
@@ -93,8 +93,8 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
   - Focus: Rare Word Representation, Query Generation
 
 
-### MOE Key Lab of Computational Linguistics, Peking University (10/2017 - 06/2018)
-  - Undergraduate Reseach Assistant
+### Peking University (10/2017 - 06/2018)
+  - Undergraduate Reseach Assistant at [Language Computing and Machine Learning Group](http://lanco.pku.edu.cn/)
   - Advisor: Prof. [Xu Sun](https://xusun.org/)
   - Focus: Text Style Transfer, Narrative Story Generation
 
@@ -133,5 +133,5 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 <br>
 
 
-Updated: July 1, 2019
+Updated: July 15, 2019
 
