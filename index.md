@@ -52,7 +52,7 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 
 
 - Asking Clarification Questions in Knowledge-Based Question Answering. <br>
-  Jingjing Xu, Yuechen Wang, Duyu Tang, Nan Duan, Pengcheng Yang, **Qi Zen**g, Ming Zhou, Xu Sun.
+  Jingjing Xu, Yuechen Wang, Duyu Tang, Nan Duan, Pengcheng Yang, **Qi Zeng**, Ming Zhou, Xu Sun.
   In **EMNLP 2019**. (Acceptance Rate 23.8%).
 
 
@@ -94,7 +94,7 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 ### ByteDance AI Lab (04/2019 - 08/2019)
   - Research Intern at MLNLP Group
   - Mentor: Dr. [Hao Zhou](https://zhouh.github.io/) 
-  - Focus: Rare Word Representation, Query Generation
+  - Focus: Query Generation, OOV representation
 
 
 ### Peking University (10/2017 - 06/2018)
