@@ -5,8 +5,9 @@
 
 Greetings! My name is Qi Zeng (曾琪). 
 
-I will join [University of Illinois Urbana-Champaign](https://illinois.edu/) as a first-year Ph.D. student in Computer Science this Fall. I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. 
+I am a first-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the supervision of Professor [Heng Ji](http://nlp.cs.rpi.edu/hengji.html). Before joining UIUC, I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. 
 
+My current research interests include Natural Language Generation (NLG) and Information Extraction (IE).
 
 
 <!---
@@ -14,15 +15,8 @@ I will join [University of Illinois Urbana-Champaign](https://illinois.edu/) as 
 <img src="/images/pku_graduation.jpeg" class="floatpic" align = "right" height="300">
 
 
-I am a first-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the supervision of Professor [Heng Ji](http://nlp.cs.rpi.edu/hengji.html). Before joining UIUC, I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. 
-
-My current research interests include Natural Language Generation (NLG) and Information Extraction (IE).
 
 I am actively seeking 2020 Summer Intership. 
-
-Contact me at qizeng2@illinois.edu or pkuzengqi@gmail.com 
-
-My current research interest is Language Generation.
 
 
 
@@ -51,6 +45,16 @@ My current research interest is Language Generation.
 See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)]. \* means equal contribution.
 
 ### 2019
+
+- Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification. <br>
+  Jingjing Xu, Liang Zhao, Hanqi Yan, **Qi Zeng**, Yun Liang, Xu Sun
+  In **EMNLP 2019**. (Acceptance Rate 23.8%).
+
+
+- Asking Clarification Questions in Knowledge-Based Question Answering. <br>
+  Jingjing Xu, Yuechen Wang, Duyu Tang, Nan Duan, Pengcheng Yang, **Qi Zen**g, Ming Zhou, Xu Sun.
+  In **EMNLP 2019**. (Acceptance Rate 23.8%).
+
 
 - Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations. <br>
   Jingjing Xu\*, Guangxiang Zhao\*, **Qi Zeng**, Xuancheng Ren, Xu Sun.<br>
@@ -133,5 +137,5 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 <br>
 
 
-Updated: July 15, 2019
+Updated: August 15, 2019
 
