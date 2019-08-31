@@ -9,6 +9,7 @@ I am a first-year Ph.D. student in Computer Science at [University of Illinois U
 
 My current research interests include Natural Language Generation (NLG) and Information Extraction (IE).
 
+I am actively seeking 2020 Summer Intership. 
 
 <!---
 
@@ -16,7 +17,7 @@ My current research interests include Natural Language Generation (NLG) and Info
 
 
 
-I am actively seeking 2020 Summer Intership. 
+
 
 
 
@@ -48,7 +49,7 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 
 - Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification. <br>
   Jingjing Xu, Liang Zhao, Hanqi Yan, **Qi Zeng**, Yun Liang, Xu Sun
-  In **EMNLP 2019**. (Acceptance Rate 23.8%).
+  In **EMNLP 2019**. [[Code](https://github.com/lancopku/LexicalAT)]. (Acceptance Rate 23.8%). 
 
 
 - Asking Clarification Questions in Knowledge-Based Question Answering. <br>
@@ -137,5 +138,5 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 <br>
 
 
-Updated: August 15, 2019
+Updated: August 30, 2019
 
