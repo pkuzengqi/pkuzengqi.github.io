@@ -5,18 +5,16 @@
 
 Greetings! My name is Qi Zeng (曾琪). 
 
-I am a first-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the supervision of Professor [Heng Ji](http://nlp.cs.rpi.edu/hengji.html). Before joining UIUC, I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. 
+I am a first-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the supervision of Professor [Heng Ji](http://nlp.cs.rpi.edu/hengji.html). Prior to UIUC, I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. 
 
+
+My research interests lie in the general area of Natural Language Processing, especially its application in knowledge-aware text generation and low-resource language understanding. 
 
 I am actively seeking 2020 Summer Internship. 
 
 <!---
 
 <img src="/images/pku_graduation.jpeg" class="floatpic" align = "right" height="300">
-
-
-My current research interests include Natural Language Generation (NLG) and Information Extraction (IE).
-
 
 
 
@@ -29,7 +27,7 @@ My current research interests include Natural Language Generation (NLG) and Info
 # Academic Experience
 
 ### University of Illinois Urbana-Champaign
-  - PhD in Computer Science, start in 2019 Fall
+  - PhD in Computer Science, 2019 - 
   - Advisor: Prof. [Heng Ji](http://nlp.cs.rpi.edu/hengji.html)
 
 
@@ -138,5 +136,5 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 <br>
 
 
-Updated: August 30, 2019
+Updated: September 11, 2019
 
