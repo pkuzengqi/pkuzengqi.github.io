@@ -5,7 +5,7 @@
 
 Greetings! My name is Qi Zeng (曾琪). 
 
-I am a first-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the supervision of Professor [Heng Ji](http://nlp.cs.rpi.edu/hengji.html). Prior to UIUC, I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. 
+I am a first-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the supervision of Professor [Heng Ji](http://nlp.cs.rpi.edu/hengji.html). I am a member of the [Blender lab](http://nlp.cs.rpi.edu/). Prior to UIUC, I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. 
 
 
 My research interests lie in the general area of Natural Language Processing, especially its application in knowledge-aware text generation and low-resource language understanding. 
