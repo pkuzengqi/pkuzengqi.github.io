@@ -47,7 +47,7 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 
 - Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification. <br>
   Jingjing Xu, Liang Zhao, Hanqi Yan, **Qi Zeng**, Yun Liang, Xu Sun
-  In **EMNLP 2019**. [[Code](https://github.com/lancopku/LexicalAT)]. (Acceptance Rate 23.8%). 
+  In **EMNLP 2019**. (Acceptance Rate 23.8%). 
 
 
 - Asking Clarification Questions in Knowledge-Based Question Answering. <br>
