@@ -47,12 +47,12 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 
 - Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification. <br>
   Jingjing Xu, Liang Zhao, Hanqi Yan, **Qi Zeng**, Yun Liang, Xu Sun
-  In **EMNLP 2019**. (Acceptance Rate 23.8%). 
+  In **EMNLP 2019**. [[pdf]](https://www.aclweb.org/anthology/D19-1554/). (Acceptance Rate 23.8%). 
 
 
 - Asking Clarification Questions in Knowledge-Based Question Answering. <br>
   Jingjing Xu, Yuechen Wang, Duyu Tang, Nan Duan, Pengcheng Yang, **Qi Zeng**, Ming Zhou, Xu Sun.
-  In **EMNLP 2019**. (Acceptance Rate 23.8%).
+  In **EMNLP 2019**. [[PDF]](https://www.aclweb.org/anthology/D19-1172/). (Acceptance Rate 23.8%).
 
 
 - Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations. <br>
