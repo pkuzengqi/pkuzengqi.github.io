@@ -5,18 +5,18 @@
 
 Greetings! My name is Qi Zeng (曾琪). 
 
-I am a first-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the supervision of Professor [Heng Ji](http://nlp.cs.rpi.edu/hengji.html). I am a member of the [Blender lab](http://nlp.cs.rpi.edu/). Prior to UIUC, I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. 
+I am a first-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the supervision of Professor [Heng Ji](http://blender.cs.illinois.edu/hengji.html). I am a member of the [Blender lab](http://blender.cs.illinois.edu/). Prior to UIUC, I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. 
 
 
-My research interests lie in the general area of Natural Language Processing, especially its application in knowledge-aware text generation and low-resource language understanding. 
+My research interests lie in the general area of Natural Language Processing, especially its application in event extraction and knowledge-aware text generation. 
 
-I am actively seeking 2020 Summer Internship. 
+
 
 <!---
 
 <img src="/images/pku_graduation.jpeg" class="floatpic" align = "right" height="300">
 
-
+I am actively seeking 2020 Summer Internship. 
 
 
 --->
@@ -28,7 +28,7 @@ I am actively seeking 2020 Summer Internship.
 
 ### University of Illinois Urbana-Champaign
   - PhD in Computer Science, 2019 - 
-  - Advisor: Prof. [Heng Ji](http://nlp.cs.rpi.edu/hengji.html)
+  - Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
 
 
 ### Peking University 
@@ -46,13 +46,13 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 ### 2019
 
 - Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification. <br>
-  Jingjing Xu, Liang Zhao, Hanqi Yan, **Qi Zeng**, Yun Liang, Xu Sun
-  In **EMNLP 2019**. [[pdf]](https://www.aclweb.org/anthology/D19-1554/). (Acceptance Rate 23.8%). 
+  Jingjing Xu, Liang Zhao, Hanqi Yan, **Qi Zeng**, Yun Liang, Xu Sun. <br>
+  In **EMNLP 2019**. [[PDF]](https://www.aclweb.org/anthology/D19-1554/). (Acceptance Rate 23.8%). [[Code](https://github.com/lancopku/LexicalAT)].
 
 
 - Asking Clarification Questions in Knowledge-Based Question Answering. <br>
-  Jingjing Xu, Yuechen Wang, Duyu Tang, Nan Duan, Pengcheng Yang, **Qi Zeng**, Ming Zhou, Xu Sun.
-  In **EMNLP 2019**. [[PDF]](https://www.aclweb.org/anthology/D19-1172/). (Acceptance Rate 23.8%).
+  Jingjing Xu, Yuechen Wang, Duyu Tang, Nan Duan, Pengcheng Yang, **Qi Zeng**, Ming Zhou, Xu Sun. <br>
+  In **EMNLP 2019**. [[PDF]](https://www.aclweb.org/anthology/D19-1172/). (Acceptance Rate 23.8%). [[Code and Dataset](https://github.com/msra-nlc/MSParS_V2.0)].
 
 
 - Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations. <br>
