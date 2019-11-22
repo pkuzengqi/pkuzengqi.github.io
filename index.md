@@ -114,6 +114,11 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
   - Focus: QA system
 
 
+# Contact
+
+Email: qizeng2 [AT] illinois [DOT] edu
+
+Office: Room 1127, Siebel Center for Computer Science, 201 N. Goodwin Ave, Urbana, IL 61801
 
 <br>
 
@@ -136,5 +141,5 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 <br>
 
 
-Updated: September 11, 2019
+Updated: November 22, 2019
 
