@@ -5,7 +5,7 @@
 
 Greetings! My name is Qi Zeng (曾琪). 
 
-I am a first-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the supervision of Professor [Heng Ji](http://blender.cs.illinois.edu/hengji.html). I am a member of the [Blender lab](http://blender.cs.illinois.edu/). Prior to UIUC, I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. 
+I am a first-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the supervision of Professor [Heng Ji](http://blender.cs.illinois.edu/hengji.html). Prior to UIUC, I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. 
 
 
 My research interests lie in the general area of Natural Language Processing, especially its application in event extraction and knowledge-aware text generation. 
@@ -27,13 +27,15 @@ I am actively seeking 2020 Summer Internship.
 # Academic Experience
 
 ### University of Illinois Urbana-Champaign
-  - PhD in Computer Science, 2019 - 
+  - PhD in Computer Science, 2019 - present
   - Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
+  - Graduate Research Assistant at [Blender Lab](http://blender.cs.illinois.edu/)
 
 
 ### Peking University 
   - BS in Information Science, 2013 - 2018
   - Advisor: Prof. [Xu Sun](https://xusun.org/)
+  - Undergraduate Reseach Assistant at [Language Computing and Machine Learning Group](http://lanco.pku.edu.cn/)
 
 
 
@@ -87,19 +89,13 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 
 <br>
 
-# Experience
+# Internship
 
 
 ### ByteDance AI Lab (04/2019 - 08/2019)
   - Research Intern at MLNLP Group
   - Mentor: Dr. [Hao Zhou](https://zhouh.github.io/) 
-  - Focus: Query Generation, OOV representation
-
-
-### Peking University (10/2017 - 06/2018)
-  - Undergraduate Reseach Assistant at [Language Computing and Machine Learning Group](http://lanco.pku.edu.cn/)
-  - Advisor: Prof. [Xu Sun](https://xusun.org/)
-  - Focus: Text Style Transfer, Narrative Story Generation
+  - Focus: Search Query Generation, OOV representation
 
 
 ### Microsoft Research Asia (01/2018 - 06/2018)
@@ -113,6 +109,9 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
   - Mentor: Peng Chen
   - Focus: QA system
 
+
+<br>
+<br>
 
 # Contact
 
@@ -141,5 +140,5 @@ Office: Room 1127, Siebel Center for Computer Science, 201 N. Goodwin Ave, Urban
 <br>
 
 
-Updated: November 22, 2019
+Updated: November 25, 2019
 
