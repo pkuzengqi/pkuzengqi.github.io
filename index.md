@@ -1,6 +1,6 @@
 
 
-
+# About
 
 
 Greetings! My name is Qi Zeng (曾琪). 
@@ -8,7 +8,7 @@ Greetings! My name is Qi Zeng (曾琪).
 I am a first-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the supervision of Professor [Heng Ji](http://blender.cs.illinois.edu/hengji.html). Prior to UIUC, I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018. 
 
 
-My research interests lie in the general area of Natural Language Processing, especially its application in event extraction and knowledge-aware text generation. 
+My research interests lie in the general area of Natural Language Processing, especially its application in event-related NLU and knowledge-aware text generation. 
 
 
 
@@ -95,18 +95,18 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 ### ByteDance AI Lab (04/2019 - 08/2019)
   - Research Intern at MLNLP Group
   - Mentor: Dr. [Hao Zhou](https://zhouh.github.io/) 
-  - Focus: Search Query Generation, OOV representation
+  - Focus: Search Query Generation, OOV Representation
 
 
 ### Microsoft Research Asia (01/2018 - 06/2018)
   - Research Intern at Big Data Mining Group 
-  - Mentor: Dr. Wenhao Huang
+  - Mentor: Dr. [Wenhao Huang](https://scholar.google.com/citations?user=OdE3MsQAAAAJ&hl=zh-CN)
   - Focus: Table-to-Text, Personalized Dialog Generation
 
 
 ### Microsoft STC Asia (03/2017 - 12/2017)
   - Software Engineer Intern at XiaoIce Group
-  - Mentor: Peng Chen
+  - Mentor: [Peng Chen](https://www.aclweb.org/anthology/people/p/peng-chen/)
   - Focus: QA system
 
 
@@ -127,6 +127,11 @@ Office: Room 1127, Siebel Center for Computer Science, 201 N. Goodwin Ave, Urban
   - Spring 2019: TA for [CSE 337 Scripting Languages](https://www3.cs.stonybrook.edu/~ckane/cse337/), Stony Brook University
   - Fall 2018: TA for CSE 101 Introduction to Computers, Stony Brook University
   - Fall 2017: TA for Study and Practice on Topics of Frontier Computing (I), Peking University
+
+# Professional Activities
+
+Reviewer: NAACL 2019; COLING 2018; SIGIR 2017;
+
 
 -->
 
