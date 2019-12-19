@@ -91,6 +91,10 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 
 # Internship
 
+<!-- ### Allen Institute for Artificial Intelligence (05/2020 - 08/2020)
+  - Researcg Intern on AllenNLP team
+  - Mentor: Dr. [Qiang Ning](http://qning2.web.engr.illinois.edu/)
+  - Focus: Event Representation -->
 
 ### ByteDance AI Lab (04/2019 - 08/2019)
   - Research Intern at MLNLP Group
