@@ -10,6 +10,7 @@ I am a first-year Ph.D. student in Computer Science at [University of Illinois U
 
 My research interests lie in the general area of Natural Language Processing, especially its application in event-related NLU and knowledge-aware text generation. 
 
+Will take a research internship at AI2 in the comming summer!
 
 
 <!---
@@ -149,5 +150,5 @@ Reviewer: NAACL 2019; COLING 2018; SIGIR 2017;
 <br>
 
 
-Updated: November 25, 2019
+
 
