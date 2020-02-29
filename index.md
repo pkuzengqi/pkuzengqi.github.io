@@ -7,9 +7,7 @@ Greetings! My name is Qi Zeng (曾琪).
 
 I am a first-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the supervision of Professor Heng Ji. Prior to UIUC, I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018.
 
-My research interests lie in the general area of Natural Language Processing, especially its application in event-related NLU and knowledge-aware text generation. 
-
-I will take a research internship at the Allen Institute for Artificial Intelligence (AI2) in the comming summer!
+My research interests lie in the general area of Natural Language Processing, especially in knowledge-aware language understanding and generation. 
 
 
 <!---
@@ -24,19 +22,19 @@ I am actively seeking 2020 Summer Internship.
 
 <br>
 
-# Academic Experience
+# Education
 
 ### University of Illinois Urbana-Champaign
   - PhD in Computer Science, 2019 - present
-  - Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
   - Graduate Research Assistant at [Blender Lab](http://blender.cs.illinois.edu/)
+  - Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
 
 
 ### Peking University 
   - BS in Information Science, 2014 - 2018
-  - Majored in German Language and Literature, 2013 - 2014
-  - Advisor: Prof. [Xu Sun](https://xusun.org/)
+  - Undergraduate in German Language and Literature, 2013 - 2014
   - Undergraduate Reseach Assistant at [Language Computing and Machine Learning Group](http://lanco.pku.edu.cn/)
+ - Advisor: Prof. [Xu Sun](https://xusun.org/)
 
 
 
@@ -45,6 +43,21 @@ I am actively seeking 2020 Summer Internship.
 # Publications
 
 See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)]. \* means equal contribution.
+
+
+<!-- ### 2020
+
+- Enhancing Relevant Query Generation for News Articles with External Information. <br>
+  Jiaze Chen, **Qi Zeng**, Hao Zhou, Lei Li. <br>
+  In **SIGIR 2020**. (Short Paper).
+
+- Event Network Embedding. <br>
+  **Qi Zeng**, Ying Lin, Manling Li, Heng Ji, Clare Voss, Hanghang Tong. <br>
+  In **Arxiv**.
+
+- Cross-media Structured Common Space for Multimedia Event Extraction. <br>
+  Manling Li\*, Alireza Zareian\*, **Qi Zeng**, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang. <br>
+  In **ACL 2020**. -->
 
 ### 2019
 
@@ -75,7 +88,7 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 
 - An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation. <br>
   Jingjing Xu\*, Liangchen Luo\*, Junyang Lin, **Qi Zeng**, Xu Sun. <br>
-  In **EMNLP 2018**. [[PDF](http://aclweb.org/anthology/D18-1075)].[[CODE](https://github.com/lancopku/AMM)].[[Poster](/files/EMNLP18-AEM-poster.pdf)].(Acceptance Rate 24.6%).
+  In **EMNLP 2018**. (Short Paper).[[PDF](http://aclweb.org/anthology/D18-1075)].[[CODE](https://github.com/lancopku/AMM)].[[Poster](/files/EMNLP18-AEM-poster.pdf)].(Acceptance Rate 24.6%).
 
 - A Skeleton-Based Model for Promoting Coherence in Narrative Story Generation. <br>
   Jingjing Xu, Xuancheng Ren, Yi Zhang, **Qi Zeng**, Xiaoyan Cai, Xu Sun. <br>
@@ -93,9 +106,9 @@ See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=
 # Internship
 
 <!-- ### Allen Institute for Artificial Intelligence (05/2020 - 08/2020)
-  - Researcg Intern on AllenNLP team
+  - Research Intern on AllenNLP team
   - Mentor: Dr. [Qiang Ning](http://qning2.web.engr.illinois.edu/)
-  - Focus: Event Representation -->
+  - Focus:  -->
 
 ### ByteDance AI Lab (04/2019 - 08/2019)
   - Research Intern at MLNLP Group
@@ -127,11 +140,6 @@ Office: Room 1127, Siebel Center for Computer Science, 201 N. Goodwin Ave, Urban
 <br>
 
 <!--
-
-# Teaching Experience
-  - Spring 2019: TA for [CSE 337 Scripting Languages](https://www3.cs.stonybrook.edu/~ckane/cse337/), Stony Brook University
-  - Fall 2018: TA for CSE 101 Introduction to Computers, Stony Brook University
-  - Fall 2017: TA for Study and Practice on Topics of Frontier Computing (I), Peking University
 
 # Professional Activities
 
