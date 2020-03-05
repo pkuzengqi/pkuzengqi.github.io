@@ -42,7 +42,9 @@ I am actively seeking 2020 Summer Internship.
 
 # Publications
 
-See [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)]. \* means equal contribution.
+[[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)].
+[[Full List](publications.md)].
+ \* means equal contribution.
 
 
 <!-- ### 2020
