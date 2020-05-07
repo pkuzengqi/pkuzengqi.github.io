@@ -16,7 +16,7 @@
 
 - Cross-media Structured Common Space for Multimedia Event Extraction. <br>
   Manling Li\*, Alireza Zareian\*, **Qi Zeng**, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang. <br>
-  In **ACL 2020**.
+  In **ACL 2020**.[[PDF](https://blender.cs.illinois.edu/paper/multimediaspace2020.pdf)].[[Code and Dataset](http://blender.cs.illinois.edu/software/m2e2/)].
 
 ### 2019
 
