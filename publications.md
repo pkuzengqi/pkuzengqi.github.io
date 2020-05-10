@@ -11,8 +11,8 @@
   In **SIGIR 2020**. (Short Paper).
 
 - Event Network Embedding. <br>
-  **Qi Zeng**, Ying Lin, Manling Li, Heng Ji, Clare Voss, Hanghang Tong. <br>
-  In **Arxiv**. -->
+  **Qi Zeng**,  Manling Li, Heng Ji, Hanghang Tong. <br>
+  In **EMNLP2020**. -->
 
 - Cross-media Structured Common Space for Multimedia Event Extraction. <br>
   Manling Li\*, Alireza Zareian\*, **Qi Zeng**, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang. <br>
