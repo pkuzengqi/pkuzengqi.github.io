@@ -51,8 +51,8 @@ I am actively seeking 2020 Summer Internship.
 
 ### Allen Institute for Artificial Intelligence (05/2020 - 08/2020)
   - Research Intern on AllenNLP team
-  <!-- - Mentor: Dr. [Qiang Ning](http://qning2.web.engr.illinois.edu/) -->
-  <!-- - Focus:  -->
+  - Mentor: Dr. [Qiang Ning](http://qning2.web.engr.illinois.edu/)
+  - Focus: QA
 
 ### ByteDance AI Lab (04/2019 - 08/2019)
   - Research Intern at MLNLP Group
