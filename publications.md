@@ -5,18 +5,9 @@
 ### 2020
 
 
-
-<!-- - Enhancing Relevant Query Generation for News Articles with External Information. <br>
-  Jiaze Chen, **Qi Zeng**, Hao Zhou, Lei Li. <br>
-  In **SIGIR 2020**. (Short Paper).
-
-- Event Network Embedding. <br>
-  **Qi Zeng**,  Manling Li, Heng Ji, Hanghang Tong. <br>
-  In **EMNLP2020**. -->
-
 - Cross-media Structured Common Space for Multimedia Event Extraction. <br>
   Manling Li\*, Alireza Zareian\*, **Qi Zeng**, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang. <br>
-  In **ACL 2020**.[[PDF](https://blender.cs.illinois.edu/paper/multimediaspace2020.pdf)].[[Code and Dataset](http://blender.cs.illinois.edu/software/m2e2/)]. (Acceptance Rate 22.7%). 
+  In **ACL 2020**.[[PDF](https://www.aclweb.org/anthology/2020.acl-main.230.pdf)].[[Code and Dataset](http://blender.cs.illinois.edu/software/m2e2/)]. (Acceptance Rate 22.7%). 
 
 ### 2019
 

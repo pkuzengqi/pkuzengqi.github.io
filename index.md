@@ -100,7 +100,7 @@ Office: Room 1127, Siebel Center for Computer Science, 201 N. Goodwin Ave, Urban
 
 # Professional Activities
 
-Reviewer: NAACL 2019; COLING 2018; SIGIR 2017;
+Reviewer: CCL 2020;
 
 
 -->
