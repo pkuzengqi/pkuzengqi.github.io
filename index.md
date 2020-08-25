@@ -5,7 +5,7 @@
 
 Greetings! My name is Qi Zeng (曾琪). 
 
-I am a first-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the supervision of Professor Heng Ji. Prior to UIUC, I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018.
+I am a second-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the supervision of Professor Heng Ji. Prior to UIUC, I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018.
 
 My research interests lie in the general area of Natural Language Processing, especially in knowledge-aware language understanding and representation. 
 
@@ -34,7 +34,7 @@ I am actively seeking 2020 Summer Internship.
   - BS in Information Science, 2014 - 2018
   - Undergraduate in German Language and Literature, 2013 - 2014
   - Reseach Assistant at [Language Computing and Machine Learning Group](http://lanco.pku.edu.cn/)
- - Advisor: Prof. [Xu Sun](https://xusun.org/)
+  - Advisor: Prof. [Xu Sun](https://xusun.org/)
 
 
 
