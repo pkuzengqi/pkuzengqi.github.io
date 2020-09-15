@@ -4,6 +4,9 @@
 
 ### 2020
 
+- Connecting the Dots: Event Graph Schema Induction with Path Language Modeling. <br>
+  Manling Li, **Qi Zeng**, Ying Lin, Kyunghyun Cho, Heng Ji, Jonathan May, Nathanael Chambers and Clare Voss <br>
+  In **EMNLP 2020**.[[PDF](https://blender.cs.illinois.edu/paper/eventgraphschema2020.pdf)].
 
 - Cross-media Structured Common Space for Multimedia Event Extraction. <br>
   Manling Li\*, Alireza Zareian\*, **Qi Zeng**, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang. <br>
