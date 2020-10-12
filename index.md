@@ -53,10 +53,6 @@ I am actively seeking 2020 Summer Internship.
   **Qi Zeng\***, Liangchen Luo\*, Wenhao Huang, Yang Tang. <br>
   In **AAAI 2019**. [[PDF](https://arxiv.org/pdf/1811.05563.pdf)].[[Poster](/files/AAAI19-insight-poster.pdf)].  (Acceptance Rate 16.2%).
 
-- Learning Personalized End-to-End Goal-Oriented Dialog. <br>
-  Liangchen Luo, Wenhao Huang, **Qi Zeng**, Xu Sun, Zaiqing Nie. <br>
-  In **AAAI 2019**. [[PDF](https://arxiv.org/pdf/1811.04604.pdf)].[[Poster](/files/AAAI19-personalized-poster.pdf)]. (Acceptance Rate 16.2%).
-
 
 <br>
 
