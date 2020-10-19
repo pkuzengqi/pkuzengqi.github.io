@@ -6,7 +6,7 @@
 
 - ReviewRobot: Explainable Paper Review Generation based on Knowledge Synthesis. <br>
   Qingyun Wang, **Qi Zeng**, Lifu Huang, Kevin Knight, Heng Ji, Nazneen Fatema Rajani. <br>
-  In **INLG 2020**.
+  In **INLG 2020**. [[PDF](https://blender.cs.illinois.edu/paper/reviewrobot2020.pdf)].
 
 - Connecting the Dots: Event Graph Schema Induction with Path Language Modeling. <br>
   Manling Li, **Qi Zeng**, Ying Lin, Kyunghyun Cho, Heng Ji, Jonathan May, Nathanael Chambers, Clare Voss. <br>
