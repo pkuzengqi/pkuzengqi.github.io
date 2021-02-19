@@ -9,6 +9,8 @@ I am a second-year Ph.D. student in Computer Science at [University of Illinois 
 
 My research interests lie in the general area of Natural Language Processing, especially in knowledge-aware language understanding and representation. 
 
+Meet [Peanut](cat.md)!
+
 
 <!---
 

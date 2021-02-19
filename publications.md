@@ -4,13 +4,17 @@
 
 ### 2020
 
+- GAIA at SM-KBP 2020 - A Dockerlized Multi-media Multi-lingual Knowledge Extraction, Clustering, Temporal Tracking and Hypothesis Generation System. <br>
+  Manling Li, Ying Lin, Tuan Manh Lai, Xiaoman Pan, Haoyang Wen, Lifu Huang, Zhenhailong Wang, Pengfei Yu, Di Lu, Qingyun Wang, Haoran Zhang, **Qi Zeng**, Chi Han, Zixuan Zhang, Yujia Qin, Xiaodan Hu, Nikolaus Parulian, Daniel Campos, Heng Ji, Alireza Zareian, Hassan Akbari, Brian Chen, Bo Wu, Emily Allaway, Shih-Fu Chang, Kathleen McKeown, Yixiang Yao, Jennifer Chen, Eric Berquist, Kexuan Sun, Xujun Peng, Ryan Gabbard, Marjorie Freedman, Pedro Szekely, T.K. Satish Kumar, Arka Sadhu, Haidong Zhu, Ram Nevatia, Miguel Rodriguez, Yifan Wang, Yang Bai, Ali Sadeghian, Daisy Zhe Wang. <br>
+  In **TAC 2020**(Text Analysis Conference). [[PDF](https://blender.cs.illinois.edu/paper/gaia_smkbp_2020.pdf)].
+
 - ReviewRobot: Explainable Paper Review Generation based on Knowledge Synthesis. <br>
   Qingyun Wang, **Qi Zeng**, Lifu Huang, Kevin Knight, Heng Ji, Nazneen Fatema Rajani. <br>
-  In **INLG 2020**. [[PDF](https://blender.cs.illinois.edu/paper/reviewrobot2020.pdf)].
+  In **INLG 2020**. [[PDF](https://www.aclweb.org/anthology/2020.inlg-1.44/)].[[Code](https://github.com/EagleW/ReviewRobot)]. 
 
 - Connecting the Dots: Event Graph Schema Induction with Path Language Modeling. <br>
   Manling Li, **Qi Zeng**, Ying Lin, Kyunghyun Cho, Heng Ji, Jonathan May, Nathanael Chambers, Clare Voss. <br>
-  In **EMNLP 2020**.[[PDF](https://blender.cs.illinois.edu/paper/eventgraphschema2020.pdf)]. (Acceptance Rate 22.4%). 
+  In **EMNLP 2020**.[[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.50/)]. [[Code](http://blender.cs.illinois.edu/software/pathlm/)]. (Acceptance Rate 22.4%). 
 
 - Cross-media Structured Common Space for Multimedia Event Extraction. <br>
   Manling Li\*, Alireza Zareian\*, **Qi Zeng**, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang. <br>
