@@ -56,8 +56,8 @@ I am actively seeking 2020 Summer Internship.
   In **AAAI 2019**. [[PDF](https://arxiv.org/pdf/1811.05563.pdf)].[[Poster](/files/AAAI19-insight-poster.pdf)].  (Acceptance Rate 16.2%).
 
 - GENE: Global Event Network Embedding. <br>
-  Qi Zeng, Manling Li, Tuan Lai, Heng Ji, Mohit Bansal, Hanghang Tong. <br>
-  In **TextGraphs 2021 Workshop at NAACL 2021**.
+  **Qi Zeng**, Manling Li, Tuan Lai, Heng Ji, Mohit Bansal, Hanghang Tong. <br>
+  In **TextGraphs 2021** Workshop at NAACL 2021.
 
 <br>
 

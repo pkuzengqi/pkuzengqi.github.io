@@ -5,15 +5,15 @@
 ### 2021
 
 - GENE: Global Event Network Embedding. <br>
-  Qi Zeng, Manling Li, Tuan Lai, Heng Ji, Mohit Bansal, Hanghang Tong. <br>
-  In **TextGraphs 2021 Workshop at NAACL 2021**.
+  **Qi Zeng**, Manling Li, Tuan Lai, Heng Ji, Mohit Bansal, Hanghang Tong. <br>
+  In **TextGraphs 2021** Workshop at NAACL 2021.
 
 
 ### 2020
 
 - GAIA at SM-KBP 2020 - A Dockerlized Multi-media Multi-lingual Knowledge Extraction, Clustering, Temporal Tracking and Hypothesis Generation System. <br>
   Manling Li, Ying Lin, Tuan Manh Lai, Xiaoman Pan, Haoyang Wen, Lifu Huang, Zhenhailong Wang, Pengfei Yu, Di Lu, Qingyun Wang, Haoran Zhang, **Qi Zeng**, Chi Han, Zixuan Zhang, Yujia Qin, Xiaodan Hu, Nikolaus Parulian, Daniel Campos, Heng Ji, Alireza Zareian, Hassan Akbari, Brian Chen, Bo Wu, Emily Allaway, Shih-Fu Chang, Kathleen McKeown, Yixiang Yao, Jennifer Chen, Eric Berquist, Kexuan Sun, Xujun Peng, Ryan Gabbard, Marjorie Freedman, Pedro Szekely, T.K. Satish Kumar, Arka Sadhu, Haidong Zhu, Ram Nevatia, Miguel Rodriguez, Yifan Wang, Yang Bai, Ali Sadeghian, Daisy Zhe Wang. <br>
-  In **TAC 2020 (Text Analysis Conference)**. [[PDF](https://blender.cs.illinois.edu/paper/gaia_smkbp_2020.pdf)].
+  In **TAC 2020** (Text Analysis Conference). [[PDF](https://blender.cs.illinois.edu/paper/gaia_smkbp_2020.pdf)].
 
 - ReviewRobot: Explainable Paper Review Generation based on Knowledge Synthesis. <br>
   Qingyun Wang, **Qi Zeng**, Lifu Huang, Kevin Knight, Heng Ji, Nazneen Fatema Rajani. <br>
