@@ -52,7 +52,7 @@ I am actively seeking 2020 Summer Internship.
   In **ACL 2018**. [[PDF](http://aclweb.org/anthology/P18-1090)].[[CODE](https://github.com/lancopku/Unpaired-Sentiment-Translation)].[[SLIDES](/files/ACL2018.pdf)]. (Acceptance Rate 24.9%).
   
 - Text Assisted Insight Ranking Using Context-Aware Memory Network. <br>
-  <u>Qi Zeng\*</u>, Liangchen Luo\*, Wenhao Huang, Yang Tang. <br>
+  <u>Qi Zeng</u>\*, Liangchen Luo\*, Wenhao Huang, Yang Tang. <br>
   In **AAAI 2019**. [[PDF](https://arxiv.org/pdf/1811.05563.pdf)].[[Poster](/files/AAAI19-insight-poster.pdf)].  (Acceptance Rate 16.2%).
 
 - GENE: Global Event Network Embedding. <br>
