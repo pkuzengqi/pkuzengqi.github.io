@@ -47,17 +47,14 @@ I am actively seeking 2020 Summer Internship.
 [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)].
 [[Full List](publications.md)].
 
-- Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning. <br>
-  Jingjing Xu, Xu Sun, <u>Qi Zeng</u>, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang, Wenjie Li. <br>
-  In **ACL 2018**. [[PDF](http://aclweb.org/anthology/P18-1090)].[[CODE](https://github.com/lancopku/Unpaired-Sentiment-Translation)].[[SLIDES](/files/ACL2018.pdf)]. (Acceptance Rate 24.9%).
-  
-- Text Assisted Insight Ranking Using Context-Aware Memory Network. <br>
-  <u>Qi Zeng</u>\*, Liangchen Luo\*, Wenhao Huang, Yang Tang. <br>
-  In **AAAI 2019**. [[PDF](https://arxiv.org/pdf/1811.05563.pdf)].[[Poster](/files/AAAI19-insight-poster.pdf)].  (Acceptance Rate 16.2%).
-
 - GENE: Global Event Network Embedding. <br>
-  <u>Qi Zeng</u>, Manling Li, Tuan Lai, Heng Ji, Mohit Bansal, Hanghang Tong. <br>
-  In **TextGraphs 2021** Workshop at NAACL 2021.
+  **Qi Zeng**, Manling Li, Tuan Lai, Heng Ji, Mohit Bansal, Hanghang Tong. <br>
+  In [TextGraphs 2021](https://sites.google.com/view/textgraphs2021) Workshop at NAACL 2021.
+
+- Text Assisted Insight Ranking Using Context-Aware Memory Network. <br>
+  **Qi Zeng**\*, Liangchen Luo\*, Wenhao Huang, Yang Tang. <br>
+  In [AAAI 2019](https://aaai.org/Conferences/AAAI-19/). [[PDF](https://arxiv.org/pdf/1811.05563.pdf)].[[Poster](/files/AAAI19-insight-poster.pdf)].  (Acceptance Rate 16.2%).
+
 
 <br>
 
