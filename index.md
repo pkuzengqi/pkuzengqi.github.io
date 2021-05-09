@@ -7,7 +7,7 @@ Greetings! My name is Qi Zeng (曾琪).
 
 I am a second-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the supervision of Professor Heng Ji. Prior to UIUC, I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018.
 
-My research interests lie in the general area of Natural Language Processing, especially in knowledge-aware language understanding and representation. 
+My research interests lie in the general area of Natural Language Processing, especially in document-level event-centric language representation and understanding. 
 
 Meet [Peanut](cat.md)!
 
@@ -60,6 +60,11 @@ I am actively seeking 2020 Summer Internship.
 
 # Internship
 
+### Microsoft (05/2021 - 08/2021)
+  - Research Intern at [Cognitive Services Research group (CSR)](https://www.microsoft.com/en-us/research/group/cognitive-services-research/)
+  - Mentor: Dr. [Yu Shi](https://www.microsoft.com/en-us/research/people/yushi/) and Dr. [Yao Qian](https://sites.google.com/site/yaoqianhomepage/)
+  - Focus: Multi-Modal Language Modeling
+
 ### Allen Institute for Artificial Intelligence (05/2020 - 08/2020)
   - Research Intern on AllenNLP team
   - Mentor: Dr. [Qiang Ning](http://qning2.web.engr.illinois.edu/)
@@ -96,9 +101,14 @@ Office: Room 1127, Siebel Center for Computer Science, 201 N. Goodwin Ave, Urban
 
 <!--
 
-# Professional Activities
+# Services
 
-Reviewer: CCL 2020;
+
+Conference Program Committee: CCL 2020, EMNLP 2021,
+
+Journal Reviewer: Neurocomputing
+
+
 
 
 -->

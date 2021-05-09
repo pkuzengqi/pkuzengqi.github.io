@@ -6,7 +6,7 @@
 
 - GENE: Global Event Network Embedding. <br>
   **Qi Zeng**, Manling Li, Tuan Lai, Heng Ji, Mohit Bansal, Hanghang Tong. <br>
-  In [TextGraphs 2021](https://sites.google.com/view/textgraphs2021) Workshop at NAACL 2021.
+  In [TextGraphs 2021](https://sites.google.com/view/textgraphs2021) Workshop at NAACL 2021. [[PDF](https://blender.cs.illinois.edu/paper/gene2021.pdf)]. [[Code](https://github.com/pkuzengqi/GENE)]. 
 
 
 ### 2020
