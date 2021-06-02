@@ -7,19 +7,16 @@ Greetings! My name is Qi Zeng (曾琪).
 
 I am a second-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the supervision of Professor Heng Ji. Prior to UIUC, I got my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2018.
 
-My research interests lie in the general area of Natural Language Processing, especially in document-level event-centric language representation and understanding. 
+My focus of research area is Natural Language Processing (NLP), especially **large-context event-centric language understanding**.
 
-Meet [Peanut](cat.md)!
-
-
-<!---
-
-<img src="/images/pku_graduation.jpeg" class="floatpic" align = "right" height="300">
-
-I am actively seeking 2020 Summer Internship. 
+- Corpus-level Event Representation/Schema Induction
+- Efficient Transformers for Long Document
 
 
---->
+Meet my cat [Peanut](cat.md)!
+
+
+
 
 
 <br>
@@ -48,11 +45,11 @@ I am actively seeking 2020 Summer Internship.
 [[Full List](publications.md)].
 
 - GENE: Global Event Network Embedding. <br>
-  **Qi Zeng**, Manling Li, Tuan Lai, Heng Ji, Mohit Bansal, Hanghang Tong. <br>
+  <u>Qi Zeng</u>, Manling Li, Tuan Lai, Heng Ji, Mohit Bansal, Hanghang Tong. <br>
   In [TextGraphs 2021](https://sites.google.com/view/textgraphs2021) Workshop at NAACL 2021.
 
 - Text Assisted Insight Ranking Using Context-Aware Memory Network. <br>
-  **Qi Zeng**\*, Liangchen Luo\*, Wenhao Huang, Yang Tang. <br>
+  <u>Qi Zeng</u>\*, Liangchen Luo\*, Wenhao Huang, Yang Tang. <br>
   In [AAAI 2019](https://aaai.org/Conferences/AAAI-19/). [[PDF](https://arxiv.org/pdf/1811.05563.pdf)].[[Poster](/files/AAAI19-insight-poster.pdf)].  (Acceptance Rate 16.2%).
 
 
@@ -60,10 +57,10 @@ I am actively seeking 2020 Summer Internship.
 
 # Internship
 
-### Microsoft (05/2021 - 08/2021)
+### Microsoft Research (05/2021 - 08/2021)
   - Research Intern at [Cognitive Services Research group (CSR)](https://www.microsoft.com/en-us/research/group/cognitive-services-research/)
   - Mentor: Dr. [Yu Shi](https://www.microsoft.com/en-us/research/people/yushi/) and Dr. [Yao Qian](https://sites.google.com/site/yaoqianhomepage/)
-  - Focus: Multi-Modal Language Modeling
+  - Focus: Multi-modal Language Modeling
 
 ### Allen Institute for Artificial Intelligence (05/2020 - 08/2020)
   - Research Intern on AllenNLP team
@@ -97,21 +94,7 @@ Email: qizeng2 [AT] illinois [DOT] edu
 
 Office: Room 1127, Siebel Center for Computer Science, 201 N. Goodwin Ave, Urbana, IL 61801
 
-<br>
 
-<!--
-
-# Services
-
-
-Conference Program Committee: CCL 2020, EMNLP 2021,
-
-Journal Reviewer: Neurocomputing
-
-
-
-
--->
 
 <br>
 <br>
