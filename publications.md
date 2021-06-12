@@ -6,7 +6,7 @@
 
 - GENE: Global Event Network Embedding. <br>
   <u>Qi Zeng</u>, Manling Li, Tuan Lai, Heng Ji, Mohit Bansal, Hanghang Tong. <br>
-  In [TextGraphs 2021](https://sites.google.com/view/textgraphs2021) Workshop at NAACL 2021. [[PDF](https://blender.cs.illinois.edu/paper/gene2021.pdf)]. [[Code](https://github.com/pkuzengqi/GENE)]. 
+  In [TextGraphs 2021](https://sites.google.com/view/textgraphs2021) Workshop at NAACL 2021. [[PDF](https://www.aclweb.org/anthology/2021.textgraphs-1.5.pdf)]. [[Code](https://github.com/pkuzengqi/GENE)]. 
 
 
 ### 2020
@@ -55,15 +55,15 @@
 ### 2018
 
 - An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation. <br>
-  Jingjing Xu\*, Liangchen Luo\*, Junyang Lin, **Qi Zeng**, Xu Sun. <br>
+  Jingjing Xu\*, Liangchen Luo\*, Junyang Lin, <u>Qi Zeng</u>, Xu Sun. <br>
   In [EMNLP 2018](https://emnlp2018.org/). (Short Paper).[[PDF](http://aclweb.org/anthology/D18-1075)].[[CODE](https://github.com/lancopku/AMM)].[[Poster](/files/EMNLP18-AEM-poster.pdf)].(Acceptance Rate 24.6%).
 
 - A Skeleton-Based Model for Promoting Coherence in Narrative Story Generation. <br>
-  Jingjing Xu, Xuancheng Ren, Yi Zhang, **Qi Zeng**, Xiaoyan Cai, Xu Sun. <br>
+  Jingjing Xu, Xuancheng Ren, Yi Zhang, <u>Qi Zeng</u>, Xiaoyan Cai, Xu Sun. <br>
   In [EMNLP 2018](https://emnlp2018.org/).[[PDF](http://aclweb.org/anthology/D18-1462)].[[CODE](https://github.com/lancopku/Skeleton-Based-Generation-Model)].(Acceptance Rate 24.6%).
 
 - Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning. <br>
-  Jingjing Xu, Xu Sun, **Qi Zeng**, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang, Wenjie Li. <br>
+  Jingjing Xu, Xu Sun, <u>Qi Zeng</u>, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang, Wenjie Li. <br>
   In [ACL 2018](https://acl2018.org/). [[PDF](http://aclweb.org/anthology/P18-1090)].[[CODE](https://github.com/lancopku/Unpaired-Sentiment-Translation)].[[SLIDES](/files/ACL2018.pdf)]. (Acceptance Rate 24.9%).
 
 

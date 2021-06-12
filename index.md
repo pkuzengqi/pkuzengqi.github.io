@@ -41,7 +41,7 @@ Meet my cat [Peanut](cat.md)!
 
 - GENE: Global Event Network Embedding. <br>
   <u>Qi Zeng</u>, Manling Li, Tuan Lai, Heng Ji, Mohit Bansal, Hanghang Tong. <br>
-  In [TextGraphs 2021](https://sites.google.com/view/textgraphs2021) Workshop at NAACL 2021.
+  In [TextGraphs 2021](https://sites.google.com/view/textgraphs2021) Workshop at NAACL 2021. [[PDF](https://www.aclweb.org/anthology/2021.textgraphs-1.5.pdf)]. [[Code](https://github.com/pkuzengqi/GENE)]. 
 
 - Text Assisted Insight Ranking Using Context-Aware Memory Network. <br>
   <u>Qi Zeng</u>\*, Liangchen Luo\*, Wenhao Huang, Yang Tang. <br>
@@ -60,7 +60,7 @@ Meet my cat [Peanut](cat.md)!
 ### Allen Institute for Artificial Intelligence (05/2020 - 08/2020)
   - Research Intern on AllenNLP team
   - Mentor: Dr. [Qiang Ning](http://qning2.web.engr.illinois.edu/)
-  - Focus: QA
+  - Focus: Temporal QA
 
 ### ByteDance AI Lab (04/2019 - 08/2019)
   - Research Intern at MLNLP Group
@@ -77,7 +77,7 @@ Meet my cat [Peanut](cat.md)!
 ### Microsoft STC Asia (03/2017 - 12/2017)
   - Software Engineer Intern at XiaoIce Group
   - Mentor: [Peng Chen](https://www.aclweb.org/anthology/people/p/peng-chen/)
-  - Focus: QA system
+  - Focus: QA System
 
 
 <br>
