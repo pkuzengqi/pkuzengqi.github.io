@@ -7,8 +7,11 @@ Greetings! My name is Qi Zeng (曾琪).
 
 I am a Ph.D. candidate in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/). My focus of research area is Natural Language Processing (NLP), especially **large-context event-centric language understanding**.
 
-- Corpus-level Event Extraction/Representation/Schema Induction
-- Efficient Transformers for Long Document
+- Corpus-level Event Representation
+- Long-document Event Extraction
+- Fast Attention for Long Document
+- Multi-hop Question Answering
+
 
 Meet my cat [Peanut](cat.md)!
 
