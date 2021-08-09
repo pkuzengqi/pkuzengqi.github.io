@@ -30,7 +30,7 @@ Meet my cat [Peanut](cat.md)!
 
 ### Peking University 
   - BS in Information Science, 2014 - 2018
-  - Reseach Assistant at [Language Computing and Machine Learning Group](http://lanco.pku.edu.cn/)
+  - Reseach Assistant at [Language Computing and Machine Learning Group](https://lancopku.github.io/)
   - Advisor: Prof. [Xu Sun](https://xusun.org/)
 
 
