@@ -150,9 +150,9 @@ Meet my cat [Peanut](cat.md)!
 
 Email: qizeng2 [AT] illinois [DOT] edu
 
-Office: Room 1115, Siebel Center for Computer Science, 201 N. Goodwin Ave, Urbana, IL 61801
+<!-- Office: Room 1115, Siebel Center for Computer Science, 201 N. Goodwin Ave, Urbana, IL 61801
 
-
+ -->
 
 <br>
 <br>
