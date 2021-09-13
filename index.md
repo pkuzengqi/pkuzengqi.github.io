@@ -5,12 +5,12 @@
 
 Greetings! My name is Qi Zeng (曾琪). 
 
-I am a Ph.D. candidate in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/). My focus of research area is Natural Language Processing (NLP), especially **large-context language understanding**.
+I am a Ph.D. candidate in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/). My focus of research area is Natural Language Processing (NLP), especially **long-document text understanding**.
 
+- Fast Attention for Long Sequence
+- Long Text Generation
 - Corpus-level Event Representation 
 - Cross-document Event Extraction 
-- Long Text Generation
-- Attention Acceleration for Long Sequence Processing
 
 
 Meet my cat [Peanut](cat.md)!
@@ -23,7 +23,7 @@ Meet my cat [Peanut](cat.md)!
 # Education
 
 ### University of Illinois Urbana-Champaign
-  - PhD in Computer Science, 2019 - present
+  - PhD in Computer Science, 2019 - 2024 (expected)
   - Research Assistant at [Blender Lab](http://blender.cs.illinois.edu/)
   - Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
 
