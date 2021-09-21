@@ -8,9 +8,8 @@ Greetings! My name is Qi Zeng (曾琪).
 I am a Ph.D. candidate in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/). My focus of research area is Natural Language Processing (NLP), especially **long-document text understanding**.
 
 - Fast Attention for Long Sequence
-- Long Text Generation
-- Corpus-level Event Representation 
-- Cross-document Event Extraction 
+- Long Text Generation and Summarization
+- Doc-level Event Extraction, Representation and Alignment
 
 
 Meet my cat [Peanut](cat.md)!
@@ -59,13 +58,13 @@ Meet my cat [Peanut](cat.md)!
 ### Microsoft Research Asia (01/2018 - 06/2018)
   - Research Intern at Big Data Mining Group 
   - Mentor: Dr. [Wenhao Huang](https://scholar.google.com/citations?user=OdE3MsQAAAAJ&hl=zh-CN)
-  - Focus: Table-to-Text, Personalized Dialog Generation
+  - Focus: Table-to-Text Generation, Personalized Dialog Generation
 
 
 ### Microsoft STC Asia (03/2017 - 12/2017)
   - Software Engineer Intern at XiaoIce Group
   - Mentor: [Peng Chen](https://www.aclweb.org/anthology/people/p/peng-chen/)
-  - Focus: QA System
+  - Focus: QA System for Xiaoice
 
 
 <br>
