@@ -79,9 +79,13 @@ Meet my cat [Peanut](cat.md)!
 
 ### 2021
 
+- Skyformer: Remodel Self-Attention with Gaussian Kernel and Nystr\"om Method. <br>
+  Yifan Chen\*, <u>Qi Zeng</u>\*, Heng Ji, Yun Yang
+  In [NeurIPS 2021].  (Acceptance Rate 26%). 
+
 - GENE: Global Event Network Embedding. <br>
   <u>Qi Zeng</u>, Manling Li, Tuan Lai, Heng Ji, Mohit Bansal, Hanghang Tong. <br>
-  In [TextGraphs 2021](https://sites.google.com/view/textgraphs2021) Workshop at NAACL 2021. [[PDF](https://www.aclweb.org/anthology/2021.textgraphs-1.5.pdf)]. [[Code](https://github.com/pkuzengqi/GENE)]. 
+  In [NAACL 2021](https://2021.naacl.org/) [TextGraphs-15](https://sites.google.com/view/textgraphs2021) Workshop. [[PDF](https://www.aclweb.org/anthology/2021.textgraphs-1.5.pdf)]. [[Code](https://github.com/pkuzengqi/GENE)]. 
 
 
 ### 2020
