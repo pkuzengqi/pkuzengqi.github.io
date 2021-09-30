@@ -81,7 +81,7 @@ Meet my cat [Peanut](cat.md)!
 
 - Skyformer: Remodel Self-Attention with Gaussian Kernel and Nystr\"om Method. <br>
   Yifan Chen\*, <u>Qi Zeng</u>\*, Heng Ji, Yun Yang. <br>
-  In [NeurIPS 2021](https://nips.cc/Conferences/2021).  
+  In [NeurIPS 2021](https://nips.cc/Conferences/2021).  [[PDF]()]. [[Code](https://github.com/pkuzengqi/Skyformer)].
 <!--   (Acceptance Rate 26%).  -->
 
 - GENE: Global Event Network Embedding. <br>
