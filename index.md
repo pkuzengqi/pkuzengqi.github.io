@@ -11,8 +11,8 @@ I am a Ph.D. candidate in Computer Science at [University of Illinois Urbana-Cha
 - Long Text Generation and Summarization
 - Document-level Event Extraction, Representation and Schema Induction
 
+I work hard so my cat [PP](cat.md) can have a better life.
 
-Meet my cat [Peanut](cat.md)!
 
 
 
