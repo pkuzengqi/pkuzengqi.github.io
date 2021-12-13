@@ -79,6 +79,10 @@ I work hard so my cat [PP](cat.md) can have a better life.
 
 ### 2021
 
+- Sketching as a Tool for Understanding and Accelerating Self-attention for Long Sequences. <br>
+- Yifan Chen\*, Qi Zeng\*, Dilek Hakkani-Tur, Di Jin, Heng Ji, Yun Yang. <br>
+- In Arxiv. [[PDF](https://arxiv.org/abs/2112.05359)]. [[Code](https://github.com/pkuzengqi/Skeinformer)].
+
 - Skyformer: Remodel Self-Attention with Gaussian Kernel and Nystr\"om Method. <br>
   Yifan Chen\*, <u>Qi Zeng</u>\*, Heng Ji, Yun Yang. <br>
   In [NeurIPS 2021](https://nips.cc/Conferences/2021).  [[PDF](https://arxiv.org/abs/2111.00035)]. [[Code](https://github.com/pkuzengqi/Skyformer)].
