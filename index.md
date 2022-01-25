@@ -5,11 +5,13 @@
 
 Greetings! My name is Qi Zeng (曾琪). 
 
-I am a Ph.D. candidate in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/). My focus of research area is Natural Language Processing (NLP), especially **long-document text understanding**.
+I am a Ph.D. candidate in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/). 
+My focus of research area is Natural Language Processing (NLP), especially **long-document text understanding**.
+My research aim is building robust models that can automatically understand and learn from large-scale texts of various domains.
 
 - Efficient Transformers for Long Sequence Processing
-- Long Text Generation and Summarization
-- Document-level Event Extraction, Representation and Schema Induction
+- Document Summarization
+- Document-level Event Extraction and Representation
 
 I work hard so my cat [PP](cat.md) can have a better life.
 
