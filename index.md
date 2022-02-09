@@ -42,7 +42,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 # Internship
 
 ### Microsoft Research (05/2021 - 08/2021)
-  - Research Intern at [Cognitive Services Research group (CSR)](https://www.microsoft.com/en-us/research/group/cognitive-services-research/)
+  - Research Intern at Cognitive Services Research group (CSR)
 <!--   - Mentor: Dr. [Yu Shi](https://www.microsoft.com/en-us/research/people/yushi/) and Dr. [Yao Qian](https://sites.google.com/site/yaoqianhomepage/) -->
   - Focus: Speech-Text Language Understanding
 
@@ -54,13 +54,13 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 ### ByteDance AI Lab (04/2019 - 08/2019)
   - Research Intern at MLNLP Group
 <!--   - Mentor: Dr. [Hao Zhou](https://zhouh.github.io/)  -->
-  - Focus: Search Query Generation, OOV Representation
+  - Focus: Search Query Generation
 
 
 ### Microsoft Research Asia (01/2018 - 06/2018)
   - Research Intern at Big Data Mining Group 
 <!--   - Mentor: Dr. [Wenhao Huang](https://scholar.google.com/citations?user=OdE3MsQAAAAJ&hl=zh-CN) -->
-  - Focus: Table-to-Text Generation, Personalized Dialog Generation
+  - Focus: Table-to-Text Generation
 
 
 ### Microsoft STC Asia (03/2017 - 12/2017)
