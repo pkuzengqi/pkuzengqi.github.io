@@ -63,7 +63,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
   - Focus: Table-to-Text Generation
 
 
-### Microsoft STC Asia (03/2017 - 12/2017)
+### Microsoft Search Technology Center Asia (03/2017 - 12/2017)
   - Software Engineer Intern at XiaoIce Group
 <!--   - Mentor: [Peng Chen](https://www.aclweb.org/anthology/people/p/peng-chen/) -->
   - Focus: QA System for Xiaoice
