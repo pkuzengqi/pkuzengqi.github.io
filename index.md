@@ -25,6 +25,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 
 ### University of Illinois Urbana-Champaign
   - PhD in Computer Science, 2019 - 2024 (expected)
+  - MS in Computer Science, 2019 - 2021
   - Research Assistant at [Blender Lab](http://blender.cs.illinois.edu/)
   - Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
 
@@ -41,32 +42,41 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 
 # Internship
 
-### Microsoft Research (05/2021 - 08/2021)
-  - Research Intern at Cognitive Services Research group (CSR)
+
+- Amazon Search, Query Understanding Team (05/2022 - 08/2022)
+- Microsoft Research, Cognitive Services Research Group (05/2021 - 08/2021)
+- Allen Institute for Artificial Intelligence (AI2), AllenNLP Team (05/2020 - 08/2020)
+- ByteDance AI Lab, MLNLP Group (04/2019 - 08/2019)
+- Microsoft Research Asia, Big Data Mining Group (01/2018 - 06/2018)
+- Microsoft Search Technology Center Asia, XiaoIce Group (03/2017 - 12/2017)
+
+
+<!-- ### Microsoft Research (05/2021 - 08/2021) -->
+  <!-- - Research Intern at Cognitive Services Research group (CSR) -->
 <!--   - Mentor: Dr. [Yu Shi](https://www.microsoft.com/en-us/research/people/yushi/) and Dr. [Yao Qian](https://sites.google.com/site/yaoqianhomepage/) -->
-  - Focus: Speech-Text Language Understanding
+  <!-- - Focus: Speech-Text Language Understanding -->
 
-### Allen Institute for Artificial Intelligence (05/2020 - 08/2020)
-  - Research Intern on AllenNLP team
+<!-- ### Allen Institute for Artificial Intelligence (05/2020 - 08/2020) -->
+  <!-- - Research Intern on AllenNLP team -->
 <!--   - Mentor: Dr. [Qiang Ning](http://qning2.web.engr.illinois.edu/) -->
-  - Focus: Temporal QA
+  <!-- - Focus: Temporal QA -->
 
-### ByteDance AI Lab (04/2019 - 08/2019)
-  - Research Intern at MLNLP Group
+<!-- ### ByteDance AI Lab (04/2019 - 08/2019) -->
+<!--   - Research Intern at MLNLP Group -->
 <!--   - Mentor: Dr. [Hao Zhou](https://zhouh.github.io/)  -->
-  - Focus: Search Query Generation
+  <!-- - Focus: Search Query Generation -->
 
 
-### Microsoft Research Asia (01/2018 - 06/2018)
-  - Research Intern at Big Data Mining Group 
+<!-- ### Microsoft Research Asia (01/2018 - 06/2018) -->
+<!--   - Research Intern at Big Data Mining Group  -->
 <!--   - Mentor: Dr. [Wenhao Huang](https://scholar.google.com/citations?user=OdE3MsQAAAAJ&hl=zh-CN) -->
-  - Focus: Table-to-Text Generation
+  <!-- - Focus: Table-to-Text Generation -->
 
 
-### Microsoft Search Technology Center Asia (03/2017 - 12/2017)
-  - Software Engineer Intern at XiaoIce Group
+<!-- ### Microsoft Search Technology Center Asia (03/2017 - 12/2017) -->
+<!--   - Software Engineer Intern at XiaoIce Group -->
 <!--   - Mentor: [Peng Chen](https://www.aclweb.org/anthology/people/p/peng-chen/) -->
-  - Focus: QA System for Xiaoice
+  <!-- - Focus: QA System for Xiaoice -->
 
 
 <br>
@@ -78,6 +88,8 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)].
 
  \* means equal contribution.
+
+### 2022
 
 ### 2021
 
