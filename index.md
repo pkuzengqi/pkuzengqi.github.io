@@ -91,12 +91,17 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 
 ### 2022
 
-### 2021
+- **EA$^2$E: Improving Consistency with Event Awareness for Document-level Argument Extraction**<br>
+  <u>Qi Zeng</u>\*, Qiusi Zhan\*, Heng Ji<br>
+  [*NAACL 2022*](https://2022.naacl.org/) 
+
 
 - **Sketching as a Tool for Understanding and Accelerating Self-attention for Long Sequences** <br>
   Yifan Chen\*, <u>Qi Zeng</u>\*, Dilek Hakkani-Tur, Di Jin, Heng Ji, Yun Yang <br>
-  *Arxiv* <br>
+  [*NAACL 2022*](https://2022.naacl.org/) <br>
   [[PDF](https://arxiv.org/abs/2112.05359)] [[Code](https://github.com/pkuzengqi/Skeinformer)]
+
+### 2021
 
 - **Skyformer: Remodel Self-Attention with Gaussian Kernel and Nystr\"om Method** <br>
   Yifan Chen\*, <u>Qi Zeng</u>\*, Heng Ji, Yun Yang <br>
