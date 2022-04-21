@@ -92,7 +92,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 ### 2022
 
 
-- **RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios** 
+- **RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios**<br> 
   Xinya Du, Zixuan Zhang, Sha Li, Pengfei Yu, Hongwei Wang, Tuan Lai, Xudong Lin, Ziqi Wang, Iris Liu, Ben Zhou, Haoyang Wen, Manling Li, Darryl Hannan, Jie Lei, Hyounghun Kim, Rotem Dror, Haoyu Wang, Michael Regan, <u>Qi Zeng</u>, QING LYU, Charles Yu, Carl Edwards, Xiaomeng Jin, Yizhu Jiao, Ghazaleh Kazeminejad, Zhenhailong Wang, Chris Callison-Burch, Mohit Bansal, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang, Martha Palmer, Heng Ji<br>
     [*NAACL 2022*](https://2022.naacl.org/) (Demo Paper) <br>
   
