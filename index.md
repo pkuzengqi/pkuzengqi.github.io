@@ -44,12 +44,12 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 # Internship
 
 
-- Amazon Search, Query Understanding Team (05/2022 - 08/2022)
-- Microsoft Research, Cognitive Services Research Group (05/2021 - 08/2021)
-- Allen Institute for Artificial Intelligence (AI2), AllenNLP Team (05/2020 - 08/2020)
-- ByteDance AI Lab, MLNLP Group (04/2019 - 08/2019)
-- Microsoft Research Asia, Big Data Mining Group (01/2018 - 06/2018)
-- Microsoft Search Technology Center Asia, XiaoIce Group (03/2017 - 12/2017)
+- Amazon Search, Query Understanding Team, Research Intern, 2022 Summer
+- Microsoft Research, Cognitive Services Research Group, Research Intern, 2021 Summer
+- Allen Institute for Artificial Intelligence (AI2), AllenNLP Team, Research Intern, 2020 Summer
+- ByteDance AI Lab, MLNLP Group, Research Intern, 2019 Summer
+- Microsoft Research Asia, Big Data Mining Group, Research Intern, 2018 Spring
+- Microsoft Search Technology Center Asia, XiaoIce Group, Software Engineer Intern, 20217 Spring
 
 
 <!-- ### Microsoft Research (05/2021 - 08/2021) -->
