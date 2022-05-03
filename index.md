@@ -49,7 +49,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 - Allen Institute for Artificial Intelligence (AI2), AllenNLP Team, Research Intern, 2020 Summer
 - ByteDance AI Lab, MLNLP Group, Research Intern, 2019 Summer
 - Microsoft Research Asia, Big Data Mining Group, Research Intern, 2018 Spring
-- Microsoft Search Technology Center Asia, XiaoIce Group, Software Engineer Intern, 20217 Spring
+- Microsoft Search Technology Center Asia, XiaoIce Group, Software Engineer Intern, 2017 Spring
 
 
 <!-- ### Microsoft Research (05/2021 - 08/2021) -->
