@@ -92,6 +92,11 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 
 ### 2022
 
+- **Efficient Reward Poisoning Attacks on Online Deep Reinforcement Learning**<br>
+  Yinglun Xu,  <u>Qi Zeng</u>, Gagandeep Singh<br>
+  arXiv:2205.14842<br>
+  [[PDF](https://arxiv.org/abs/2205.14842)] [[Code](https://github.com/YinglunXu/reward_poisoning_attack_drl)]
+
 
 - **RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios**<br> 
   Xinya Du, Zixuan Zhang, Sha Li, Pengfei Yu, Hongwei Wang, Tuan Lai, Xudong Lin, Ziqi Wang, Iris Liu, Ben Zhou, Haoyang Wen, Manling Li, Darryl Hannan, Jie Lei, Hyounghun Kim, Rotem Dror, Haoyu Wang, Michael Regan, <u>Qi Zeng</u>, QING LYU, Charles Yu, Carl Edwards, Xiaomeng Jin, Yizhu Jiao, Ghazaleh Kazeminejad, Zhenhailong Wang, Chris Callison-Burch, Mohit Bansal, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang, Martha Palmer, Heng Ji<br>
@@ -101,7 +106,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 - **EA$^2$E: Improving Consistency with Event Awareness for Document-level Argument Extraction**<br>
   <u>Qi Zeng</u>\*, Qiusi Zhan\*, Heng Ji<br>
   [*NAACL 2022*](https://2022.naacl.org/) (Short Paper) <br>
-  [[PDF](https://blender.cs.illinois.edu/paper/docie2022b.pdf)] [[Code](https://github.com/ZQS1943/DOCIE)]
+  [[PDF](https://arxiv.org/abs/2205.14847)] [[Code](https://github.com/ZQS1943/DOCIE)]
 
 
 - **Sketching as a Tool for Understanding and Accelerating Self-attention for Long Sequences** <br>
