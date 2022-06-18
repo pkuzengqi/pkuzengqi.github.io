@@ -6,13 +6,14 @@
 Greetings! My name is Qi Zeng (曾琪). 
 
 I am a Ph.D. candidate in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/). 
-My focus of research area is Natural Language Processing (NLP), especially **Knowledge-aware Document-level Language Understanding**.
+My focus of research area is Natural Language Processing (NLP), especially **Document-level Language Understanding**.
 My research aim is building robust models that can automatically understand and learn from large-scale texts of various domains.
 
 - Efficient Transformers for Long Sequence Processing
 - Consistent Document-level Event Extraction and Representation
-- Knowledge-aware Long Document Summarization
+- Knowledge-aware Document Summarization
 
+If you are interested in research collaboration feel free to contact me at **qizeng2 [AT] illinois [DOT] edu**.
 
 I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a better life.
 
@@ -212,9 +213,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 <br>
 
 
-# Contact
 
-Email: qizeng2 [AT] illinois [DOT] edu
 
 <!-- Office: Room 1115, Siebel Center for Computer Science, 201 N. Goodwin Ave, Urbana, IL 61801
 
