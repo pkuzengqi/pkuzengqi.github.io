@@ -10,8 +10,8 @@ My focus of research area is Natural Language Processing (NLP), especially **Doc
 My research aim is building robust models that can automatically understand and learn from large-scale texts of various domains.
 
 - Efficient Transformers for Long Sequence Processing
-- Consistent Document-level Event Extraction and Representation
-- Knowledge-aware Document Summarization
+- Document-level Event Extraction and Representation
+- Consistent Document Summarization
 
 If you are interested in research collaboration feel free to contact me at **qizeng2 [AT] illinois [DOT] edu**.
 
@@ -217,6 +217,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 
 Office: Room 1115, Siebel Center for Computer Science, 201 N. Goodwin Ave, Urbana, IL 61801
 
+Updated: 08/18/2022
 
 <br>
 <br>
