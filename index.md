@@ -102,18 +102,18 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 - **RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios**<br> 
   Xinya Du, Zixuan Zhang, Sha Li, Pengfei Yu, Hongwei Wang, Tuan Lai, Xudong Lin, Ziqi Wang, Iris Liu, Ben Zhou, Haoyang Wen, Manling Li, Darryl Hannan, Jie Lei, Hyounghun Kim, Rotem Dror, Haoyu Wang, Michael Regan, <u>Qi Zeng</u>, QING LYU, Charles Yu, Carl Edwards, Xiaomeng Jin, Yizhu Jiao, Ghazaleh Kazeminejad, Zhenhailong Wang, Chris Callison-Burch, Mohit Bansal, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang, Martha Palmer, Heng Ji<br>
   [*NAACL 2022*](https://2022.naacl.org/) (Demo Paper) <br>
-  [[PDF](https://blender.cs.illinois.edu/paper/resin2022.pdf)] [[Code](https://github.com/RESIN-KAIROS/RESIN-11)] 
+  [[PDF](https://aclanthology.org/2022.naacl-demo.7/)] [[Code](https://github.com/RESIN-KAIROS/RESIN-11)] 
 
 - **EA$^2$E: Improving Consistency with Event Awareness for Document-level Argument Extraction**<br>
   <u>Qi Zeng</u>\*, Qiusi Zhan\*, Heng Ji<br>
   [*NAACL 2022*](https://2022.naacl.org/) (Short Paper) <br>
-  [[PDF](https://arxiv.org/abs/2205.14847)] [[Code](https://github.com/ZQS1943/DOCIE)]
+  [[PDF](https://aclanthology.org/2022.findings-naacl.202/)] [[Code](https://github.com/ZQS1943/DOCIE)]
 
 
 - **Sketching as a Tool for Understanding and Accelerating Self-attention for Long Sequences** <br>
   Yifan Chen\*, <u>Qi Zeng</u>\*, Dilek Hakkani-Tur, Di Jin, Heng Ji, Yun Yang <br>
   [*NAACL 2022*](https://2022.naacl.org/) <br>
-  [[PDF](https://arxiv.org/abs/2112.05359)] [[Code](https://github.com/pkuzengqi/Skeinformer)]
+  [[PDF](https://aclanthology.org/2022.naacl-main.381/)] [[Code](https://github.com/pkuzengqi/Skeinformer)]
 
 ### 2021
 
@@ -217,7 +217,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 
 Office: Room 1115, Siebel Center for Computer Science, 201 N. Goodwin Ave, Urbana, IL 61801
 
-Updated: 08/18/2022
+Updated: 09/01/2022
 
 <br>
 <br>
