@@ -30,7 +30,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
   - MS in Computer Science, 2019 - 2021
   - Research Assistant at [Blender Lab](http://blender.cs.illinois.edu/)
   - Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
-  - Award: [David J. Kuck Outstanding M.S. Thesis Award](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/david-j-kuck-outstanding-thesis-awards) (One recipient in UIUC per year)
+  - [David J. Kuck Outstanding M.S. Thesis Award](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/david-j-kuck-outstanding-thesis-awards) (One recipient in UIUC per year)
   
 
 ### Peking University 
@@ -218,7 +218,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 
 Office: Room 1115, Siebel Center for Computer Science, 201 N. Goodwin Ave, Urbana, IL 61801
 
-Updated: 09/01/2022
+Updated: 10/26/2022
 
 <br>
 <br>
