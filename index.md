@@ -14,7 +14,7 @@ My research aim is building robust models that can automatically understand and 
 - Consistent Document Summarization
 
 If you are interested in research collaboration feel free to contact me at **qizeng2 [AT] illinois [DOT] edu**.
-Please see my CV [here](/CV/CV_QiZeng.pdf).
+<!-- Please see my CV [here](/CV/CV_QiZeng.pdf). -->
 
 I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a better life.
 
