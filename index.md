@@ -30,7 +30,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
   - PhD in Computer Science, 2019 - 2023 (expected)
   - MS in Computer Science, 2019 - 2021
   - Graduate Research Assistant at [Blender Lab](http://blender.cs.illinois.edu/), Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
-  - [David J. Kuck Outstanding M.S. Thesis Award](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/david-j-kuck-outstanding-thesis-awards) (One recipient in UIUC per year)
+  - [David J. Kuck Outstanding M.S. Thesis Award](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/david-j-kuck-outstanding-thesis-awards) 
   
 
 ### Peking University 
