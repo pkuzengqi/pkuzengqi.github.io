@@ -1,9 +1,6 @@
 # PP (Peanut Butter) and NN (Honey Butter)
 
 ### Peanut Butter, Domestic Shorthair, 04/30/2020
-### Honey Butter, Domestic Shorthair, 10/30/2021
-
-
 
 <!-- PP -->
 <img src="/pp/20210321.jpg" align = "center"><br><br><br>
@@ -29,6 +26,7 @@
 <img src="/pp/WechatIMG3198.jpeg" align = "center"><br><br><br>
 <img src="/pp/WechatIMG3400.jpeg" align = "center"><br><br><br>
 
+### Honey Butter, Domestic Shorthair, 10/30/2021
 
 <!-- ## NN -->
 <img src="/nn/20221218nn.jpeg" align = "center"><br><br><br>
