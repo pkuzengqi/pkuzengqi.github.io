@@ -88,7 +88,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 
 # Publications
 
-[[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)]. [[DBLP](https://dblp.org/pid/39/7992-1.html)]. [[Semantic Scholar](https://www.semanticscholar.org/author/Qi-Zeng/145653969)]. 
+[[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=en)]. [[DBLP](https://dblp.org/pid/39/7992-1.html)]. [[Semantic Scholar](https://www.semanticscholar.org/author/Qi-Zeng/145653969)]. 
 
  \* means equal contribution.
 
