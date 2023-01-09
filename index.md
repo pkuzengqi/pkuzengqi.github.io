@@ -121,7 +121,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 - **Skyformer: Remodel Self-Attention with Gaussian Kernel and Nystr\"om Method** <br>
   Yifan Chen\*, <u>Qi Zeng</u>\*, Heng Ji, Yun Yang <br>
   [*NeurIPS 2021*](https://nips.cc/Conferences/2021)  <br>
-  [[PDF](https://arxiv.org/abs/2111.00035)] [[Code](https://github.com/pkuzengqi/Skyformer)] [[Poster](https://github.com/pkuzengqi/Skyformer/blob/main/doc/Skyformer_poster.pdf)]
+  [[PDF](https://papers.nips.cc/paper/2021/file/10a7cdd970fe135cf4f7bb55c0e3b59f-Paper.pdf)] [[Code](https://github.com/pkuzengqi/Skyformer)] [[Poster](https://github.com/pkuzengqi/Skyformer/blob/main/doc/Skyformer_poster.pdf)]
 <!--   (Acceptance Rate 26%).  -->
 
 - **GENE: Global Event Network Embedding** <br>
@@ -156,7 +156,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 
 ### 2019
 
-- **Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification** <br>
+- **LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification** <br>
   Jingjing Xu, Liang Zhao, Hanqi Yan, <u>Qi Zeng</u>, Yun Liang, Xu Sun <br>
   [*EMNLP 2019*](https://2019.emnlp.org/) <br>
   [[PDF](https://www.aclweb.org/anthology/D19-1554/)]  [[Code](https://github.com/lancopku/LexicalAT)]
@@ -180,13 +180,13 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 - **Text Assisted Insight Ranking Using Context-Aware Memory Network** <br>
   <u>Qi Zeng</u>\*, Liangchen Luo\*, Wenhao Huang, Yang Tang <br>
   [*AAAI 2019*](https://aaai.org/Conferences/AAAI-19/) <br>
-  [[PDF](https://arxiv.org/pdf/1811.05563.pdf)] [[Poster](/files/AAAI19-insight-poster.pdf)]
+  [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/3814)] [[Poster](/files/AAAI19-insight-poster.pdf)]
 <!--   (Acceptance Rate 16.2%). -->
 
 - **Learning Personalized End-to-End Goal-Oriented Dialog** <br>
   Liangchen Luo, Wenhao Huang, <u>Qi Zeng</u>, Xu Sun, Zaiqing Nie <br>
   [*AAAI 2019*](https://aaai.org/Conferences/AAAI-19/) <br>
-  [[PDF](https://arxiv.org/pdf/1811.04604.pdf)] [[Poster](/files/AAAI19-personalized-poster.pdf)]
+  [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/4654)] [[Poster](/files/AAAI19-personalized-poster.pdf)]
 <!--   (Acceptance Rate 16.2%). -->
 
 ### 2018
