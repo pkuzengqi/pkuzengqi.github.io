@@ -217,7 +217,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 # Mentorship
 
 - [Mankeerat Singh Sidhu](https://mankeerat.github.io/), BS@UIUC, 2023
-- [Qiusi Zhan](https://zqs1943.github.io/), MS@UIUC, 2021
+- [Qiusi Zhan](https://zqs1943.github.io/), MS@UIUC, 2022
 
 
 
