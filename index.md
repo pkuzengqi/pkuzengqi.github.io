@@ -215,7 +215,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 
 # Mentorship
 
-- Shitong Dai, BS@RUC, 2023
+- [Shitong Dai](https://dst111dst.github.io/), BS@RUC, 2023
 - [Mankeerat Singh Sidhu](https://mankeerat.github.io/), BS@UIUC, 2023
 - [Qiusi Zhan](https://zqs1943.github.io/), MS@UIUC, 2022
 
