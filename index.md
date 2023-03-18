@@ -120,7 +120,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 - **Skyformer: Remodel Self-Attention with Gaussian Kernel and Nystr\"om Method** <br>
   Yifan Chen\*, <u>Qi Zeng</u>\*, Heng Ji, Yun Yang <br>
   [*NeurIPS 2021*](https://nips.cc/Conferences/2021)  <br>
-  [[PDF](https://papers.nips.cc/paper/2021/file/10a7cdd970fe135cf4f7bb55c0e3b59f-Paper.pdf)] [[Code](https://github.com/pkuzengqi/Skyformer)] [[Poster](https://github.com/pkuzengqi/Skyformer/blob/main/doc/Skyformer_poster.pdf)]
+  [[PDF](https://papers.nips.cc/paper/2021/file/10a7cdd970fe135cf4f7bb55c0e3b59f-Paper.pdf)] [[Code](https://github.com/pkuzengqi/Skyformer)] [[Poster](https://github.com/pkuzengqi/Skyformer/blob/main/doc/Skyformer_poster.pdf)]. [[Appendix](https://github.com/pkuzengqi/Skyformer/blob/main/doc/Skyformer_appendix.pdf)]
 <!--   (Acceptance Rate 26%).  -->
 
 - **GENE: Global Event Network Embedding** <br>
