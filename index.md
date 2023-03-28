@@ -96,7 +96,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 - **SmartBook: AI-Assisted Situation Report Generation**<br>
   Revanth Gangi Reddy, Yi R. Fung, <u>Qi Zeng</u>, Manling Li, Ziqi Wang, Paul Sullivan, Heng Ji <br>
   arXiv:2303.14337<br>
-  [[PDF](https://arxiv.org/abs/2303.14337)] [[Demo](https://blenderdemo.com/smartbook)].[[Code](https://github.com/blender-nlp/SmartBook)].
+  [[PDF](https://arxiv.org/abs/2303.14337)] [[Code](https://github.com/blender-nlp/SmartBook)] [[Demo](https://blenderdemo.com/smartbook)]
 
 
 ### 2022
