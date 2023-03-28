@@ -90,6 +90,14 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=en)]. [[DBLP](https://dblp.org/pid/39/7992-1.html)]. [[Semantic Scholar](https://www.semanticscholar.org/author/Qi-Zeng/145653969)]. 
 
  \* means equal contribution.
+ 
+### 2023
+
+- **SmartBook: AI-Assisted Situation Report Generation**<br>
+  Revanth Gangi Reddy, Yi R. Fung, <u>Qi Zeng</u>, Manling Li, Ziqi Wang, Paul Sullivan, Heng Ji <br>
+  arXiv:2303.14337<br>
+  [[PDF](https://arxiv.org/abs/2303.14337)] [[Demo](https://blenderdemo.com/smartbook)].[[Code](https://github.com/blender-nlp/SmartBook)].
+
 
 ### 2022
 
@@ -224,7 +232,6 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 
 Office: Room 1115, Siebel Center for Computer Science, 201 N. Goodwin Ave, Urbana, IL 61801
 
-Updated: 02/2023
 
 <br>
 <br>
