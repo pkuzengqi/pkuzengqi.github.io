@@ -13,8 +13,6 @@ My focus of research area is Natural Language Processing (NLP), especially **Lon
 
 If you are interested in research collaboration feel free to contact me at **qizeng2 [AT] illinois [DOT] edu**.
 
-<!-- Please see my CV [here](/CV/CV_QiZeng.pdf). -->
-
 I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a better life.
 
 
@@ -29,7 +27,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
   - PhD in Computer Science, 2019 - 12/2023 (expected)
   - MS in Computer Science (on the way to PhD)
   - Graduate Research Assistant at [Blender Lab](http://blender.cs.illinois.edu/), Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
-  - [David J. Kuck Outstanding M.S. Thesis Award](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/david-j-kuck-outstanding-thesis-awards) 
+<!--   - [David J. Kuck Outstanding M.S. Thesis Award](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/david-j-kuck-outstanding-thesis-awards)  -->
   
 
 ### Peking University 
@@ -44,7 +42,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 
 # Internship
 
-- **Google Brain**, Research Intern, 2023 Summer
+- **Google Research**, Brain STAR Team, Research Intern, 2023 Summer
 - **Amazon Search**, Query Understanding Team, Research Intern, 2022 Summer
 - **Microsoft Research**, Cognitive Services Research Group, Research Intern, 2021 Summer
 - **Allen Institute for Artificial Intelligence (AI2)**, AllenNLP Team, Research Intern, 2020 Summer
@@ -53,32 +51,8 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 - **Microsoft Search Technology Center Asia**, XiaoIce Group, Software Engineer Intern, 2017 Spring
 
 
-<!-- ### Microsoft Research (05/2021 - 08/2021) -->
-  <!-- - Research Intern at Cognitive Services Research group (CSR) -->
-<!--   - Mentor: Dr. [Yu Shi](https://www.microsoft.com/en-us/research/people/yushi/) and Dr. [Yao Qian](https://sites.google.com/site/yaoqianhomepage/) -->
-  <!-- - Focus: Speech-Text Language Understanding -->
-
-<!-- ### Allen Institute for Artificial Intelligence (05/2020 - 08/2020) -->
-  <!-- - Research Intern on AllenNLP team -->
-<!--   - Mentor: Dr. [Qiang Ning](http://qning2.web.engr.illinois.edu/) -->
-  <!-- - Focus: Temporal QA -->
-
-<!-- ### ByteDance AI Lab (04/2019 - 08/2019) -->
-<!--   - Research Intern at MLNLP Group -->
-<!--   - Mentor: Dr. [Hao Zhou](https://zhouh.github.io/)  -->
-  <!-- - Focus: Search Query Generation -->
 
 
-<!-- ### Microsoft Research Asia (01/2018 - 06/2018) -->
-<!--   - Research Intern at Big Data Mining Group  -->
-<!--   - Mentor: Dr. [Wenhao Huang](https://scholar.google.com/citations?user=OdE3MsQAAAAJ&hl=zh-CN) -->
-  <!-- - Focus: Table-to-Text Generation -->
-
-
-<!-- ### Microsoft Search Technology Center Asia (03/2017 - 12/2017) -->
-<!--   - Software Engineer Intern at XiaoIce Group -->
-<!--   - Mentor: [Peng Chen](https://www.aclweb.org/anthology/people/p/peng-chen/) -->
-  <!-- - Focus: QA System for Xiaoice -->
 
 
 <br>
@@ -93,17 +67,32 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
  
 ### 2023
 
+- **Meta-review Generation with Checklist-guided Iterative Introspection**<br>
+  <u>Qi Zeng</u>\*, Mankeerat Sidhu\*, Hou Pong Chan, Lu Wang, Heng Ji <br>
+  arXiv<br>
+  
 - **SmartBook: AI-Assisted Situation Report Generation**<br>
   Revanth Gangi Reddy, Yi R. Fung, <u>Qi Zeng</u>, Manling Li, Ziqi Wang, Paul Sullivan, Heng Ji <br>
-  arXiv:2303.14337<br>
+  arXiv<br>
   [[PDF](https://arxiv.org/abs/2303.14337)] [[Code](https://github.com/blender-nlp/SmartBook)] [[Demo](https://blenderdemo.com/smartbook)]
+
+  
+- **Interpretable Automatic Fine-grained Inconsistency Detection in Text Summarization**<br>
+  Hou Pong Chan, <u>Qi Zeng</u>, Heng Ji <br>
+  [*ACL 2023*](https://2023.aclweb.org/)
+ 
+- **C-PMI: Conditional Pointwise Mutual Information for Turn-level Dialogue Evaluation**<br>
+  Liliang Ren\*, Mankeerat Sidhu\*, <u>Qi Zeng</u>, Revanth Gangi Reddy, Heng Ji, Chengxiang Zhai<br>
+  [*ACL 2023*](https://2023.aclweb.org/) ([*DialDoc*](https://doc2dial.github.io/workshop2023/) Workshop) <br>
+  
+
 
 
 ### 2022
 
 - **Efficient Reward Poisoning Attacks on Online Deep Reinforcement Learning**<br>
   Yinglun Xu,  <u>Qi Zeng</u>, Gagandeep Singh<br>
-  arXiv:2205.14842<br>
+  arXiv<br>
   [[PDF](https://arxiv.org/abs/2205.14842)] [[Code](https://github.com/YinglunXu/reward_poisoning_attack_drl)]
 
 
