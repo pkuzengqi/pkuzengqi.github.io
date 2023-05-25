@@ -69,13 +69,11 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 
 - **Meta-review Generation with Checklist-guided Iterative Introspection**<br>
   <u>Qi Zeng</u>\*, Mankeerat Sidhu\*, Hou Pong Chan, Lu Wang, Heng Ji <br>
-  arXiv<br>
   [[PDF](https://arxiv.org/abs/2305.14647)] [[Code and Data](https://github.com/Mankeerat/orsum-meta-review-generation)] 
 
   
 - **SmartBook: AI-Assisted Situation Report Generation**<br>
   Revanth Gangi Reddy, Yi R. Fung, <u>Qi Zeng</u>, Manling Li, Ziqi Wang, Paul Sullivan, Heng Ji <br>
-  arXiv<br>
   [[PDF](https://arxiv.org/abs/2303.14337)] [[Code](https://github.com/blender-nlp/SmartBook)] [[Demo](https://blenderdemo.com/smartbook)]
 
   
@@ -96,8 +94,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 
 - **Efficient Reward Poisoning Attacks on Online Deep Reinforcement Learning**<br>
   Yinglun Xu,  <u>Qi Zeng</u>, Gagandeep Singh<br>
-  arXiv<br>
-  [[PDF](https://arxiv.org/abs/2205.14842)] [[Code](https://github.com/YinglunXu/reward_poisoning_attack_drl)]
+  [[PDF](https://arxiv.org/abs/2205.14842)] [[Code](https://github.com/YinglunXu/reward_poisoning_attack_drl)] <br>
 
 
 - **RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios**<br> 
