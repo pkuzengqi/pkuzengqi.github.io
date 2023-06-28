@@ -94,6 +94,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 
 - **Efficient Reward Poisoning Attacks on Online Deep Reinforcement Learning**<br>
   Yinglun Xu,  <u>Qi Zeng</u>, Gagandeep Singh<br>
+  [Transactions on Machine Learning Research (TMLR)](https://www.jmlr.org/tmlr/)  <br>
   [[PDF](https://arxiv.org/abs/2205.14842)] [[Code](https://github.com/YinglunXu/reward_poisoning_attack_drl)] <br>
 
 
