@@ -9,8 +9,7 @@ I am a Ph.D. candidate in Computer Science at [University of Illinois Urbana-Cha
 My focus of research area is Natural Language Processing (NLP):
 
 - In-Context Learning for Large Language Models
-- Consistent Text Summarization
-- Efficient Transformers for Long Sequence Processing
+- Consistent Document Summarization
 - Document-level Event Extraction and Event Representation
 
 If you are interested in research collaboration feel free to contact me at **qizeng2 [AT] illinois [DOT] edu**.
@@ -45,7 +44,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 # Internship
 
 - **Google DeepMind**, Brain STAR Team, Research Intern, 2023 Summer
-- **Amazon Search**, Query Understanding Team, Research Intern, 2022 Summer
+- **Amazon Search**, Query Understanding Team, Applied Scientist Intern, 2022 Summer
 - **Microsoft Research**, Cognitive Services Research Group, Research Intern, 2021 Summer
 - **Allen Institute for Artificial Intelligence (AI2)**, AllenNLP Team, Research Intern, 2020 Summer
 - **ByteDance AI Lab**, MLNLP Group, Research Intern, 2019 Summer
