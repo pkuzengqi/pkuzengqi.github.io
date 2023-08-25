@@ -5,10 +5,10 @@
 
 Greetings! My name is Qi Zeng (曾琪). 
 
-I am a Ph.D. candidate in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/). 
+I am a Ph.D. in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/). 
 My focus of research area is Natural Language Processing (NLP):
 
-- In-Context Learning for Large Language Models
+- In-context learning for Large Language Models
 - Consistent Document Summarization
 - Document-level Event Extraction and Event Representation
 
