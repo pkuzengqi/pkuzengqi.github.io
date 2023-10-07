@@ -68,6 +68,10 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
  
 ### 2023
 
+- **Improving Consistency for Text Summarization with Energy Functions**<br>
+  <u>Qi Zeng</u>, Qingyu Yin, Zheng Li, Yifan Gao, Sreyashi Nag, Zhengyang Wang, Bing Yin, Heng Ji, Chao Zhang <br>
+  [EMNLP 2023](https://2023.emnlp.org/)
+  
 - **Meta-review Generation with Checklist-guided Iterative Introspection**<br>
   <u>Qi Zeng</u>\*, Mankeerat Sidhu\*, Hou Pong Chan, Lu Wang, Heng Ji <br>
   [[PDF](https://arxiv.org/abs/2305.14647)] [[Code and Data](https://github.com/Mankeerat/orsum-meta-review-generation)] 
@@ -75,10 +79,6 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 - **SmartBook: AI-Assisted Situation Report Generation**<br>
   Revanth Gangi Reddy, Yi R. Fung, <u>Qi Zeng</u>, Manling Li, Ziqi Wang, Paul Sullivan, Heng Ji <br>
   [[PDF](https://arxiv.org/abs/2303.14337)] [[Code](https://github.com/blender-nlp/SmartBook)] [[Demo](https://blenderdemo.com/smartbook)]
-
-- **Improving Consistency for Text Summarization with Energy Functions**<br>
-  <u>Qi Zeng</u>, Qingyu Yin, Zheng Li, Yifan Gao, Sreyashi Nag, Zhengyang Wang, Bing Yin, Heng Ji, Chao Zhang <br>
-  [EMNLP 2023](https://2023.emnlp.org/)
 
 - **Efficient Reward Poisoning Attacks on Online Deep Reinforcement Learning**<br>
   Yinglun Xu,  <u>Qi Zeng</u>, Gagandeep Singh<br>
