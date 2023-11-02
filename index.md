@@ -5,7 +5,7 @@
 
 Greetings! My name is Qi Zeng (曾琪). 
 
-I am a Ph.D. candidate in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/). I have defended my PhD thesis in August 2023.
+I am a Ph.D. in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/). I have defended my PhD thesis in August 2023. I’m currently on the industry job market looking for Research/Applied Scientist positions.
 
 My focus of research area is Natural Language Processing (NLP):
 - In-context learning for Large Language Models
