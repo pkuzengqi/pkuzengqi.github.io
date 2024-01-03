@@ -20,14 +20,14 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
  
 # Education
 
-### [University of Illinois Urbana-Champaign](https://illinois.edu/)
+### University of Illinois Urbana-Champaign
   - PhD in Computer Science, 2019 - 2023 
   - MS in Computer Science (on the way to PhD), 2019 - 2021
   - Graduate Research Assistant at [Blender Lab](http://blender.cs.illinois.edu/), Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
 <!--   - [David J. Kuck Outstanding M.S. Thesis Award](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/david-j-kuck-outstanding-thesis-awards)  -->
   
 
-### [Peking University](https://english.pku.edu.cn/) 
+### Peking University
   - BS in Information Science, 2014 - 2018
   - German Language and Literature, 2013 - 2014
  <!-- - Undergraduate Research Assistant at [Language Computing and Machine Learning Group](https://lancopku.github.io/), Advisor: Prof. [Xu Sun](https://xusun.org/)  -->
