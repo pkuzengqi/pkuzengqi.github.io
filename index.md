@@ -29,7 +29,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 
 ### Peking University
   - BS in Information Science, 2014 - 2018
-  - German Language and Literature, 2013 - 2014
+  - Freshman year in German Language and Literature, 2013 - 2014
  <!-- - Undergraduate Research Assistant at [Language Computing and Machine Learning Group](https://lancopku.github.io/), Advisor: Prof. [Xu Sun](https://xusun.org/)  -->
 
 
