@@ -67,7 +67,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 - **Improving Consistency for Text Summarization with Energy Functions**<br>
   <u>Qi Zeng</u>, Qingyu Yin, Zheng Li, Yifan Gao, Sreyashi Nag, Zhengyang Wang, Bing Yin, Heng Ji, Chao Zhang <br>
   [EMNLP 2023](https://2023.emnlp.org/) <br>
-  [[PDF](https://www.amazon.science/publications/improving-consistency-for-text-summarization-with-energy-functions)]] [Code under review]
+  [[PDF](https://aclanthology.org/2023.findings-emnlp.798/)] [Code under review]
   
 - **Meta-review Generation with Checklist-guided Iterative Introspection**<br>
   <u>Qi Zeng</u>\*, Mankeerat Sidhu\*, Hou Pong Chan, Lu Wang, Heng Ji <br>
