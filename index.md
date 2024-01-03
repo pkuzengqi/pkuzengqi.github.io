@@ -5,14 +5,10 @@
 
 Greetings! My name is Qi Zeng (曾琪). 
 
-I am a Ph.D. in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/). I have defended my PhD thesis in August 2023.
-
 My focus of research area is Natural Language Processing (NLP):
 - In-context learning for Large Language Models
 - Consistent Document Summarization
 - Document-level Event Extraction and Event Representation
-
-If you are interested in research collaboration feel free to contact me at **qizeng2 [AT] illinois [DOT] edu**.
 
 I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a better life.
 
@@ -24,14 +20,14 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
  
 # Education
 
-### University of Illinois Urbana-Champaign
+### [University of Illinois Urbana-Champaign](https://illinois.edu/)
   - PhD in Computer Science, 2019 - 2023 
   - MS in Computer Science (on the way to PhD), 2019 - 2021
   - Graduate Research Assistant at [Blender Lab](http://blender.cs.illinois.edu/), Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
 <!--   - [David J. Kuck Outstanding M.S. Thesis Award](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/david-j-kuck-outstanding-thesis-awards)  -->
   
 
-### Peking University 
+### [Peking University](https://english.pku.edu.cn/) 
   - BS in Information Science, 2014 - 2018
   - German Language and Literature, 2013 - 2014
  <!-- - Undergraduate Research Assistant at [Language Computing and Machine Learning Group](https://lancopku.github.io/), Advisor: Prof. [Xu Sun](https://xusun.org/)  -->
