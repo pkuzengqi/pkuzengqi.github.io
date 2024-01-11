@@ -13,9 +13,6 @@ My focus of research area is Natural Language Processing (NLP):
 I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a better life.
 
 
-
-
-
 <br>
  
 # Education
@@ -220,10 +217,6 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 - [Mankeerat Singh Sidhu](https://mankeerat.github.io/), BS@UIUC, 2023
 - [Qiusi Zhan](https://zqs1943.github.io/), MS@UIUC, 2022
 
-
-
-
-Office: Room 1111, Siebel Center for Computer Science, 201 N. Goodwin Ave, Urbana, IL 61801
 
 
 <br>
