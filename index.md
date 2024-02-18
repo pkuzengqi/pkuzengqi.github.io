@@ -6,7 +6,7 @@
 Greetings! My name is Qi Zeng (曾琪). 
 
 My focus of research area is Natural Language Processing (NLP):
-- In-context learning for Large Language Models
+- In-context learning and Self-refinement for Large Language Models
 - Consistent Document Summarization
 - Document-level Event Extraction and Event Representation
 
@@ -207,9 +207,8 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 <!--   (Acceptance Rate 24.9%). -->
 
 
-<br>
-<br>
 
+<!--
 
 # Mentorship
 
@@ -217,7 +216,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 - [Mankeerat Singh Sidhu](https://mankeerat.github.io/), BS@UIUC, 2023
 - [Qiusi Zhan](https://zqs1943.github.io/), MS@UIUC, 2022
 
-
+-->
 
 <br>
 <br>
