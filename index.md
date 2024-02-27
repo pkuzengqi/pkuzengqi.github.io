@@ -34,15 +34,16 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 <br>
 <br>
 
-# Internship
+# Work Experience
 
-- **Google DeepMind**, Brain STAR Team, Research Intern, 2023 Summer
-- **Amazon Search**, Query Understanding Team, Applied Scientist Intern, 2022 Summer
-- **Microsoft Research**, Cognitive Services Research Group, Research Intern, 2021 Summer
-- **Allen Institute for Artificial Intelligence (AI2)**, AllenNLP Team, Research Intern, 2020 Summer
-- **ByteDance AI Lab**, MLNLP Group, Research Intern, 2019 Summer
-- **Microsoft Research Asia**, Big Data Mining Group, Research Intern, 2018 Spring
-- **Microsoft Search Technology Center Asia**, XiaoIce Group, Software Engineer Intern, 2017 Spring
+- **ByteDance**, LLM Alignment Team, <u>Research Scientist</u>, 01/2024 - 
+- **Google DeepMind**, Brain STAR Team, <u>Research Intern</u>, 05/2023 - 08/2023
+- **Amazon Search**, Query Understanding Team, <u>Applied Scientist Intern</u>, 05/2022 - 10/2022
+- **Microsoft Research**, Cognitive Services Research Group, <u>Research Intern</u>, 05/2021 - 08/2021
+- **Allen Institute for Artificial Intelligence (AI2)**, AllenNLP Team, <u>Research Intern</u>, 05/2020 - 08/2020
+- **ByteDance AI Lab**, MLNLP Group, <u>Research Intern</u>, 04/2019 - 08/2019
+- **Microsoft Research Asia**, Big Data Mining Group, <u>Research Intern</u>, 01/2018 - 06/2018
+- **Microsoft Search Technology Center Asia**, XiaoIce Group, <u>Software Engineer Intern</u>, 03/2017 - 12/2017
 
 
 
