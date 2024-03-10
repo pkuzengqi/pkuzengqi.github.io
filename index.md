@@ -36,7 +36,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
 
 # Work Experience
 
-- **ByteDance**, LLM Alignment Team, Research Scientist, 01/2024 - 
+- **ByteDance**, LLM Alignment Team, Research Scientist, 01/2024 - now
 - **Google DeepMind**, Brain STAR Team, Research Intern, 05/2023 - 08/2023
 - **Amazon Search**, Query Understanding Team, Applied Scientist Intern, 05/2022 - 10/2022
 - **Microsoft Research**, Cognitive Services Research Group, Research Intern, 05/2021 - 08/2021
