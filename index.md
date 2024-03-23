@@ -67,7 +67,7 @@ I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a bette
   [EMNLP 2023](https://2023.emnlp.org/) <br>
   [[PDF](https://aclanthology.org/2023.findings-emnlp.798/)] [Code under review]
   
-- **Meta-review Generation with Checklist-guided Iterative Introspection**<br>
+- **Scientific Opinion Summarization: Meta-review Generation with Checklist-guided Iterative Introspection**<br>
   <u>Qi Zeng</u>\*, Mankeerat Sidhu\*, Hou Pong Chan, Lu Wang, Heng Ji <br>
   [[PDF](https://arxiv.org/abs/2305.14647)] [[Code and Data](https://github.com/Mankeerat/orsum-meta-review-generation)] 
 
