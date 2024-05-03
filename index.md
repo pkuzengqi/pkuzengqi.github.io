@@ -14,7 +14,7 @@ Greetings! I am Qi Zeng (曾琪), a research scientist at Meta. I work hard so m
   - PhD in Computer Science, 2019 - 2023 
   - MS in Computer Science (on the way to PhD), 2019 - 2021
   - Graduate Research Assistant at [Blender Lab](http://blender.cs.illinois.edu/), Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
-  - Research Focuses: Natural Language Processing (NLP), Information Extraction, Document Summarization, In-context Learning and Self-refinement for Large Language Models 
+  - Research Focuses: Natural Language Processing (NLP)
 <!--   - [David J. Kuck Outstanding M.S. Thesis Award](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/david-j-kuck-outstanding-thesis-awards)  -->
   
 
