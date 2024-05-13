@@ -30,7 +30,7 @@ Greetings! I am Qi Zeng (曾琪), a research scientist at Meta. I work hard so m
 
 # Work Experience
 
-- **Meta**, Research Scientist, 04/2024 - now
+- **Meta**, MGenAI, Research Scientist, 04/2024 - now
 - **ByteDance**, LLM Alignment Team, Research Scientist, 01/2024 - 04/2024
 - **Google DeepMind**, Brain STAR Team, Research Intern, 05/2023 - 08/2023
 - **Amazon Search**, Query Understanding Team, Applied Scientist Intern, 05/2022 - 10/2022
