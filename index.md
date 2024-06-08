@@ -54,21 +54,25 @@ Greetings! I am Qi Zeng (曾琪), a research scientist at Meta. I work hard so m
 [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=en)]. [[DBLP](https://dblp.org/pid/39/7992-1.html)]. [[Semantic Scholar](https://www.semanticscholar.org/author/Qi-Zeng/145653969)]. 
 
  \* means equal contribution.
- 
-### 2023
+
+
+
+- **SmartBook: AI-Assisted Situation Report Generation**<br>
+  Revanth Gangi Reddy, Daniel Lee, Yi R. Fung, Khanh Duy Nguyen, <u>Qi Zeng</u>, Manling Li, Ziqi Wang, Clare Voss, Heng Ji <br>
+  [[PDF](https://arxiv.org/abs/2303.14337)] [[Code](https://github.com/blender-nlp/SmartBook)] [[Demo](https://blenderdemo.com/smartbook)]
+
+- **Scientific Opinion Summarization: Meta-review Generation with Checklist-guided Iterative Introspection**<br>
+  <u>Qi Zeng</u>\*, Mankeerat Sidhu\*,  Ansel Blume, Hou Pong Chan, Lu Wang, Heng Ji <br>
+  [IJCAI 2024](https://ijcai24.org/) ([AI4Research](https://ai4research.github.io/) Workshop) <br>
+  [[PDF](https://arxiv.org/abs/2305.14647)] [[Code and Data](https://github.com/Mankeerat/orsum-meta-review-generation)]
+  
 
 - **Improving Consistency for Text Summarization with Energy Functions**<br>
   <u>Qi Zeng</u>, Qingyu Yin, Zheng Li, Yifan Gao, Sreyashi Nag, Zhengyang Wang, Bing Yin, Heng Ji, Chao Zhang <br>
   [EMNLP 2023](https://2023.emnlp.org/) <br>
   [[PDF](https://aclanthology.org/2023.findings-emnlp.798/)] [Code under review]
   
-- **Scientific Opinion Summarization: Meta-review Generation with Checklist-guided Iterative Introspection**<br>
-  <u>Qi Zeng</u>\*, Mankeerat Sidhu\*, Hou Pong Chan, Lu Wang, Heng Ji <br>
-  [[PDF](https://arxiv.org/abs/2305.14647)] [[Code and Data](https://github.com/Mankeerat/orsum-meta-review-generation)] 
 
-- **SmartBook: AI-Assisted Situation Report Generation**<br>
-  Revanth Gangi Reddy, Yi R. Fung, <u>Qi Zeng</u>, Manling Li, Ziqi Wang, Paul Sullivan, Heng Ji <br>
-  [[PDF](https://arxiv.org/abs/2303.14337)] [[Code](https://github.com/blender-nlp/SmartBook)] [[Demo](https://blenderdemo.com/smartbook)]
 
 - **Efficient Reward Poisoning Attacks on Online Deep Reinforcement Learning**<br>
   Yinglun Xu,  <u>Qi Zeng</u>, Gagandeep Singh<br>
@@ -89,7 +93,7 @@ Greetings! I am Qi Zeng (曾琪), a research scientist at Meta. I work hard so m
 
 
 
-### 2022
+
 
 
 
@@ -109,7 +113,7 @@ Greetings! I am Qi Zeng (曾琪), a research scientist at Meta. I work hard so m
   [*NAACL 2022*](https://2022.naacl.org/) <br>
   [[PDF](https://aclanthology.org/2022.naacl-main.381/)] [[Code](https://github.com/pkuzengqi/Skeinformer)]
 
-### 2021
+
 
 - **Skyformer: Remodel Self-Attention with Gaussian Kernel and Nystr\"om Method** <br>
   Yifan Chen\*, <u>Qi Zeng</u>\*, Heng Ji, Yun Yang <br>
@@ -123,7 +127,7 @@ Greetings! I am Qi Zeng (曾琪), a research scientist at Meta. I work hard so m
   [[PDF](https://www.aclweb.org/anthology/2021.textgraphs-1.5.pdf)] [[Code](https://github.com/pkuzengqi/GENE)]
 
 
-### 2020
+
 
 - **GAIA at SM-KBP 2020 - A Dockerlized Multi-media Multi-lingual Knowledge Extraction, Clustering, Temporal Tracking and Hypothesis Generation System** <br>
   Manling Li, Ying Lin, Tuan Manh Lai, Xiaoman Pan, Haoyang Wen, Lifu Huang, Zhenhailong Wang, Pengfei Yu, Di Lu, Qingyun Wang, Haoran Zhang, <u>Qi Zeng</u>, Chi Han, Zixuan Zhang, Yujia Qin, Xiaodan Hu, Nikolaus Parulian, Daniel Campos, Heng Ji, Alireza Zareian, Hassan Akbari, Brian Chen, Bo Wu, Emily Allaway, Shih-Fu Chang, Kathleen McKeown, Yixiang Yao, Jennifer Chen, Eric Berquist, Kexuan Sun, Xujun Peng, Ryan Gabbard, Marjorie Freedman, Pedro Szekely, T.K. Satish Kumar, Arka Sadhu, Haidong Zhu, Ram Nevatia, Miguel Rodriguez, Yifan Wang, Yang Bai, Ali Sadeghian, Daisy Zhe Wang <br>
@@ -147,7 +151,7 @@ Greetings! I am Qi Zeng (曾琪), a research scientist at Meta. I work hard so m
   [[PDF](https://www.aclweb.org/anthology/2020.acl-main.230.pdf)] [[Code](http://blender.cs.illinois.edu/software/m2e2/)]
 <!--   (Acceptance Rate 22.7%).  -->
 
-### 2019
+
 
 - **LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification** <br>
   Jingjing Xu, Liang Zhao, Hanqi Yan, <u>Qi Zeng</u>, Yun Liang, Xu Sun <br>
@@ -182,7 +186,6 @@ Greetings! I am Qi Zeng (曾琪), a research scientist at Meta. I work hard so m
   [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/4654)] [[Poster](/files/AAAI19-personalized-poster.pdf)]
 <!--   (Acceptance Rate 16.2%). -->
 
-### 2018
 
 - **An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation** <br>
   Jingjing Xu\*, Liangchen Luo\*, Junyang Lin, <u>Qi Zeng</u>, Xu Sun <br>
