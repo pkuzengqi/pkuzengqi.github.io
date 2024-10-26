@@ -14,15 +14,13 @@ Greetings! I am Qi Zeng (曾琪), a research scientist at Meta. I work hard so m
   - PhD in Computer Science, 2019 - 2023 
   - MS in Computer Science (on the way to PhD), 2019 - 2021
   - Graduate Research Assistant at [Blender Lab](http://blender.cs.illinois.edu/), Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
-  - Research Focuses: Natural Language Processing (NLP)
+  - Research Focuses: Natural Language Processing (NLP), Information Extraction, Document Summarization
 <!--   - [David J. Kuck Outstanding M.S. Thesis Award](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/david-j-kuck-outstanding-thesis-awards)  -->
   
 
 ### Peking University
   - BS in Information Science, 2014 - 2018
   - Freshman year in German Language and Literature, 2013 - 2014
- <!-- - Undergraduate Research Assistant at [Language Computing and Machine Learning Group](https://lancopku.github.io/), Advisor: Prof. [Xu Sun](https://xusun.org/)  -->
-
 
 
 <br>
@@ -30,15 +28,15 @@ Greetings! I am Qi Zeng (曾琪), a research scientist at Meta. I work hard so m
 
 # Work Experience
 
-- **Meta**, MGenAI, Research Scientist, 04/2024 - now
-- **ByteDance**, LLM Alignment Team, Research Scientist, 01/2024 - 04/2024
-- **Google DeepMind**, Brain STAR Team, Research Intern, 05/2023 - 08/2023
-- **Amazon Search**, Query Understanding Team, Applied Scientist Intern, 05/2022 - 10/2022
-- **Microsoft Research**, Cognitive Services Research Group, Research Intern, 05/2021 - 08/2021
-- **Allen Institute for Artificial Intelligence (AI2)**, AllenNLP Team, Research Intern, 05/2020 - 08/2020
-- **ByteDance AI Lab**, MLNLP Group, Research Intern, 04/2019 - 08/2019
-- **Microsoft Research Asia**, Big Data Mining Group, Research Intern, 01/2018 - 06/2018
-- **Microsoft Search Technology Center Asia**, XiaoIce Group, Software Engineer Intern, 03/2017 - 12/2017
+- **Meta**, Research Scientist, 04/2024 - now
+- **ByteDance**, Research Scientist, 01/2024 - 04/2024
+- **Google DeepMind**, Research Intern, 05/2023 - 08/2023
+- **Amazon Search**, Applied Scientist Intern, 05/2022 - 10/2022
+- **Microsoft Research**, Research Intern, 05/2021 - 08/2021
+- **Allen Institute for Artificial Intelligence (AI2)**, Research Intern, 05/2020 - 08/2020
+- **ByteDance AI Lab**, Research Intern, 04/2019 - 08/2019
+- **Microsoft Research Asia**, Research Intern, 01/2018 - 06/2018
+- **Microsoft Search Technology Center Asia**, Machine Learning Engineer Intern, 03/2017 - 12/2017
 
 
 
