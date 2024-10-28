@@ -3,7 +3,7 @@
 # About
 
 
-Greetings! I am Qi Zeng (曾琪), a research scientist at Meta. I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a better life.
+Greetings! I am Qi Zeng (曾琪). I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a better life.
 
 
 <br>
@@ -53,7 +53,9 @@ Greetings! I am Qi Zeng (曾琪), a research scientist at Meta. I work hard so m
 
  \* means equal contribution.
 
-
+- **Two-Step Offline Preference-Based Reinforcement Learning with Constrained Actions**<br>
+  Yinglun Xu, Tarun Suresh, Rohan Gumaste, David Zhu, Ruirui Li, Zhengyang Wang, Haoming Jiang, Xianfeng Tang, Qingyu Yin, Monica Xiao Cheng, <u>Qi Zeng</u>, Chao Zhang,  Gagandeep Singh<br>
+  [[PDF](https://arxiv.org/abs/2401.00330)] 
 
 - **SmartBook: AI-Assisted Situation Report Generation**<br>
   Revanth Gangi Reddy, Daniel Lee, Yi R. Fung, Khanh Duy Nguyen, <u>Qi Zeng</u>, Manling Li, Ziqi Wang, Clare Voss, Heng Ji <br>
