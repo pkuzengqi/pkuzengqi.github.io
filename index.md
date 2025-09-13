@@ -53,6 +53,12 @@ Greetings! I am Qi Zeng (曾琪). I work hard so my cats [Peanut Butter and Hone
 
  \* means equal contribution.
 
+
+- **Efficient Forward-Only Data Valuation for Pretrained LLMs and VLMs**<br>
+  Wenlong Deng, Jiaming Zhang, <u>Qi Zeng</u>, Christos Thrampoulidis, Boying Gong, Xiaoxiao Li<br>
+  [[PDF](https://arxiv.org/abs/2508.10180)] 
+
+
 - **Two-Step Offline Preference-Based Reinforcement Learning with Constrained Actions**<br>
   Yinglun Xu, Tarun Suresh, Rohan Gumaste, David Zhu, Ruirui Li, Zhengyang Wang, Haoming Jiang, Xianfeng Tang, Qingyu Yin, Monica Xiao Cheng, <u>Qi Zeng</u>, Chao Zhang,  Gagandeep Singh<br>
   [[PDF](https://arxiv.org/abs/2401.00330)] 
