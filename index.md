@@ -26,7 +26,8 @@ Greetings! I am Qi Zeng (曾琪). I work hard so my cats [Peanut Butter and Hone
 <br>
 <br>
 
-# Work Experience [[LinkedIn](https://www.linkedin.com/in/qi-zeng-455026130/)]
+# Work Experience 
+[[LinkedIn](https://www.linkedin.com/in/qi-zeng-455026130/)]
 
 - **Meta**, Research Scientist, 04/2024 - now
 - **ByteDance**, Research Scientist, 01/2024 - 04/2024
