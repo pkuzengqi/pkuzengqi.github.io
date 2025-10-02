@@ -62,6 +62,7 @@ Greetings! I am Qi Zeng (曾琪). I work hard so my cats [Peanut Butter and Hone
 
 - **Two-Step Offline Preference-Based Reinforcement Learning with Constrained Actions**<br>
   Yinglun Xu, Tarun Suresh, Rohan Gumaste, David Zhu, Ruirui Li, Zhengyang Wang, Haoming Jiang, Xianfeng Tang, Qingyu Yin, Monica Xiao Cheng, <u>Qi Zeng</u>, Chao Zhang,  Gagandeep Singh<br>
+  [Transactions on Machine Learning Research (TMLR)](https://www.jmlr.org/tmlr/)  <br>
   [[PDF](https://arxiv.org/abs/2401.00330)] 
 
 - **SmartBook: AI-Assisted Situation Report Generation**<br>
@@ -96,11 +97,6 @@ Greetings! I am Qi Zeng (曾琪). I work hard so my cats [Peanut Butter and Hone
   Liliang Ren\*, Mankeerat Sidhu\*, <u>Qi Zeng</u>, Revanth Gangi Reddy, Heng Ji, Chengxiang Zhai<br>
   [*ACL 2023*](https://2023.aclweb.org/) ([*DialDoc*](https://doc2dial.github.io/workshop2023/) Workshop) <br>
   [[PDF](https://arxiv.org/abs/2306.15245)]
-  
-
-
-
-
 
 
 
