@@ -67,6 +67,7 @@ Greetings! I am Qi Zeng (曾琪). I work hard so my cats [Peanut Butter and Hone
 
 - **SmartBook: AI-Assisted Situation Report Generation**<br>
   Revanth Gangi Reddy, Daniel Lee, Yi R. Fung, Khanh Duy Nguyen, <u>Qi Zeng</u>, Manling Li, Ziqi Wang, Clare Voss, Heng Ji <br>
+  [Handbook on Neurosymbolic AI and Knowledge Graphs](https://ebooks.iospress.nl/volumearticle/72324)  <br>
   [[PDF](https://arxiv.org/abs/2303.14337)] [[Code](https://github.com/blender-nlp/SmartBook)] [[Demo](https://blenderdemo.com/smartbook)]
 
 - **Scientific Opinion Summarization: Meta-review Generation with Checklist-guided Iterative Introspection**<br>
