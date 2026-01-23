@@ -29,8 +29,8 @@ Greetings! I am Qi Zeng (曾琪). I am currently a Research Scientist on the LLa
 # Work Experience 
 [[LinkedIn](https://www.linkedin.com/in/qi-zeng-455026130/)]
 
-- **Meta**, Research Scientist, 04/2024 - now
-- **ByteDance**, Research Scientist, 01/2024 - 04/2024
+- **Meta MSL**, Research Scientist, 04/2024 - now
+- **ByteDance Seed**, Research Scientist, 01/2024 - 04/2024
 - **Google DeepMind**, Research Intern, 05/2023 - 08/2023
 - **Amazon Search**, Applied Scientist Intern, 05/2022 - 10/2022
 - **Microsoft Research**, Research Intern, 05/2021 - 08/2021
