@@ -3,7 +3,7 @@
 # About
 
 
-Greetings! I am Qi Zeng (曾琪). I am currently a Research Scientist on the LLaMA post-training team at Meta GenAI (Meta Superintelligence Labs). I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a better life.
+Greetings! I am Qi Zeng (曾琪). I am currently a Senior Research Scientist on the core post-training team at Meta GenAI/MSL (Meta Superintelligence Labs). I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a better life.
 
 
 <br>
