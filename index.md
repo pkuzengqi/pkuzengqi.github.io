@@ -32,12 +32,12 @@ Greetings! I am Qi Zeng (曾琪). I am currently a Senior Research Scientist on 
 - **Meta MSL**, Research Scientist, 04/2024 - now
 - **ByteDance Seed**, Research Scientist, 01/2024 - 04/2024
 - **Google DeepMind**, Research Intern, 05/2023 - 08/2023
-- **Amazon Search**, Applied Scientist Intern, 05/2022 - 10/2022
+- **Amazon**, Applied Scientist Intern, 05/2022 - 10/2022
 - **Microsoft Research**, Research Intern, 05/2021 - 08/2021
 - **Allen Institute for Artificial Intelligence (AI2)**, Research Intern, 05/2020 - 08/2020
 - **ByteDance AI Lab**, Research Intern, 04/2019 - 08/2019
 - **Microsoft Research Asia**, Research Intern, 01/2018 - 06/2018
-- **Microsoft Search Technology Center Asia**, Machine Learning Engineer Intern, 03/2017 - 12/2017
+- **Microsoft**, Machine Learning Engineer Intern, 03/2017 - 12/2017
 
 
 
