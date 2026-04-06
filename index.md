@@ -3,7 +3,7 @@
 # About
 
 
-Greetings! I am Qi Zeng (曾琪). I am currently a Senior Research Scientist on the core post-training team at Meta GenAI/MSL (Meta Superintelligence Labs). I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a better life.
+Greetings! I am Qi Zeng (曾琪). I am currently a Senior Research Scientist on the Meta AI post-training team at Meta MSL (Meta Superintelligence Labs). I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a better life.
 
 
 <br>
@@ -56,8 +56,9 @@ Greetings! I am Qi Zeng (曾琪). I am currently a Senior Research Scientist on 
 
 
 - **Efficient Forward-Only Data Valuation for Pretrained LLMs and VLMs**<br>
-  Wenlong Deng, Jiaming Zhang, <u>Qi Zeng</u>, Christos Thrampoulidis, Boying Gong, Xiaoxiao Li<br>
-  [[PDF](https://arxiv.org/abs/2508.10180)] 
+  Wenlong Deng, <u>Qi Zeng</u>, Jiaming Zhang, Minghui Chen, Zixin Ding, Christos Thrampoulidis, Boying Gong, Xiaoxiao Li<br>
+  [ACL 2026]() <br>
+  [[PDF](https://arxiv.org/abs/2508.10180)]
 
 
 - **Two-Step Offline Preference-Based Reinforcement Learning with Constrained Actions**<br>
