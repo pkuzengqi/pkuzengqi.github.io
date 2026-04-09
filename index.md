@@ -80,7 +80,7 @@ Greetings! I am Qi Zeng (曾琪). I am currently a Senior Research Scientist on 
 - **Improving Consistency for Text Summarization with Energy Functions**<br>
   <u>Qi Zeng</u>, Qingyu Yin, Zheng Li, Yifan Gao, Sreyashi Nag, Zhengyang Wang, Bing Yin, Heng Ji, Chao Zhang <br>
   [EMNLP 2023](https://2023.emnlp.org/) <br>
-  [[PDF](https://aclanthology.org/2023.findings-emnlp.798/)] [Code under review]
+  [[PDF](https://aclanthology.org/2023.findings-emnlp.798/)] 
   
 
 
