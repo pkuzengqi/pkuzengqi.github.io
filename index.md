@@ -60,7 +60,7 @@ Greetings! I am Qi Zeng (曾琪). I am currently a Senior Research Scientist on 
 - **Automatic Prompt Engineering for Scalable Prompt Inversion in Text-to-Image Ad Generation**<br>
   Zixin Ding, <u>Qi Zeng</u>, Boying Gong, Wenlong Deng, Bo Pan, Yuxin Chen<br>
   [ACL 2026](https://2026.aclweb.org/) Industry Track <br>
-  [[PDF]()]
+  [[PDF](https://openreview.net/pdf?id=oVQy58oEpX)]
 
 
 - **Efficient Forward-Only Data Valuation for Pretrained LLMs and VLMs**<br>
