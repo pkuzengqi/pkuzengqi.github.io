@@ -55,6 +55,10 @@ Greetings! I am Qi Zeng (曾琪). I am currently a Senior Research Scientist on 
  \* means equal contribution.
 
 	
+- **Sharpening Tax in Post-Training**<br>
+  Changdae Oh, <u>Qi Zeng</u>, Qi Qi, Andrey Zhmoginov, Deren Lei, Yun He, Hoang Phan, Hangoo Kang, Azalia Mirhoseini, Sharon Li<br>
+  ArXiv <br>
+  [[PDF](https://arxiv.org/abs/2610.01509)] [[Project](https://changdaeoh.github.io/sharpening-tax/)]
 
 
 - **Automatic Prompt Engineering for Scalable Prompt Inversion in Text-to-Image Ad Generation**<br>
