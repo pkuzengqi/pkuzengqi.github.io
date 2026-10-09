@@ -64,7 +64,7 @@ Greetings! I am Qi Zeng (曾琪). I am currently a Senior Research Scientist on 
 - **MIMESIS: Learning User Simulators as Training Environments for Interactive Agents**<br>
   Hoang Phan, Dat Huynh,  Andrey Zhmoginov, <u>Qi Zeng</u>, Wancen Mu, Yue Cao, Shengjie Bi,  Yun He, Changdae Oh, Deren Lei<br>
   Arxiv <br>
-  [[PDF]([https://arxiv.org/abs/2610.01509](https://arxiv.org/abs/2610.09484))] 
+  [[PDF](https://arxiv.org/abs/2610.09484)] 
 
 
 - **Automatic Prompt Engineering for Scalable Prompt Inversion in Text-to-Image Ad Generation**<br>
