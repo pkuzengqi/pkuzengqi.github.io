@@ -127,7 +127,7 @@ Greetings! I am Qi Zeng (曾琪). I am currently a Senior Research Scientist on 
 
 - **EA$^2$E: Improving Consistency with Event Awareness for Document-level Argument Extraction**<br>
   <u>Qi Zeng</u>\*, Qiusi Zhan\*, Heng Ji<br>
-  [*NAACL 2022*](https://2022.naacl.org/) (Short Paper) <br>
+  [*NAACL 2022*](https://2022.naacl.org/)  <br>
   [[PDF](https://aclanthology.org/2022.findings-naacl.202/)] [[Code](https://github.com/ZQS1943/DOCIE)]
 
 
@@ -212,7 +212,7 @@ Greetings! I am Qi Zeng (曾琪). I am currently a Senior Research Scientist on 
 
 - **An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation** <br>
   Jingjing Xu\*, Liangchen Luo\*, Junyang Lin, <u>Qi Zeng</u>, Xu Sun <br>
-  [*EMNLP 2018*](https://emnlp2018.org/) (Short Paper) <br>
+  [*EMNLP 2018*](https://emnlp2018.org/)  <br>
   [[PDF](http://aclweb.org/anthology/D18-1075)] [[CODE](https://github.com/lancopku/AMM)] [[Poster](/files/EMNLP18-AEM-poster.pdf)]
 <!--   (Acceptance Rate 24.6%). -->
 
