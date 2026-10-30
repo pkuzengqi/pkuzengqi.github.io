@@ -3,7 +3,24 @@
 # About
 
 
-Greetings! I am Qi Zeng (曾琪). I am currently a Senior Research Scientist on the Meta AI post-training team at Meta MSL (Meta Superintelligence Labs). I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a better life.
+Greetings! I am Qi Zeng (曾琪). I am currently a Senior Research Scientist on the Muse post-training team at Meta MSL (Meta Superintelligence Labs). I work hard so my cats [Peanut Butter and Honey Butter](cat.md) can have a better life.
+
+
+<br>
+
+# Work Experience 
+[[LinkedIn](https://www.linkedin.com/in/qi-zeng-455026130/)]
+
+- **Meta MSL**, Senior Research Scientist, 2024 - now
+- **ByteDance Seed**, Research Scientist, 2024 - 2024
+- **Google DeepMind**, Research Intern, 2023 Summer
+- **Amazon**, Applied Scientist Intern, 2022 Summer
+- **Microsoft Research**, Research Intern, 2021 Summer
+- **Allen Institute for Artificial Intelligence (AI2)**, Research Intern, 2020 Summer
+- **ByteDance AI Lab**, Research Intern, 2019 Summer
+- **Microsoft Research Asia**, Research Intern, 2018 Spring
+- **Microsoft**, Machine Learning Engineer Intern, 2017 Spring
+
 
 
 <br>
@@ -24,23 +41,6 @@ Greetings! I am Qi Zeng (曾琪). I am currently a Senior Research Scientist on 
 
 
 <br>
-<br>
-
-# Work Experience 
-[[LinkedIn](https://www.linkedin.com/in/qi-zeng-455026130/)]
-
-- **Meta MSL**, Research Scientist, 2024 - now
-- **ByteDance Seed**, Research Scientist, 2024 Spring
-- **Google DeepMind**, Research Intern, 2023 Summer
-- **Amazon**, Applied Scientist Intern, 2022 Summer
-- **Microsoft Research**, Research Intern, 2021 Summer
-- **Allen Institute for Artificial Intelligence (AI2)**, Research Intern, 2020 Summer
-- **ByteDance AI Lab**, Research Intern, 2019 Summer
-- **Microsoft Research Asia**, Research Intern, 2018 Spring
-- **Microsoft**, Machine Learning Engineer Intern, 2017 Spring
-
-
-
 
 
 
