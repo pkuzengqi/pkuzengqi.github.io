@@ -58,13 +58,18 @@ Greetings! I am Qi Zeng (曾琪). I am currently a Senior Research Scientist on 
 	
 - **Sharpening Tax in Post-Training**<br>
   Changdae Oh, <u>Qi Zeng</u>, Qi Qi, Andrey Zhmoginov, Deren Lei, Yun He, Hoang Phan, Hangoo Kang, Azalia Mirhoseini, Sharon Li<br>
-  Arxiv <br>
+  Arxiv 2026 <br>
   [[PDF](https://arxiv.org/abs/2610.01509)] [[Project](https://changdaeoh.github.io/sharpening-tax/)]
 
 - **MIMESIS: Learning User Simulators as Training Environments for Interactive Agents**<br>
   Hoang Phan, Dat Huynh,  Andrey Zhmoginov, <u>Qi Zeng</u>, Wancen Mu, Yue Cao, Shengjie Bi,  Yun He, Changdae Oh, Deren Lei<br>
-  Arxiv <br>
+  Arxiv 2026 <br>
   [[PDF](https://arxiv.org/abs/2610.09484)] 
+
+- **Adaptive Personalization Under Preference Epistemic Uncertainty**<br>
+  Priyanka Dey, Raj Das, Julia Kruk, <u>Qi Zeng</u>, Vikas Bahirwani,  Qi Qi<br>
+  Arxiv 2026 <br>
+  [[PDF](https://arxiv.org/pdf/2610.40930v1)] 
 
 
 - **Automatic Prompt Engineering for Scalable Prompt Inversion in Text-to-Image Ad Generation**<br>
